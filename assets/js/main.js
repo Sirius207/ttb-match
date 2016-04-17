@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    // scroll smoothly
     $('a[href*=#]:not([href=#])').click(function() {
         if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
             var target = $(this.hash);
@@ -11,9 +12,8 @@ $(document).ready(function() {
             }
         }
     });
-    $('#top').parallax("50%", 0.6);
-    $('#prepare').parallax("50%", 0.3);
+    // parallax scrolling
+    $('#top').parallax("50%", 0.2);
     $(".button-collapse").sideNav();
-
 
 });
