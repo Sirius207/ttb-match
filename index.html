@@ -10,8 +10,8 @@
     <link href="" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="assets/css/main.css" />
-    <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 
@@ -19,14 +19,15 @@
     <nav>
         <div class="nav-wrapper" style="background-color:#AF0D21">
             <a href="#" class="brand-logo">
-                <!-- <i class="large material-icons">done_
-all</i> --></a>
-            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <!-- <i class="large material-icons">done_all</i> -->
+            </a>
+            <ul id="nav-mobile" class="waves-effect right hide-on-med-and-down  ">
                 <li><a href="#info">活動資訊</a></li>
                 <li><a href="#job">徵才訊息</a></li>
                 <li><a href="#map">交通方式</a></li>
                 <!-- <li><a href="#contact">聯絡我們</a></li> -->
             </ul>
+            <a href="#" data-activates="slide-out" class="button-collapse"><i class="small-icon material-icons">reorder</i></a>
         </div>
     </nav>
     <div class="sidebar">
@@ -47,13 +48,16 @@ all</i> --></a>
                 <br>無論你想來認識新朋友，還是想要找個好實習，5/7我們C-HUB見！
             </p>
             <br>
-            <a class="waves-effect waves-light btn" href="">立即報名</a>
+            <a class="waves-effect waves-light btn" href="https://docs.google.com/forms/d/1QaEEOE6BNNL6mMhpC6_6XRsT3ktWHZwBk6OJqsZrs6A/viewform?c=0&w=1">立即報名</a>
             <!-- <a class="waves-effect waves-light btn" href="">填寫回饋單</a> -->
             <!-- <a class="waves-effect waves-light btn" href="">心得分享</a> -->
             <a class="ca3-scroll-down-link ca3-scroll-down-arrow" data-ca3_iconfont="ETmodules" data-ca3_icon="" href="#info"></a>
         </div>
     </header>
-    <section id="info" class="head-padding ">
+    <section id="info" class="head-padding section scrollspy">
+        <!--  <svg id="bottomShape" width="100%" height="90px" fill="#f5f5f5" viewBox="0 0 1366 90" preserveAspectRatio="none">
+               <path d="m 0.274329,73.862183 1366,0 L 1366,9.3475355 900.35901,39.96681 -0.00563127,0.20494098 z" stroke-width="0" stroke-dasharray="none" stroke-miterlimit="4"></path>
+            </svg> -->
         <div class="container text-center">
             <h1 class="text-center ">活動資訊</h1>
             <p>【自己的機會由自己爭取】 成大首次針對學生，量身打造的實習媒合大展即將登場！
@@ -65,29 +69,72 @@ all</i> --></a>
             <a class="waves-effect waves-light btn" href="">立即報名</a>
         </div>
     </section>
-    <section id="job" class="head-padding ">
+    <svg id="topShape" width="100%" height="90px" fill="#AF0D21" viewBox="0 0 1366 90" preserveAspectRatio="none">
+        <path d="M 0.41421356,0.19566509 1366,0.05152333 1366,64.30153 550,26.30153 -0.03033009,73.726403" stroke-width="0" stroke-dasharray="none" stroke-miterlimit="4"></path>
+    </svg>
+    <section id="job" class="head-padding scroll section scrollspy">
         <div class="container">
             <h1 class="text-center slogan">徵才訊息</h1>
             <div class="row companys">
                 <script id='template' type='text/ractive'>
-                    {{#each company}}
+                    {{#each company:num}}
                     <div class="col s12 m3">
-                        <div class="card">
+                        <div class="card wow fadeInUp">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <img class="activator" src="{{logo}}">
                             </div>
-                            <div class="card-content">
-                                <span class="card-title activator grey-text text-darken-4">{{name}}
+                            <div class="card-content text-center">
+                                <span class="card-title activator grey-text text-darken-4 ">{{name}}
                                 </span>
-                                <h5 class="text-center"><a href="{{logo}}">More</a></h5>
                             </div>
                             <div class="card-reveal">
-                                <span class="card-title grey-text text-darken-4">實習生職缺
-                                <i class="material-icons right">close</i></span>
-                                <p>
-                                    {{#each interns}} {{ intern.title}} {{/each}}
-                                </p>
+                                <h5 class="card-title grey-text text-darken-4">
+                                <i class="material-icons right">close</i>{{name}}</h5>
+                                <ul>
+                                    <li><b>實習生職缺</b></li>
+                                    <br> {{#with interns}} {{#each intern}}
+                                    <li>{{title}}</li>
+                                    <br> {{/each}} {{/with}}
+                                </ul>
+                                <h5 class="text-center"><a class="modal-trigger" href="#modal{{num}}">More</a></h5>
                             </div>
+                        </div>
+                    </div>
+                    <!-- Modal Structure -->
+                    <div id="modal{{num}}" class="modal">
+                        <div class="modal-content">
+                            <h4>{{name}}</h4>
+                            <p>{{intro}}</p>
+                            <ul>
+                                <br>
+                                <h5><b>實習生職缺</b></h5>
+                                <br> {{#with interns}} {{#each intern}}
+                                <li>
+                                    <h6><b>{{title}}</b></h6>
+                                    <ul class="interns">
+                                        <li>職務內容: {{work}}</li>
+                                        <li>徵求條件: {{#with conditions}} {{#each sub-condition}}
+                                            <li>{{condition}}</li>
+                                            <br> {{/each}} {{/with}}
+                                        </li>
+                                        <li>面試事項: {{interview}}</li>
+                                        <li>是否給薪: {{pay}}</li>
+                                        <li>薪資: {{salary}}</li>
+                                        <li>備註: {{other}}</li>
+                                        <li>連繫對口:
+                                            <ul>
+                                                <li>{{contact.person}}</li>
+                                                <li>{{contact.phone}}</li>
+                                                <li>{{contact.mail}}</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <br> {{/each}} {{/with}}
+                            </ul>
+                        </div>
+                        <div class="modal-footer">
+                            <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Close</a>
                         </div>
                     </div>
                     {{/each}}
@@ -116,22 +163,35 @@ all</i> --></a>
         <div class="container">
             <h1 class="text-center slogan">主辦單位</h1>
             <div class="row">
-                <div class="col s6 m3 small-icon">
+                <div class="col s6 m4 small-icon">
                     <a href="https://www.facebook.com/nckuea/?fref=ts">
-                        <img src="assets/images/ea.jpg" alt="ea">
+                        <img class="logo" src="assets/images/ea.jpg" alt="ncku-ea">
                     </a>
                 </div>
-                <div class="col s6 m3">
+                <div class="col s6 m4 ">
+                    <a href="https://www.facebook.com/nckuea/?fref=ts">
+                        <img class="logo" src="assets/images/logo.png" alt="intern_net">
+                    </a>
+                </div>
+                <div class="col s6 m4">
                     <a href="https://www.facebook.com/chub.tainan/?fref=ts">
-                        <img src="assets/images/c-hub.png" alt="c-hub">
+                        <img class="logo" src="assets/images/c-hub.png" alt="c-hub">
                     </a>
                 </div>
-                <div class="col s6 m3">
+            </div>
+            <div class="row">
+                <div class="col s6 m4 text-center">
                     <a href="http://ttbic.rsh.ncku.edu.tw/bin/home.php">
-                        <img src="assets/images/ttb.png" alt="ttb">
+                        <img class="logo" src="assets/images/ttb.png" alt="ttb">
                     </a>
                 </div>
-                <div class="col s6 m3">
+                
+                <div class="col s6 m4 text-center">
+                    <a href="https://www.facebook.com/ccirdc/?fref=ts">
+                        <img id="small-logo" src="assets/images/ccirdc.jpg" alt="ccirdc">
+                    </a>
+                </div>
+                <div class="col s6 m4 text-center">
                     <a href="https://www.facebook.com/%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%B6%AF%E7%99%BC%E5%B1%95%E8%88%87%E5%B0%B1%E6%A5%AD%E8%BC%94%E5%B0%8E%E7%B5%84-122698837912938/?fref=ts">
                         <h5>成功大學生涯發展與就業輔導組</h5>
                     </a>
@@ -147,27 +207,18 @@ all</i> --></a>
             </div>
         </div>
     </footer>
-    </style>
     <script src="https://code.jquery.com/jquery-2.1.4.js "></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js "></script>
-    <script src="assets/js/main.js "></script>
     <script src="assets/js/jquery.localscroll-1.2.7-min.js "></script>
     <script src="assets/js/jquery.parallax-1.1.3.js "></script>
     <script src="assets/js/jquery.scrollTo-1.4.2-min.js "></script>
     <script src="assets/js/jquery.xml2json.js" type="text/javascript" language="javascript"></script>
+    <script src="assets/js/main.js "></script>
     <script src='http://cdn.ractivejs.org/latest/ractive.min.js'></script>
-    <p id="demo"></p>
+    <script src="assets/js/wow.min.js"></script>
     <script>
-    $.get("/ttb-match/assets/companys.xml", function(xml) {
-        var companys = $.xml2json(xml);
-        var ractive = new Ractive({
-            el: '.companys',
-            template: '#template',
-            data: {
-                company: companys.company,
-            }
-        });
-    });
+    new WOW().init();
+    $('.modal-trigger').leanModal();
     </script>
 </body>
 

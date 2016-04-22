@@ -1,3 +1,4 @@
+/*reset css*/
 html,
 body,
 div,
@@ -168,6 +169,15 @@ body {
     line-height: normal;
 }
 
+.mask {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 50px;
+}
+
+
+
+/*components*/
+
 nav {
     position: fixed;
     z-index: 10;
@@ -175,10 +185,6 @@ nav {
 
 nav i {
     margin-left: 15px;
-}
-
-.side-nav {
-    width: 120px !important;
 }
 
 .nav-wrapper {
@@ -230,15 +236,47 @@ nav i {
     margin-top: 20px;
 }
 
-.icon img {
-    width: 80%;
+#bottomShape{
+    background-color: #AF0D21;
+    margin-top:-55px;
+    position: relative;
+    z-index: 5;
+}
+
+#topShape {
+    margin-top: -5px;
 }
 
 #job {
     background: url(../images/bg.jpg) repeat center center fixed;
 }
 
-#prepare {
+.card{
+    height:300px;
+    font-family: arial;
+}
+.card .card-image img{
+    max-height: 220px;
+}
+.card:hover {
+    box-shadow: 0 0px 8px 0 #Af0d21;
+}
+
+
+
+.interns li {
+    margin-top: 10px;
+}
+
+.modal {
+    max-height: 85% !important;
+}
+
+.modal-content {
+    line-height: 25px;
+}
+
+/*#prepare {
     background: url(../images/people-woman-coffee-meeting.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -254,7 +292,7 @@ nav i {
     color: white;
     text-shadow: 1px 1px 0 black;
 }
-
+*/
 #map {
     background: url(../images/c-hub.jpg) no-repeat center center fixed;
     box-shadow: 0px 0px 0px 2px rgba(0, 0, 0, 0.16);
@@ -273,15 +311,13 @@ nav i {
     opacity: 1;
     width: 100%;
 }
-
-.mask {
-    background-color: rgba(0, 0, 0, 0.7);
-    padding: 50px;
-}
-
-#host img {
+.logo{
     width: 100%;
 }
+#small-logo{
+    width:60%;
+}
+
 
 footer {
     background-color: black;
@@ -289,7 +325,7 @@ footer {
     color: white;
     /*height: 50px;*/
     margin-top: 30px;
-    padding-top: 10px;
+    padding: 5px;
 }
 
 footer a {
@@ -303,7 +339,7 @@ footer .row {
 }
 
 
-/* down arrow icon*/
+/*Scroll Down arrow icon Copyright (c) 2015 Peter McGriff*/
 
 html body [data-ca3_iconfont="ETmodules"]::before {
     font-family: "ETmodules";

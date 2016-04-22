@@ -1,4 +1,39 @@
 $(document).ready(function() {
+    side_nav();
+    parallax_scroll();
+    ractive_init(function() {
+        modal();
+    });
+    // $('.scrollspy').scrollSpy();
+});
+
+function ractive_init(callback) {
+    $.get("/ttb-match/assets/companys.xml", function(xml) {
+        var companys = $.xml2json(xml);
+        var ractive = new Ractive({
+            el: '.companys',
+            template: '#template',
+            data: {
+                company: companys.company
+            }
+        });
+        callback();
+    });
+};
+
+function modal() {
+    $('.modal-trigger').leanModal();
+};
+
+function side_nav(){
+    $('.button-collapse').sideNav({
+        menuWidth: 120,
+        edge: 'left',
+    });
+};
+
+// parallax scrolling
+function parallax_scroll(){
     // scroll smoothly
     $('a[href*=#]:not([href=#])').click(function() {
         if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -12,8 +47,6 @@ $(document).ready(function() {
             }
         }
     });
-    // parallax scrolling
     $('#top').parallax("50%", 0.2);
-    $(".button-collapse").sideNav();
-
-});
+    $('#job').parallax("50%", 0.1);
+}
