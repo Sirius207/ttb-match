@@ -275,9 +275,6 @@ nav i {
     float: right;
 }
 
-.card ul {
-    margin-top: 15px;
-}
 
 .card .card-image img {
     max-height: 220px;
@@ -286,7 +283,7 @@ nav i {
 .card_line {
     border-width: 1px 0 1px 0;
     border-style: solid;
-    padding: 5px;
+    padding: 3px;
 }
 
 .title {

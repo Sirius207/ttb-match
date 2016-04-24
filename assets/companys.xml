@@ -130,7 +130,9 @@
                     <mail>redefinetourismmixer@gmail.com</mail>
                 </contact>
             </intern>
-             <intern><check>none</check></intern>
+            <intern>
+                <check>none</check>
+            </intern>
         </interns>
     </company>
     <company>
@@ -204,7 +206,9 @@
                     <mail>york36a@gmail.com</mail>
                 </contact>
             </intern>
-            <intern><check>none</check></intern>
+            <intern>
+                <check>none</check>
+            </intern>
         </interns>
     </company>
     <company>
@@ -232,7 +236,9 @@
                     <mail>mocoobook@gmail.com</mail>
                 </contact>
             </intern>
-             <intern><check>none</check></intern>
+            <intern>
+                <check>none</check>
+            </intern>
         </interns>
     </company>
     <company>
@@ -259,7 +265,9 @@
                     <mail>jjmc.adm@gmail.com</mail>
                 </contact>
             </intern>
-            <intern><check>none</check></intern>
+            <intern>
+                <check>none</check>
+            </intern>
         </interns>
     </company>
     <company>
@@ -447,7 +455,9 @@
                     <mail>service@nonsenseworkshop.com</mail>
                 </contact>
             </intern>
-            <intern><check>none</check></intern>
+            <intern>
+                <check>none</check>
+            </intern>
         </interns>
     </company>
     <company>
@@ -478,7 +488,9 @@
                     <mail>gege39th@gmail.com</mail>
                 </contact>
             </intern>
-            <intern><check>none</check></intern>
+            <intern>
+                <check>none</check>
+            </intern>
         </interns>
     </company>
     <company>
@@ -510,7 +522,9 @@
                     <mail>gege39th@gmail.com</mail>
                 </contact>
             </intern>
-            <intern><check>none</check></intern>
+            <intern>
+                <check>none</check>
+            </intern>
         </interns>
     </company>
     <company>
@@ -543,7 +557,9 @@
                     <mail>gege39th@gmail.com</mail>
                 </contact>
             </intern>
-            <intern><check>none</check></intern>
+            <intern>
+                <check>none</check>
+            </intern>
         </interns>
     </company>
     <company>
@@ -572,7 +588,9 @@
                     <mail>gege39th@gmail.com</mail>
                 </contact>
             </intern>
-            <intern><check>none</check></intern>
+            <intern>
+                <check>none</check>
+            </intern>
         </interns>
     </company>
     <!--  <company>
@@ -657,7 +675,7 @@
     <company>
         <ID>19</ID>
         <type>電商平台</type>
-        <name>Wargaming</name>
+        <name>戰遊網</name>
         <eng-name></eng-name>
         <intro>Wargaming 是線上遊戲開發暨發行商，曾榮獲多項大獎，在免費大型多人線上遊戲市場據重要地位。自 1998 年成立至今已推出超過 15 款產品，Wargaming 目前專注研發以二十世紀中期戰爭為主題的大型多人線上戰爭遊戲系列，其中包括 Wargaming 的代表性大作《戰車世界》（World of Tanks），另外還有以空戰為題材的《戰機世界》（World of Warplanes），及預計 2015 年推出，以海戰為題材的《戰艦世界》（World of Warships）。而 Wargaming.net Service 則將各系列作品統合於同一個入口，提供完整的線上服務：www.wargaming.net 為了強化多平台的遊戲產品陣容，Wargaming也導入了《戰車世界：Xbox 360 版》（World of Tanks Xbox 360 Edition）和《戰車世界：閃擊戰》（World of Tanks Blitz）。《戰車世界：Xbox 360 版》於2014年推出，把經典的戰車對戰元素帶給家用主機玩家，而行動平台大型多人線上遊戲《戰車世界：閃擊戰》則是把Wargaming招牌的團隊軍事遊戲帶給全世界的智慧型手機和平板電腦玩家。 簡介 當你人生第一次接觸到遊戲的時候，是否覺得怦然心動且這個產業的幕前幕後有著無與倫比的興趣？當你看到來自台灣的玩家站在世界的舞台上，舉起金盃的那一刻，是否也想成為這個龐大娛樂產業的一份子？你願意花這麼多的時間窩在自己的電腦以及遊戲主機前面體驗與欣賞這些成果的同時，有沒有思考過這一切是如何發生的？ Wargaming相信，當你花上一年的時間來了解、認識這個遊戲產業，當你在未來再次坐在電腦前面打開遊戲的時候，你會有截然不同的感受。踏入這個令人嚮往的世界，第一步將從這裡開始！這裡不僅僅讓你學習遊戲產業中更深度的相關知識，並且讓你有非常多的機會體驗到一般玩家所體驗不到的事物。 透過完整的學習與體驗，以及 Wargaming 實習生計畫的另一大特色，就是「良師益友」制度，每個實習生都會有對應的正職員工擔任導師。這位「良師益友」不僅在職場上給予實習生建議與指導，也會與實習生分享生活經驗。 而Wargaming首屆實習生計畫不僅號召台灣同仁參與，更有亞洲區總部（新加坡）的同仁跨海支援，全公司全力支援實習同學的用心，由此可見一斑。此外實習生除可領取 Wargaming 認證的實習證書，更有機會在實習的最後一個季度提案爭取實作機會，為自己未來的履歷增添更亮眼的成績。若要了解更多Wargaming實習生計畫相關資訊，請造訪：http://wg-intern.tw/
         </intro>
@@ -665,12 +683,14 @@
         <logo>assets/images/logo/wargaming.jpg</logo>
         <interns>
             <intern>
-                <intern_id>20</intern_id>
-                <title></title>
-                <work></work>
-                <condition_1>
+                <intern_id>1</intern_id>
+                <title>電競助理</title>
+                <work>每場比賽背後總有一群默默推手。如何使規則及電競賽事安排更完善，選手可以更專心練習是這份工作中最重要的部分。這份工作需要較長的時間，在晚上和假日時執行賽事，但相對的工作時間較為彈性，並有非常多的機會接觸到一線的知名選手。
+                </work>
+                <condition_1> 對電競具熱忱，能配合公司工作時間
                 </condition_1>
-                <interview></interview>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
                 <pay></pay>
                 <salary></salary>
                 <other>不參加實體媒合會</other>
@@ -680,7 +700,99 @@
                     <mail></mail>
                 </contact>
             </intern>
-            <intern><check>none</check></intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>公關助理</title>
+                <work>公司對外形象最重要的職位，維持 Wargaming 在消費者與社會上的良好關係。能夠經營媒體，提升 Wargaming 的品牌的價值及觀感。
+                </work>
+                <condition_1>對接觸人群具熱忱，對於品牌價值打造有興趣
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay></pay>
+                <salary></salary>
+                <other>不參加實體媒合會</other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>3</intern_id>
+                <title>社群助理
+                </title>
+                <work>透過各種方式，尋找遊戲社群的認同感，並將你的想法植入社群中。學習如何成為能夠影響社群和領導社群的幕後推手。</work>
+                <condition_1>對電競具熱忱，能配合公司工作時間
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay></pay>
+                <salary></salary>
+                <other>不參加實體媒合會</other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>4</intern_id>
+                <title>影音編輯助理
+                </title>
+                <work>從字幕編排到完成一段影片，你的作品將牽動著玩家，而製作出這些精彩作品的幕後人員是產業內不可或缺的角色。若你對於影片製作以及剪接有著極大的興趣，這份工作絕對不會讓你失望。
+                </work>
+                <condition_1>對電競具熱忱，能配合公司工作時間
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay></pay>
+                <salary></salary>
+                <other>不參加實體媒合會</other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>5</intern_id>
+                <title>內容編輯助理
+                </title>
+                <work>官方網站的門面，玩家的第一印象，遊戲內容的文字化妝師。文學的心靈、筆觸、辭藻，對文字運用一絲不苟又能感情奔放。
+                </work>
+                <condition_1> 對外語有興趣，喜歡閱讀、翻譯；若是想要自己的文字出現在 Wargaming 旗下各遊戲的官方網站，或是對於網站經營管理有莫大的喜好，那麼這麼位子就是為你準備的！
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay></pay>
+                <salary></salary>
+                <other>不參加實體媒合會</other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>6</intern_id>
+                <title>行銷企劃
+                </title>
+                <work>助遊戲市場行銷企劃以及執行，學習產業相關資訊，提升提案執行和推廣的效果的效率。喜好研究市場、接觸了解人群。這份工作將滿足你的好奇心。如何寫一份完整表達自己想法的提案，如何執行自己發想的專案，將是未來一年中的重要考題。工作需於周末協助活動執行，從旁學習產業內運作模式。
+                </work>
+                <condition_1>對電競具熱忱，能配合公司工作時間
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay></pay>
+                <salary></salary>
+                <other>不參加實體媒合會</other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                </contact>
+            </intern>
         </interns>
     </company>
     <company>
