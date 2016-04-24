@@ -18,13 +18,15 @@
 <body>
     <nav>
         <div class="nav-wrapper" style="background-color:#AF0D21">
-            <a href="#" class="brand-logo">
+            <a href="#top" class="brand-logo">
                 <!-- <i class="large material-icons">done_all</i> -->
+                <img src="assets/images/logo_s.png" alt="">
             </a>
             <ul id="nav-mobile" class="waves-effect right hide-on-med-and-down  ">
-                <li><a href="#info">活動資訊</a></li>
+                <li><a href="#info">活動介紹</a></li>
                 <li><a href="#job">徵才訊息</a></li>
                 <li><a href="#map">交通方式</a></li>
+                <li><a href="http://startup.ncku.edu.tw/">回首頁</a></li>
                 <!-- <li><a href="#contact">聯絡我們</a></li> -->
             </ul>
             <a href="#" data-activates="slide-out" class="button-collapse"><i class="small-icon material-icons">reorder</i></a>
@@ -32,16 +34,17 @@
     </nav>
     <div class="sidebar">
         <ul id="slide-out" class="side-nav">
-            <li><a href="#info">活動資訊</a></li>
+            <li><a href="#info">活動介紹</a></li>
             <li><a href="#job">徵才訊息</a></li>
             <li><a href="#map">交通方式</a></li>
+            <li><a href="http://startup.ncku.edu.tw/">回首頁</a></li>
             <!-- <li><a href="#contact">聯絡我們</a></li> -->
         </ul>
     </div>
-    <header id="top">
+    <header id="top" class="top">
         <div class="image-mask text-vertical-center ">
-            <h2>2016 實習媒合會</h2>
-            <p class="line-height">【自己的機會由自己爭取】 成大首次針對學生，量身打造的實習媒合大展即將登場！
+            <h2 class="web-title">2016<br>實習媒合會</h2>
+            <p>【自己的機會由自己爭取】 成大首次針對學生，量身打造的實習媒合大展即將登場！
                 <br>
                 <br>打破傳統擺攤的制式氛圍，以開放空間、自由交流為主的輕鬆導向，加上橫跨多元產業的不同選擇～
                 <br>
@@ -54,73 +57,143 @@
             <a class="ca3-scroll-down-link ca3-scroll-down-arrow" data-ca3_iconfont="ETmodules" data-ca3_icon="" href="#info"></a>
         </div>
     </header>
-    <section id="info" class="head-padding section scrollspy">
+    <section id="info" class="info head-padding section scrollspy main_view">
         <!--  <svg id="bottomShape" width="100%" height="90px" fill="#f5f5f5" viewBox="0 0 1366 90" preserveAspectRatio="none">
                <path d="m 0.274329,73.862183 1366,0 L 1366,9.3475355 900.35901,39.96681 -0.00563127,0.20494098 z" stroke-width="0" stroke-dasharray="none" stroke-miterlimit="4"></path>
             </svg> -->
         <div class="container text-center">
-            <h1 class="text-center ">活動資訊</h1>
-            <p>【自己的機會由自己爭取】 成大首次針對學生，量身打造的實習媒合大展即將登場！
-                <br>
-                <br>打破傳統擺攤的制式氛圍，以開放空間、自由交流為主的輕鬆導向，加上橫跨多元產業的不同選擇～
-                <br>
-                <br>無論你想來認識新朋友，還是想要找個好實習，5/7我們C-HUB見！
+            <h1 class="text-center ">活動介紹</h1>
+            <p class="text-left content_line_height">實習媒合會? 學校不是已經有很多實習說明會了嗎? 這是個怎麼樣的活動呢?
+                <br> 這次的實習媒合會，不同於學校邀請的重量級大公司、外商，大都提供暑假實習，我們請來了22間台南、高雄的公司，讓同學在學期間尋找實習也能有所管道。若你對我們所提供的廠商非常有興趣，可以好好地利用媒合會的場合，認識他所提供的實習生規劃與公司發展，甚至當面遞交履歷表應徵；如果你對我們的廠商暫時沒有興趣，也可以來看看，之後每學期我們會陸續舉辦，且慢慢增加來自不同領域的公司與職缺。
             </p>
-            <a class="waves-effect waves-light btn" href="">立即報名</a>
+            <!-- <a class="waves-effect waves-light btn" href="">立即報名</a> -->
         </div>
     </section>
-    <svg id="topShape" width="100%" height="90px" fill="#AF0D21" viewBox="0 0 1366 90" preserveAspectRatio="none">
+    <svg id="topShape" class="topShape" width="100%" height="90px" fill="#AF0D21" viewBox="0 0 1366 90" preserveAspectRatio="none">
         <path d="M 0.41421356,0.19566509 1366,0.05152333 1366,64.30153 550,26.30153 -0.03033009,73.726403" stroke-width="0" stroke-dasharray="none" stroke-miterlimit="4"></path>
     </svg>
-    <section id="job" class="head-padding scroll section scrollspy">
+    <section id="about" class="about head-padding ">
+        <div class="container">
+            <h1 class="text-center slogan">為什麼我們需要媒合會？</h1>
+            <div class="row">
+                <div class="col s12 m4">
+                    <h5>機會、資訊、經驗的分享與取得更加容易</h5>
+                    <p class="content_line_height">在自己找實習的時候，因為各家公司的實習機會多公布於自己的於自己的公司管道，因此會需要自己一個一個的去不同的管道來找到自己有興趣的公司與實習職位。而本次媒合會便是邀請來自台南與高雄的22間廠商來到成大，讓同學們在實習媒合會便可以一次性的了解各家廠商的資訊和各式各樣的機會。
+                        <br>
+                        <br>
+                    </p>
+                </div>
+                <div class="col s12 m4">
+                    <h5>擁有更好的比較基準</h5>
+                    <p class="content_line_height">透過實習媒合會，同學可以直接的在會場中親身的體驗與接觸到公司的人員，可以直接的詢問公司的人員，來更了解到公司的文化與他們所提供的職缺的實質內容會是什麼。同時也可以透過實習媒合會的機會來比較多家不同的公司與實習機會，挑選出最適合自己嘗試的實習機會與職缺。
+                        <br>
+                        <br>
+                    </p>
+                </div>
+                <div class="col s12 m4">
+                    <h5>增加實體接觸的時間與機會</h5>
+                    <p class="content_line_height"> 一般來說，除了與系所合作的公司或系上選課要求，大部分的人實習都是自己找的，而自己找通常會不知道哪裡找、不知道哪個好，自己找會勢單力薄，多人找更有bargain power更可以比較，當我們把有開實習缺的公司都找來時，自己也可以多方選擇適合的公司，從一(學生)對一(公司)不一定有機會、變成一對多(公司)多選擇、有機會!
+                        <br>
+                        <br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <svg id="bottomShape" class="importance_head" width="100%" height="90px" fill="#AF0D21" viewBox="0 0 1366 90" preserveAspectRatio="none">
+        <path d="m 0.274329,73.862183 1366,0 L 1366,9.3475355 900.35901,39.96681 -0.00563127,0.20494098 z" stroke-width="0" stroke-dasharray="none" stroke-miterlimit="4"></path>
+    </svg>
+    <section id="importance" class="importance info head-padding main_view">
+        <div class="container">
+            <h1 class="text-center">重要性</h1>
+            <div class="row">
+                <div class="col s12 m6">
+                    <h5>對南部各校的重要性</h5>
+                    <p class="content_line_height">
+                        那本次的實習媒合會對成大學生或是說對南部學生的重要性是什麼呢？
+                        <br> 成大學生，不，應該說大學生，讀書的目的除了學術之外便是進入職場了，倘若你會因為你知道你要讀的大學會經歷四年而認真分析哪個學校、哪個科系很棒，那為什麼你會覺得會佔去你一大半人生的"工作"不會需要更多時間來研究?找到自己喜歡的工作、有興趣的領域，除了靠詢問有經驗的學長姐之外，更重要的是自己實際體驗，而體驗的最佳方式便是實習，這也是為什麼InternNet一直致力於推廣實習的原因。
+                        <br>
+                        <br>
+                    </p>
+                </div>
+                <div class="col s12 m6">
+                    <h5>實習對未來的重要性</h5>
+                    <p class="content_line_height">
+                        那到底實習對於我的未來的重要性在哪裡呢？
+                        <br> 實習，是一種在畢業前可以提前與社會接觸，了解社會運作方式，是大學時期很重要的學習契機。同時可以提前進入自己有興趣的公司，來嘗試這樣的工作模式與公司文化是不是自己想要的或是不是自己能接受的。這樣的機會，對於未來職涯發展的選擇，有了更多參考的選項。
+                        <br>
+                        <br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="job" class="job head-padding scroll section scrollspy">
         <div class="container">
             <h1 class="text-center slogan">徵才訊息</h1>
             <div class="row companys">
                 <script id='template' type='text/ractive'>
                     {{#each company:num}}
                     <div class="col s12 m3">
-                        <div class="card wow fadeInUp">
-                            <div class="card-image waves-effect waves-block waves-light">
-                                <img class="activator" src="{{logo}}">
-                            </div>
-                            <div class="card-content text-center">
-                                <span class="card-title activator grey-text text-darken-4 ">{{name}}
-                                </span>
+                        <div class="card wow fadeInUp slogan">
+                            <div class="row">
+                                <div class="col s4 m12 card-image waves-effect waves-block waves-light">
+                                    <img class="activator" src="{{logo}}">
+                                </div>
+                                <div class="col s8 m12 card-content text-center">
+                                    <h7>{{type}}</h7>
+                                    <h5 class=" activator card_line title">{{name}}
+                                </h5>
+                                    <h5 class="text-center more mobile"><a class="modal-trigger" href="#modal{{num}}">More</a></h5>
+                                </div>
                             </div>
                             <div class="card-reveal">
-                                <h5 class="card-title grey-text text-darken-4">
-                                <i class="material-icons right">close</i>{{name}}</h5>
-                                <ul>
-                                    <li><b>實習生職缺</b></li>
-                                    <br> {{#with interns}} {{#each intern}}
-                                    <li>{{title}}</li>
-                                    <br> {{/each}} {{/with}}
-                                </ul>
-                                <h5 class="text-center"><a class="modal-trigger" href="#modal{{num}}">More</a></h5>
+                                <h5 class="card-title grey-text text-darken-4 card_bottom_line">
+                                <i class="material-icons ">close</i>{{name}}</h5>
+                                <div class="row">
+                                    <div class="col s12 m12">
+                                        <ul>
+                                            <li><b>實習生職缺</b></li>
+                                            <br> {{#with interns}} {{#each intern:num}}
+                                            <li>{{intern_id}}. {{title}}</li>
+                                            <br> {{/each}} {{/with}}
+                                        </ul>
+                                    </div>
+                                    <div class="col s12 m12">
+                                        <h5 class="text-center card_line more"><a class="modal-trigger" href="#modal{{num}}">More</a></h5>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <!-- Modal Structure -->
-                    <div id="modal{{num}}" class="modal">
+                    <div id="modal{{num}}" class="modal slogan">
                         <div class="modal-content">
                             <h4>{{name}}</h4>
                             <p>{{intro}}</p>
+                            <br>
+                            <p>詳細介紹: <a href="{{website}}">{{name}}</a></p>
                             <ul>
                                 <br>
                                 <h5><b>實習生職缺</b></h5>
-                                <br> {{#with interns}} {{#each intern}}
+                                <br> {{#with interns}} {{#each intern:num}}
                                 <li>
-                                    <h6><b>{{title}}</b></h6>
+                                    <h6><b>{{intern_id}}. {{title}}</b></h6>
                                     <ul class="interns">
-                                        <li>職務內容: {{work}}</li>
-                                        <li>徵求條件: {{#with conditions}} {{#each sub-condition}}
-                                            <li>{{condition}}</li>
-                                            <br> {{/each}} {{/with}}
-                                        </li>
-                                        <li>面試事項: {{interview}}</li>
+                                        <li>職務內容: <p>{{work}}</p></li><br>
+                                        <li>徵求條件:
+                                            <ul>
+                                                <li>{{condition_1}}</li>
+                                                <li>{{condition_2}}</li>
+                                                <li>{{condition_3}}</li>
+                                                <li>{{condition_4}}</li>
+                                                <li>{{condition_5}}</li>
+                                            </ul>
+                                        </li><br>
+                                        <li>面試事項: <p>{{interview}}</p></li>
                                         <li>是否給薪: {{pay}}</li>
                                         <li>薪資: {{salary}}</li>
-                                        <li>備註: {{other}}</li>
+                                        <li>備註: {{other}}</li><br>
                                         <li>連繫對口:
                                             <ul>
                                                 <li>{{contact.person}}</li>
@@ -133,8 +206,8 @@
                                 <br> {{/each}} {{/with}}
                             </ul>
                         </div>
-                        <div class="modal-footer">
-                            <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+                        <div class="modal-footer text-center">
+                            <a href="#!" class=" modal-action modal-close ">Close</a>
                         </div>
                     </div>
                     {{/each}}
@@ -142,15 +215,13 @@
             </div>
         </div>
     </section>
-    <section id="map">
-        <div class="mask">
-            <div class="test container text-center">
-                <h1>交通方式</h1>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.618168747916!2d120.21255875001148!3d23.001064322830807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76f2f1bd2d07%3A0x4ee1294bdea210aa!2zQy1IdWIg5oiQ5aSn5Ym15oSP5Z-65Zyw!5e0!3m2!1szh-TW!2stw!4v1460115202248" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                <br>
-                <br>
-                <h5 class="text-center">5/7  期待與您見面~</h5>
-            </div>
+    <section id="map" class="map">
+        <div class="mask text-center wow fadeIn">
+            <h1>交通方式</h1>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.618168747916!2d120.21255875001148!3d23.001064322830807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e76f2f1bd2d07%3A0x4ee1294bdea210aa!2zQy1IdWIg5oiQ5aSn5Ym15oSP5Z-65Zyw!5e0!3m2!1szh-TW!2stw!4v1460115202248" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <br>
+            <br>
+            <h5 class="text-center">5/7  期待與您見面~</h5>
         </div>
     </section>
     <!--  <section id="contact" class="head-padding ">
@@ -159,7 +230,7 @@
             <p></p>
         </div>
     </section> -->
-    <section id="host">
+    <section id="host" class="host">
         <div class="container">
             <h1 class="text-center slogan">主辦單位</h1>
             <div class="row">
@@ -170,7 +241,7 @@
                 </div>
                 <div class="col s6 m4 ">
                     <a href="https://www.facebook.com/nckuea/?fref=ts">
-                        <img class="logo" src="assets/images/logo.png" alt="intern_net">
+                        <img class="logo" src="assets/images/intern_logo2.png" alt="intern_net">
                     </a>
                 </div>
                 <div class="col s6 m4">
@@ -185,15 +256,15 @@
                         <img class="logo" src="assets/images/ttb.png" alt="ttb">
                     </a>
                 </div>
-                
                 <div class="col s6 m4 text-center">
-                    <a href="https://www.facebook.com/ccirdc/?fref=ts">
-                        <img id="small-logo" src="assets/images/ccirdc.jpg" alt="ccirdc">
+                    <a href="https://www.facebook.com/%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%B6%AF%E7%99%BC%E5%B1%95%E8%88%87%E5%B0%B1%E6%A5%AD%E8%BC%94%E5%B0%8E%E7%B5%84-122698837912938/?fref=ts">
+                        <img class="small-logo" src="assets/images/logo/ncku.png" alt="ncku">
+                        <h5>成功大學生涯發展與就業輔導組</h5>
                     </a>
                 </div>
                 <div class="col s6 m4 text-center">
-                    <a href="https://www.facebook.com/%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%B6%AF%E7%99%BC%E5%B1%95%E8%88%87%E5%B0%B1%E6%A5%AD%E8%BC%94%E5%B0%8E%E7%B5%84-122698837912938/?fref=ts">
-                        <h5>成功大學生涯發展與就業輔導組</h5>
+                    <a href="https://www.facebook.com/ccirdc/?fref=ts">
+                        <img class="small-logo" src="assets/images/ccirdc.jpg" alt="ccirdc">
                     </a>
                 </div>
             </div>
@@ -203,7 +274,7 @@
         <div class="row">
             <div class="col s6 m6">
                 <a class="grey-text text-lighten-4 left" href="https://www.facebook.com/nckuea/?fref=ts">© 2016 NCKU EA,</a>
-                <a class="grey-text text-lighten-4 left " href="http://web.ccns.ncku.edu.tw ">Designed: CCNS</a>
+                <a class="grey-text text-lighten-4 left " href="https://www.facebook.com/ncku.ccns/">Designed: CCNS</a>
             </div>
         </div>
     </footer>

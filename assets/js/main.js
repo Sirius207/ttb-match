@@ -9,7 +9,10 @@ $(document).ready(function() {
 
 function ractive_init(callback) {
     $.get("/ttb-match/assets/companys.xml", function(xml) {
-        var companys = $.xml2json(xml);
+        var obj_companys = $.xml2json(xml);
+        var stringified = JSON.stringify(obj_companys);
+        stringified = stringified.replace(/[\r\n\t]/g,"<br/>");
+        var companys = JSON.parse(stringified);
         var ractive = new Ractive({
             el: '.companys',
             template: '#template',

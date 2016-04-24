@@ -2,6 +2,7 @@
 <companys>
     <company>
         <ID>1</ID>
+        <type>科技新創</type>
         <name>凱鈿行動科技
         </name>
         <eng-name>Kdan Mobile Software Ltd.</eng-name>
@@ -13,11 +14,7 @@
                 <intern_id>1</intern_id>
                 <title>行銷助理</title>
                 <work>協助製作產品操作手冊， 協助客服， 經營用戶關係</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>具備英語能力， 需提供英文能力證明</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>具備英語能力， 需提供英文能力證明</condition_1>
                 <interview>5 / 12 由凱鈿行動科技公司通知</interview>
                 <pay>是</pay>
                 <salary> 薪資： 150 / 小時</salary>
@@ -32,20 +29,10 @@
                 <intern_id>2</intern_id>
                 <title>設計助理</title>
                 <work>處理產品上線相關媒體內容、 平面設計、 影片剪輯</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>平面設計相關軟體熟悉 Photoshop.illustrator</condition>
-                    </sub-condition>
-                    <sub-condition>
-                        <condition>想學習介面規劃與產品開發流程</condition>
-                    </sub-condition>
-                    <sub-condition>
-                        <condition>對使用者具備同理心</condition>
-                    </sub-condition>
-                    <sub-condition>
-                        <condition>能融入大團體</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>a. 平面設計相關軟體熟悉 Photoshop.illustrator</condition_1>
+                <condition_2>b. 想學習介面規劃與產品開發流程</condition_2>
+                <condition_3>c. 對使用者具備同理心</condition_3>
+                <condition_4>d. 能融入大團體</condition_4>
                 <interview>5 / 12 由凱鈿行動科技公司通知</interview>
                 <pay>是</pay>
                 <salary>薪資： 150 / 小時</salary>
@@ -60,22 +47,21 @@
     </company>
     <company>
         <ID>2</ID>
+        <type>科技新創</type>
         <name>南星創速器</name>
         <eng-name>Sourth Star Xelerator</eng-name>
         <intro>南星創速器SSX 關注高潛力的科技型創業團隊，鎖定的領域包含智能硬體、醫療健康和互聯網應用等三大主軸。SSX 提供初期新創團隊，育成輔導以及直接或間接的天使投資(Angel)等資源，並協助團隊至海內外市場的軟著陸。在後期，則協助規劃團隊的風險投資(Venture Capital)、私募基金(Private Equity)及投資銀行(Investment Banking)的媒合與募資。</intro>
         <website>http://www.ssxelerator.com/</website>
-        <logo>assets/images/logo/ssx.jpg</logo>
+        <logo>assets/images/logo/ssx.png</logo>
         <interns>
             <intern>
                 <intern_id>1</intern_id>
                 <title>網站開發實習生</title>
                 <work>根據專案需求開發網站，含網站前端與後端開發。 網站前端，主要負責設計與開發使用者介面與內容呈現的流動布局，以求用戶在網站中得到良好的使用體驗。網站後端主要負責設計與開發網站所需要的功能(如購物車、聊天室、論壇發文回文等等)與資料存取(新增、編輯、刪除、更新等功能)。
                 </work>
-                <conditions>
-                    <sub-condition>
-                        <condition>具備任一上述技能，[網站前端] HTML5/Javascript/jQuery/RWD CSS template, 如 bootstrap [網站後端] PHP/Mysql or Microsoft SQL Server Driver for PHP</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>
+                    具備任一上述技能，[網站前端] HTML5/Javascript/jQuery/RWD CSS template, 如 bootstrap [網站後端] PHP/Mysql or Microsoft SQL Server Driver for PHP
+                </condition_1>
                 <interview>由公司電郵通知</interview>
                 <pay>是</pay>
                 <salary>面議</salary>
@@ -90,11 +76,7 @@
                 <intern_id>2</intern_id>
                 <title>廣告製作與投放實習生</title>
                 <work>廣告素材制訂、企畫撰寫、FB/Google 廣告投放</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>對行銷領域有研究或興趣者為佳。</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>對行銷領域有研究或興趣者為佳。</condition_1>
                 <interview>由公司電郵通知</interview>
                 <pay>是</pay>
                 <salary>面議</salary>
@@ -109,11 +91,7 @@
                 <intern_id>3</intern_id>
                 <title>行銷實習生</title>
                 <work>行銷活動企劃與執行，產業外部宣傳</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>創造力、想像力、社群的熱情，具撰寫專案能力及企劃經驗者佳（詳請附上作品）</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>創造力、想像力、社群的熱情，具撰寫專案能力及企劃經驗者佳（詳請附上作品）</condition_1>
                 <interview>由公司電郵通知</interview>
                 <pay>是</pay>
                 <salary>面議</salary>
@@ -128,6 +106,7 @@
     </company>
     <company>
         <ID>3</ID>
+        <type>旅遊新創</type>
         <name>RTM泛旅遊</name>
         <eng-name></eng-name>
         <intro>A. RTM泛旅遊：一個整合與發展台灣新創旅遊資源及影響力的非營利組織、社群平台。透過「旅創」團隊交流、育成；青年「人才」串連、培訓；社區再造和產業轉型等「在地推廣」之文化觀光發展，打造台灣泛旅遊生活圈的新創生態系，合作打群架創造新的產業價值。 在台南成大，RTM期待透過以下規劃，打造青年旅創社群： → 旅遊新創講堂 → 企業參訪（"與創業家有約"餐敘） → 校際旅遊創業企劃大賽 → 在地推廣x下鄉小隊駐點計畫 → 創意旅行帶團實作 → 國際讀書會 → 企業專案合作外部提案 → 學生旅遊創業育成顧問 → RTM台南地區實習/志工社群經營（Facebook粉專/社團） → 支援RTM台南地推行動</intro>
@@ -135,17 +114,12 @@
         <logo>assets/images/logo/rtm.jpg</logo>
         <interns>
             <intern>
+                <content>true</content>
                 <intern_id>1</intern_id>
                 <title>成大旅遊新創實驗社-儲備幹部（社長、行銷長、旅創長、地推長）</title>
                 <work>推動校園旅遊新創知識與風氣，並建立產學連結，RTM在全台各大專院校招兵買馬，成立一個跨校的「旅遊新創實驗社」聯盟。</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>熱愛台灣土地及文化創意發展，對觀光旅遊業 創新創業概念感興趣 </condition>>
-                    </sub-condition>
-                    <sub-condition>
-                        <condition>加分條件: 行銷方案企劃能耐、設計美編能力、推廣宣傳號召力、活動執行力、善用社群媒體 - </condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>熱愛台灣土地及文化創意發展，對觀光旅遊業 創新創業概念感興趣</condition_1>
+                <condition_2>加分條件: 行銷方案企劃能耐、設計美編能力、推廣宣傳號召力、活動執行力、善用社群媒體 </condition_2>
                 <interview>由公司電郵通知 </interview>
                 <pay>是</pay>
                 <salary>以專案為單位按件計酬，每次行動獎金NTD1,000~12,000不等。</salary>
@@ -161,6 +135,7 @@
     </company>
     <company>
         <ID>4</ID>
+        <type>科技新創</type>
         <name>Uber</name>
         <eng-name></eng-name>
         <intro>UBER是一家總部位在美國加州灣區的新興叫車平台公司。秉持著 「分享美好」的理念,UBER在高雄參與城市的發展,尋找方法,為乘 客、司機與城市創造無限可能。 在 2008 年的某個雪夜,Travis Kalanick 和Garrett Camp想出了一 鍵即可預約搭乘的服務。如今,在超過68個國家、400多個城市,無論 是搭乘行程、配送三明治或包裹,我們皆運用獨到技術提供使命必達的 各種體驗。 「Super-pumped」是我們的核心理念。沒有繁文縟節、沒有太多 規則,只要你認為你追得上我們的速度,願意捲起袖口,共同實踐我們 的理念,歡迎你/妳來挑戰!在 Uber 我們不僅共享經濟,也一起創造 每個重要的時刻! 如果你想體驗新創公司的極速成⻑,願意克服從0到1的挫折與阻礙, 趕快加入我們!</intro>
@@ -171,14 +146,8 @@
                 <intern_id>1</intern_id>
                 <title>品牌行銷實習生</title>
                 <work>行銷專案企劃與執行 協助業務推廣及提升用戶體驗 品牌大使 街頭推廣、活動宣傳(平日及假日)</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>(實習生應具備條件與技能): 招募對象:大三以上、研究所、剛畢業 or any 熱愛Uber的你/妳,</condition>
-                    </sub-condition>
-                    <sub-condition>
-                        <condition>限院校科系</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>a. 招募對象:大三以上、研究所、剛畢業 or any 熱愛Uber的你/妳,</condition_1>
+                <condition_2>b. 限院校科系</condition_2>
                 <interview>Week 1:填寫申請表 Application Week 2:線上測驗評選 Uber Knowledge Test Week 2:部門主管面試 Interview</interview>
                 <pay>是</pay>
                 <salary>有給薪,表現良好可以獲得推薦信,參與專案活動還有額 外獎勵!</salary>
@@ -187,21 +156,15 @@
                     <person>Hwai Li</person>
                     <phone>0973-057-688 </phone>
                     <mail>hwaitheman@gmail.com</mail>
-                    <fb>https://www.facebook.com/hwai.hwai.ya</fb>>
+                    <fb>https://www.facebook.com/hwai.hwai.ya</fb>
                 </contact>
             </intern>
             <intern>
                 <intern_id>2</intern_id>
                 <title>市場營運實習生</title>
                 <work>專案推廣與執行 合作駕駛招募及管理,協助合作駕駛解決問題 品牌大使 街頭推廣、活動宣傳(平日及假日) </work>
-                <conditions>
-                    <sub-condition>
-                        <condition>不怕與陌生人溝通,具備危機處理能力 抗壓性大、願意處理瑣碎事務；(實習生應具備條件與技能): 招募對象:大三以上、研究所、剛畢業 or any 熱愛Uber的你/妳,</condition>
-                    </sub-condition>
-                    <sub-condition>
-                        <condition>限院校科系</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>a. 不怕與陌生人溝通,具備危機處理能力 抗壓性大、願意處理瑣碎事務；(實習生應具備條件與技能): 招募對象:大三以上、研究所、剛畢業 or any 熱愛Uber的你/妳,</condition_1>
+                <condition_2>b. 限院校科系</condition_2>
                 <interview>5. Week 1:填寫申請表 Application Week 2:線上測驗評選 Uber Knowledge Test Week 3:部門主管面試 Interview Week 4:實戰演練 Orientation</interview>
                 <pay>是</pay>
                 <salary>有給薪,表現良好可以獲得推薦信,參與專案活動還有額外獎勵!</salary>
@@ -210,29 +173,27 @@
                     <person>Hwai Li</person>
                     <phone>0973-057-688 </phone>
                     <mail>hwaitheman@gmail.com</mail>
-                    <fb>https://www.facebook.com/hwai.hwai.ya</fb>>
+                    <fb>https://www.facebook.com/hwai.hwai.ya</fb>
                 </contact>
             </intern>
         </interns>
     </company>
     <company>
         <ID>5</ID>
+        <type>電商平台</type>
         <name>社群誌</name>
         <eng-name></eng-name>
         <intro>社群誌公司透過最新FB經營心法教學、實用行銷工具簡介、超夯趨勢報導..等方式，關心社群、也探索社群，我們希望能透過社群行銷，幫助到更多的企業品牌、創業團隊，以發揮更大的社群價值！</intro>
         <website></website>
-        <logo>assets/images/logo/socialpress</logo>
+        <logo>assets/images/logo/socialpress.jpg</logo>
         <interns>
             <intern>
                 <intern_id>1</intern_id>
                 <title>社群誌 實習生</title>
                 <work>a.內容制訂 / 廣告素材撰寫、製作 b.廣告投放、優化 c.粉絲團經營、實體活動舉辦 d.廠商輔導 e.資料搜索、建檔(工具)</work>
-                <conditions>
-                    <sub-condition>
-                        <conditions>a.有遠端工作經驗 b.有粉絲團經營經驗(有投廣告經驗者佳) c.有行銷業務經驗(活動、產品、品牌)
-                        </conditions>
-                    </sub-condition>
-                </conditions>
+                <condition_1>a. 有遠端工作經驗</condition_1>
+                <condition_2>b. 有粉絲團經營經驗(有投廣告經驗者佳)</condition_2>
+                <condition_3>c. 有行銷業務經驗(活動、產品、品牌)</condition_3>
                 <interview>由公司電郵通知</interview>
                 <pay>是</pay>
                 <salary>實習生專案津貼</salary>
@@ -248,7 +209,8 @@
     </company>
     <company>
         <ID>6</ID>
-        <name>最上設計實業公司</name>
+        <type>設計</type>
+        <name>最上設計實業</name>
         <eng-name></eng-name>
         <intro>最上設計實業公司 為平面設計公司。主要製作設計素材，並專注在icon的設計。 公司將以紮實的實習培訓，讓學生的技能在兩個月的時間內，大幅成長！
         </intro>
@@ -259,11 +221,7 @@
                 <intern_id>1</intern_id>
                 <title>設計實習生</title>
                 <work>平面設計、製作設計素材、專注在icon設計</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>手繪能力強，會用illustrator</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>手繪能力強，會用illustrator</condition_1>
                 <interview>郵寄履歷作品，並由公司電郵通知</interview>
                 <pay>是</pay>
                 <salary>每月兩萬（內含勞健保費用）</salary>
@@ -279,6 +237,7 @@
     </company>
     <company>
         <ID>7</ID>
+        <type>旅遊新創</type>
         <name>佳佳西市場</name>
         <eng-name></eng-name>
         <intro>佳佳西市場旅店坐落於創建於1905年的台南西市場旁。這個市場因坐落於府城的五條港水路的中心位置，而成為商賈雲集之地。而其前身為全台第一位女性建築師設計之豪華高雅的佳佳大飯店。這裡除了記錄下許多政商名流的身影外，也擁有許多老台南人的回憶。然而，飯店也隨著時間的流轉而凋零。因此，我們將其當作窗口，透過這個作品去接觸鄰近區域的文化內涵。期望發掘在時間長流的積澱中，被埋藏的老佳佳、老台南、老台灣故事，用當代的語彙重述，再生出新舊交織、色彩生鮮的記憶。</intro>
@@ -289,11 +248,7 @@
                 <intern_id>1</intern_id>
                 <title>旅店實習生</title>
                 <work>櫃檯接待、餐廳外場、房務服務</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>無</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>無</condition_1>
                 <interview>寄送個人履歷，並由公司電郵通知面試</interview>
                 <pay>是</pay>
                 <salary>月薪：$20008、月休8天、享勞健保及生日禮金</salary>
@@ -309,6 +264,7 @@
     </company>
     <company>
         <ID>8</ID>
+        <type>設計</type>
         <name>星球</name>
         <eng-name></eng-name>
         <intro>planett是一個結合共創空間，駐村服務，以及提供國際交流與串連服務的創意基地。我們相信旅行是探索與激盪靈感最棒的方式之一，在台灣最老的城市裡漫遊，認識各種充滿想像力的夥伴，搜集創作靈感，這一且會讓旅行更有趣！除此之外在這裡你可以找到各種資源完成你的專案，無論是製造商與產業連結，或是發表專案與推廣通路。planett是一個專門為創意工作者打造，一起生活，創作並體驗台南的地方，不論你是設計師，藝術家，旅行者，或你只是想要找個很酷的地方，planett 的大門一定為你敞開！</intro>
@@ -319,11 +275,7 @@
                 <intern_id>1</intern_id>
                 <title>視覺傳達實習生、多媒體設計實習生</title>
                 <work>團隊一同進行星球相關品牌與活動的視覺包裝：網站內容維運、BE Alien專欄設計、外星人設計經紀、外星人資料庫建立、外星人多媒體資料庫建立visitor show。</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>對共同創作懷有熱忱，熱愛旅行，喜歡創意，擁抱自由，獨立自主，責任感，對現代生活有不同想像且對不同事物好奇，而且跟我們一樣不（愛）務正業</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>對共同創作懷有熱忱，熱愛旅行，喜歡創意，擁抱自由，獨立自主，責任感，對現代生活有不同想像且對不同事物好奇，而且跟我們一樣不（愛）務正業</condition_1>
                 <interview>寄送個人履歷，由公司電郵通知面試。</interview>
                 <pay>否，以實習期間24/7共同工作空間使用，以及一個月創業實務課程交換：包括Orientation、Design Basic、Presentation、Communication、Service Design、Curation、Marketing、Startup Toolkit。之後兩個月將有許多body storm、許多參訪、以及每月任務完成，由導師帶領小組合作與對抗的遊戲化方式進行。。表現良好的實習生在經過第一個月培訓以及第二個月專案實務後，經書審及英文面試後，第三個月可前往泰國曼谷的設計共同工作空間Draft Board進行跨國實習。</pay>
                 <salary>否，請閱上述福利</salary>
@@ -338,11 +290,7 @@
                 <intern_id>2</intern_id>
                 <title>行銷企劃實習生</title>
                 <work> 每週固定的星球交流活動、星球在地共創計畫、以及其他策展活動。</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>對共同創作懷有熱忱，熱愛旅行，喜歡創意，擁抱自由，獨立自主，責任感，對現代生活有不同想像且對不同事物好奇，而且跟我們一樣不（愛）務正業</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>對共同創作懷有熱忱，熱愛旅行，喜歡創意，擁抱自由，獨立自主，責任感，對現代生活有不同想像且對不同事物好奇，而且跟我們一樣不（愛）務正業</condition_1>
                 <interview>寄送履歷，由公司電郵通知面試</interview>
                 <pay>否，以實習期間24/7共同工作空間使用，以及一個月創業實務課程交換：包括Orientation、Design Basic、Presentation、Communication、Service Design、Curation、Marketing、Startup Toolkit。之後兩個月將有許多body storm、許多參訪、以及每月任務完成，由導師帶領小組合作與對抗的遊戲化方式進行。。表現良好的實習生在經過第一個月培訓以及第二個月專案實務後，經書審及英文面試後，第三個月可前往泰國曼谷的設計共同工作空間Draft Board進行跨國實習。</pay>
                 <salary>否，請閱上述福利</salary>
@@ -357,21 +305,18 @@
     </company>
     <company>
         <ID>9</ID>
+        <type>文創</type>
         <name>Zazazoo</name>
         <eng-name></eng-name>
         <intro>ZAZAZOO品牌由來 ZA~ZA~ZOO~~~~ZA~ZA~ZOO~~~,這是縫紉機在車縫制服的聲音。生長在一個老制服工廠, 因為少子化、諸多校園開始不穿著制服、民眾普遍低估制服產業所需技術及價值等原因,制服已經 逐漸成為夕陽產業,身為中美牌學生制服的第三代,為了讓台灣校園制服文化及製作工藝能有所延 續,並賦予制服更多種可能,建立新品牌—ZAZAZOO,期待用一甲子的工藝技術跟制服格紋元素, 打造一個新的精品品牌,也讓ZA~ZA~ZOO~~~ZA~ZA~ZOO~~縫紉的聲音,可以繼續陪大家走 過下一個世紀。</intro>
         <website></website>
-        <logo>assets/images/logo/zazazoo.jpg</logo>
+        <logo>assets/images/logo/zazazoo3.png</logo>
         <interns>
             <intern>
                 <intern_id>1</intern_id>
                 <title>市銷售與通路管理 實習生</title>
                 <work>負責藍晒圖門市的銷售業務,定期盤點台南各銷售據點的庫存、補貨及各門市呈列調整 - 參與門市行銷活動規劃並協助執行</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>熱血創新的心</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>熱血創新的心</condition_1>
                 <interview>寄送履歷，由公司電郵通知面試</interview>
                 <pay>是</pay>
                 <salary>時薪$120</salary>
@@ -386,11 +331,7 @@
                 <intern_id>2</intern_id>
                 <title>美編設計 實習生</title>
                 <work>協助粉絲頁、電商平台及活動文宣的圖像製作- 協助設計⾨門市呈列及展架、市集與展覽攤位佈置</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>熟悉Photoshop、Illustrator、需提供作品集</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>熟悉Photoshop、Illustrator、需提供作品集</condition_1>
                 <interview>寄送履歷，由公司電郵通知面試</interview>
                 <pay>是</pay>
                 <salary>按件計酬(面議)</salary>
@@ -406,23 +347,20 @@
     </company>
     <company>
         <ID>10</ID>
+        <type>旅遊新創</type>
         <name>芒果遊戲工作室</name>
         <eng-name></eng-name>
         <intro>觀光旅遊的發展，將逐步邁向體驗經濟的新時代，芒果遊戲將旅遊和遊戲結合，藉由遊戲的體驗進行深度旅遊。透過「解謎推理」的目標，在現代匆促的步伐間譜出輕快的節奏，讓參與者能一邊解出答案，一邊認識地方文化之美，於單調的現實生活中增添不同的想像。 實境遊戲在台灣屬於新興產業，自 2011 年由美、日引入，於 2012 年開始蓬勃發展，目前較為人所知的密室逃脫即為實境遊戲中的一塊。芒果遊戲初步想藉由一個持續連接的行銷鏈來將消費者緊緊串連。首先就是每兩個月就推出一款新遊戲，讓消費者在玩過舊遊戲的熱情降低之際，又有新話題可以重新討論並參與，拓展新的景點以及新的旅遊方式。
         </intro>
         <website></website>
-        <logo>assets/images/logo/mongo.jpg</logo>
+        <logo>assets/images/logo/mongo2.png</logo>
         <interns>
             <intern>
                 <intern_id>1</intern_id>
                 <title>遊戲活動執行人員</title>
                 <work>配合劇本進行角色扮演，擔任NPC與玩家互動。</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>希望具備外向活潑、開朗不怕生的特質 如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
-                        </condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>希望具備外向活潑、開朗不怕生的特質 如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
+                </condition_1>
                 <interview>寄送履歷，由公司電郵通知面試
                 </interview>
                 <pay>否 可體驗試玩實境解謎遊戲活動。 每月一次公司內部聚餐。
@@ -440,12 +378,8 @@
                 <intern_id>2</intern_id>
                 <title>遊戲企劃討論人員</title>
                 <work>參與新主題的發想與設計規畫。</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>希望具備外向活潑、開朗不怕生的特質 如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
-                        </condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>希望具備外向活潑、開朗不怕生的特質 如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
+                </condition_1>
                 <interview>寄送履歷，由公司電郵通知面試
                 </interview>
                 <pay>否 可體驗試玩實境解謎遊戲活動。 每月一次公司內部聚餐。
@@ -463,12 +397,8 @@
                 <intern_id>3</intern_id>
                 <title>道具美宣製作人員</title>
                 <work>包含文宣形象設計、海報、道具美工等。</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>希望具備外向活潑、開朗不怕生的特質 如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
-                        </condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>希望具備外向活潑、開朗不怕生的特質 如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
+                </condition_1>
                 <interview>寄送履歷，由公司電郵通知面試
                 </interview>
                 <pay>否 可體驗試玩實境解謎遊戲活動。 每月一次公司內部聚餐。
@@ -498,7 +428,8 @@
                 <work></work>
                 <conditions>
                     <sub-condition>
-                        <condition></condition>
+                       <condition_1></condition_1>
+
                     </sub-condition>
                 </conditions>
                 <interview></interview>
@@ -515,6 +446,7 @@
     </company> -->
     <company>
         <ID>12</ID>
+        <type>電商平台</type>
         <name>Nonsense</name>
         <eng-name></eng-name>
         <intro>Nonsense是一個社群平台，設計師可以在上面互相認識交流、彙整作品集、整理設計草稿、販售產品、製作產品、跟使用者或其他設計師一起合作設計專案(目前針對工業設計、服裝設計跟視覺設計)，也提供給使用者更多認識設計師的管道(動態、產品、動畫、3D模型示意)。
@@ -526,26 +458,11 @@
                 <intern_id>1</intern_id>
                 <title>行銷企劃實習生</title>
                 <work>網路文宣企劃與編輯、經營nonsense分支粉絲專頁、行銷規劃與活動執行，效益評估分析、使用者研究，其他彈性支援、協助共創設計聚會前置作業。</work>
-                <conditions>
-                    <sub-condition>
-                        <condition> 願意從現在開始養成每天吸收新知、瀏覽國內外設計相關網站的習慣</condition>
-                    </sub-condition>
-                    <sub-condition>
-                        <condition>每週使用 FB、Pinterest、Dribbble、Cargo或是其他社群媒體5個小時以上
-                        </condition>
-                    </sub-condition>
-                    <sub-condition>
-                        <condition>超吸睛的文字撰稿能力
-                        </condition>
-                    </sub-condition>
-                    <sub-condition>
-                        <condition> 辦過小型活動的經驗</condition>
-                    </sub-condition>
-                    <sub-condition>
-                        <condition> 未來規劃從事設計 / 藝術相關產業工作
-                        </condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>a. 願意從現在開始養成每天吸收新知、瀏覽國內外設計相關網站的習慣</condition_1>
+                <condition_2>b. 每週使用 FB、Pinterest、Dribbble、Cargo或是其他社群媒體5個小時以上</condition_2>
+                <condition_3>c. 超吸睛的文字撰稿能力</condition_3>
+                <condition_4>d. 辦過小型活動的經驗</condition_4>
+                <condition_5>e. 未來規劃從事設計 / 藝術相關產業工作</condition_5>
                 <interview>將基本資料、經歷、作品集、爭取實習的原因，認為能證明自己能力的東西，傳送至實習信箱。
                 </interview>
                 <pay>是
@@ -564,23 +481,20 @@
     </company>
     <company>
         <ID>13</ID>
+        <type>設計</type>
         <name>黃克翊建築師事務所
         </name>
         <eng-name></eng-name>
         <intro>事務所涵蓋業務包含建築設計、室內與空間設計,及設計範圍之整體規劃,建案類型包含住宅、集合住宅、商業空間與工程廠房。</intro>
         <website></website>
-        <logo>assets/images/logo/aviarch.png</logo>
+        <logo>assets/images/logo/aviarch2.png</logo>
         <interns>
             <intern>
                 <intern_id>1</intern_id>
                 <title>業務支援實習生</title>
                 <work>事務所各項專案業務運作之觀察與記錄，視人員能力支援各項設計規劃事務。
                 </work>
-                <conditions>
-                    <sub-condition>
-                        <condition>具高度學習動力、待人接物應對得體者。</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>具高度學習動力、待人接物應對得體者。</condition_1>
                 <interview>寄送履歷，由公司電郵通知面試
                 </interview>
                 <pay>否，工作日三餐，及基本交通開支。若具可應用於現行業務之相關能力，即以專案人員薪資聘用。</pay>
@@ -598,6 +512,7 @@
     </company>
     <company>
         <ID>14</ID>
+        <type>設計</type>
         <name>承翊營造工程</name>
         <eng-name></eng-name>
         <intro>營造工程主要進行各項土木與結構工程,並包含進一步之室內裝修，以及舊建築翻修，其中亦須包含工程預算與進度之管控。
@@ -611,11 +526,7 @@
                 </title>
                 <work>公司之工程執行之觀察與記錄，視人員能力支援各項工程監造事務。
                 </work>
-                <conditions>
-                    <sub-condition>
-                        <condition>具工程實務興趣、可接受四處奔波者。</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>具工程實務興趣、可接受四處奔波者。</condition_1>
                 <interview>寄送履歷，由公司電郵通知面試
                 </interview>
                 <pay>否，工作日三餐，及基本交通開支。若具可應用於現行業務之相關能力，即以專案人員薪資聘用。
@@ -633,24 +544,21 @@
     </company>
     <company>
         <ID>15</ID>
+        <type>文創</type>
         <name>老都棒壘球手套再生站</name>
         <eng-name></eng-name>
         <intro>為國內目前最大之專門棒壘球手套再生站,除包含一般性之維修與保養,亦須考量各項皮革特性進行新皮革產品之設計與開發。
         </intro>
         <website></website>
-        <logo></logo>
+        <logo>assets/images/logo/oldhouse2.png</logo>
         <interns>
             <intern>
                 <intern_id>1</intern_id>
                 <title>助理實習生</title>
                 <work>公司之例行業務之觀察與記錄，視人員能力支援各項商品開發與設計事務。
                 </work>
-                <conditions>
-                    <sub-condition>
-                        <condition>具皮革製品應用興趣、細心謹慎者
-                        </condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>具皮革製品應用興趣、細心謹慎者
+                </condition_1>
                 <interview>寄送履歷，由公司電郵通知面試
                 </interview>
                 <pay>否，工作日三餐，及基本交通開支。若具可應用於現行業務之相關能力，即以專案人員薪資聘用。
@@ -664,28 +572,25 @@
                     <mail></mail>
                 </contact>
             </intern>
-             <intern></intern>
+            <intern></intern>
         </interns>
     </company>
     <company>
         <ID>16</ID>
+        <type>設計</type>
         <name>一田設計工作室</name>
         <eng-name></eng-name>
         <intro>工作室主要以產品之開發為主,目前應用領域以建築聲學之設計與材料 為主,接觸工作類型包含產品性能研發、市場應用調查以及實驗室建置。
         </intro>
         <website></website>
-        <logo>assets/images/logo/yatta.png</logo>
+        <logo>assets/images/logo/yatta3.png</logo>
         <interns>
             <intern>
                 <intern_id>1</intern_id>
                 <title>助理實習生</title>
                 <work>公司之例行業務之觀察與記錄，視人員能力支援各項建材開發與研發顧問事務。</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>對技術應用於產品開發有興趣、五感感官敏銳者。
-                        </condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>對技術應用於產品開發有興趣、五感感官敏銳者。
+                </condition_1>
                 <interview>寄送履歷，由公司電郵通知面試</interview>
                 <pay>否，工作日三餐，及基本交通開支。若具可應用於現行業務之相關能力，即以專案人員薪資聘用。</pay>
                 <salary>否，若符合上述給薪條件，則於面試面議。</salary>
@@ -696,7 +601,7 @@
                     <mail></mail>
                 </contact>
             </intern>
-             <intern></intern>
+            <intern></intern>
         </interns>
     </company>
     <!-- <company>
@@ -714,7 +619,8 @@
                 <work></work>
                 <conditions>
                     <sub-condition>
-                        <condition></condition>
+                       <condition_1></condition_1>
+
                     </sub-condition>
                 </conditions>
                 <interview></interview>
@@ -744,7 +650,8 @@
                 <work></work>
                 <conditions>
                     <sub-condition>
-                        <condition></condition>
+                       <condition_1></condition_1>
+
                     </sub-condition>
                 </conditions>
                 <interview></interview>
@@ -762,6 +669,7 @@
     </company> -->
     <company>
         <ID>19</ID>
+        <type>電商平台</type>
         <name>Wargaming</name>
         <eng-name></eng-name>
         <intro>Wargaming 是線上遊戲開發暨發行商，曾榮獲多項大獎，在免費大型多人線上遊戲市場據重要地位。自 1998 年成立至今已推出超過 15 款產品，Wargaming 目前專注研發以二十世紀中期戰爭為主題的大型多人線上戰爭遊戲系列，其中包括 Wargaming 的代表性大作《戰車世界》（World of Tanks），另外還有以空戰為題材的《戰機世界》（World of Warplanes），及預計 2015 年推出，以海戰為題材的《戰艦世界》（World of Warships）。而 Wargaming.net Service 則將各系列作品統合於同一個入口，提供完整的線上服務：www.wargaming.net 為了強化多平台的遊戲產品陣容，Wargaming也導入了《戰車世界：Xbox 360 版》（World of Tanks Xbox 360 Edition）和《戰車世界：閃擊戰》（World of Tanks Blitz）。《戰車世界：Xbox 360 版》於2014年推出，把經典的戰車對戰元素帶給家用主機玩家，而行動平台大型多人線上遊戲《戰車世界：閃擊戰》則是把Wargaming招牌的團隊軍事遊戲帶給全世界的智慧型手機和平板電腦玩家。 簡介 當你人生第一次接觸到遊戲的時候，是否覺得怦然心動且這個產業的幕前幕後有著無與倫比的興趣？當你看到來自台灣的玩家站在世界的舞台上，舉起金盃的那一刻，是否也想成為這個龐大娛樂產業的一份子？你願意花這麼多的時間窩在自己的電腦以及遊戲主機前面體驗與欣賞這些成果的同時，有沒有思考過這一切是如何發生的？ Wargaming相信，當你花上一年的時間來了解、認識這個遊戲產業，當你在未來再次坐在電腦前面打開遊戲的時候，你會有截然不同的感受。踏入這個令人嚮往的世界，第一步將從這裡開始！這裡不僅僅讓你學習遊戲產業中更深度的相關知識，並且讓你有非常多的機會體驗到一般玩家所體驗不到的事物。 透過完整的學習與體驗，以及 Wargaming 實習生計畫的另一大特色，就是「良師益友」制度，每個實習生都會有對應的正職員工擔任導師。這位「良師益友」不僅在職場上給予實習生建議與指導，也會與實習生分享生活經驗。 而Wargaming首屆實習生計畫不僅號召台灣同仁參與，更有亞洲區總部（新加坡）的同仁跨海支援，全公司全力支援實習同學的用心，由此可見一斑。此外實習生除可領取 Wargaming 認證的實習證書，更有機會在實習的最後一個季度提案爭取實作機會，為自己未來的履歷增添更亮眼的成績。若要了解更多Wargaming實習生計畫相關資訊，請造訪：http://wg-intern.tw/
@@ -773,11 +681,8 @@
                 <intern_id>20</intern_id>
                 <title></title>
                 <work></work>
-                <conditions>
-                    <sub-condition>
-                        <condition></condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>
+                </condition_1>
                 <interview></interview>
                 <pay></pay>
                 <salary></salary>
@@ -788,11 +693,12 @@
                     <mail></mail>
                 </contact>
             </intern>
-             <intern></intern>
+            <intern></intern>
         </interns>
     </company>
     <company>
         <ID>22</ID>
+        <type>設計</type>
         <name>拍拍</name>
         <eng-name></eng-name>
         <intro>一切從撿回一隻淋濕的小貓開始，從巴掌大的奶貓慢慢餵養到喜歡躺在懷裡呼嚕的可愛孩子，希望她能健康長大，一起度過更長久的相處時光。 走進與毛孩的同居新時代，赫然發現市面上的用品總是與自己的想像有那麼一點的差距，同時因小貓的身體瘦弱且有進食困擾，透過設計的專長與經驗，研究毛孩進食姿勢與食器材料的安全問題，加上對於居家質感與品味的要求，用簡單的線條設計出托高、傾斜極具質感原木碗架，深獲國內外好評。 「拍拍」由專業的設計及製作團隊組成，從設計、選材、打樣到製作生產，皆具有豐富且完整的經驗。透過雙手，創造居家生活新形態，也讓傳統產業走出另一條路。並期待能以天然、安全兼具質感的複合素材，搭配匠心獨運的手作，實現寵物與人共享的好感生活。
@@ -802,33 +708,10 @@
         <interns>
             <intern>
                 <intern_id>1</intern_id>
-                <title></title>
-                <work></work>
-                <conditions>
-                    <sub-condition>
-                        <condition></condition>
-                    </sub-condition>
-                </conditions>
-                <interview></interview>
-                <pay></pay>
-                <salary></salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail></mail>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>1</intern_id>
                 <title>銷售與通路管理 助理實習生</title>
                 <work>負責各門市的銷售業務、盤點庫存、補貨，參與門市行銷活動規劃並協助執行。</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>未來對寵物及業務銷售有興趣者
-                        </condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>未來對寵物及業務銷售有興趣者
+                </condition_1>
                 <interview> 寄送履歷，由公司電郵通知面試
                 </interview>
                 <pay>是
@@ -846,11 +729,7 @@
                 <title>產品設計 實習生</title>
                 <work>協助粉絲頁、電商平台及活動、數據分析及上架管理
                 </work>
-                <conditions>
-                    <sub-condition>
-                        <condition>須熟悉軟體、提供作品集</condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>須熟悉軟體、提供作品集</condition_1>
                 <interview> 寄送履歷，由公司電郵通知面試
                 </interview>
                 <pay>是</pay>
@@ -868,12 +747,8 @@
                 <title>木工廠 實習生
                 </title>
                 <work>木製品相關製作</work>
-                <conditions>
-                    <sub-condition>
-                        <condition>須對木工製作有興趣，能吃苦
-                        </condition>
-                    </sub-condition>
-                </conditions>
+                <condition_1>須對木工製作有興趣，能吃苦
+                </condition_1>
                 <interview>寄送履歷，由公司電郵通知面試
                 </interview>
                 <pay>是
