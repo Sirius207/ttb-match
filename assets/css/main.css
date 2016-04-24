@@ -344,6 +344,9 @@ nav i {
     font-size: 24px;
     padding: 10px;
 }
+.intern_list{
+    border-bottom: 1px solid gray;
+}
 
 
 /*#prepare {

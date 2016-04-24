@@ -110,7 +110,7 @@
         <name>RTM泛旅遊</name>
         <eng-name></eng-name>
         <intro>A. RTM泛旅遊：一個整合與發展台灣新創旅遊資源及影響力的非營利組織、社群平台。透過「旅創」團隊交流、育成；青年「人才」串連、培訓；社區再造和產業轉型等「在地推廣」之文化觀光發展，打造台灣泛旅遊生活圈的新創生態系，合作打群架創造新的產業價值。 在台南成大，RTM期待透過以下規劃，打造青年旅創社群： → 旅遊新創講堂 → 企業參訪（"與創業家有約"餐敘） → 校際旅遊創業企劃大賽 → 在地推廣x下鄉小隊駐點計畫 → 創意旅行帶團實作 → 國際讀書會 → 企業專案合作外部提案 → 學生旅遊創業育成顧問 → RTM台南地區實習/志工社群經營（Facebook粉專/社團） → 支援RTM台南地推行動</intro>
-        <website></website>
+        <website>https://www.facebook.com/redefinetourismmixer/?fref=ts</website>
         <logo>assets/images/logo/rtm.jpg</logo>
         <interns>
             <intern>
@@ -130,7 +130,7 @@
                     <mail>redefinetourismmixer@gmail.com</mail>
                 </contact>
             </intern>
-            <intern></intern>
+             <intern><check>none</check></intern>
         </interns>
     </company>
     <company>
@@ -139,7 +139,7 @@
         <name>Uber</name>
         <eng-name></eng-name>
         <intro>UBER是一家總部位在美國加州灣區的新興叫車平台公司。秉持著 「分享美好」的理念,UBER在高雄參與城市的發展,尋找方法,為乘 客、司機與城市創造無限可能。 在 2008 年的某個雪夜,Travis Kalanick 和Garrett Camp想出了一 鍵即可預約搭乘的服務。如今,在超過68個國家、400多個城市,無論 是搭乘行程、配送三明治或包裹,我們皆運用獨到技術提供使命必達的 各種體驗。 「Super-pumped」是我們的核心理念。沒有繁文縟節、沒有太多 規則,只要你認為你追得上我們的速度,願意捲起袖口,共同實踐我們 的理念,歡迎你/妳來挑戰!在 Uber 我們不僅共享經濟,也一起創造 每個重要的時刻! 如果你想體驗新創公司的極速成⻑,願意克服從0到1的挫折與阻礙, 趕快加入我們!</intro>
-        <website></website>
+        <website>https://www.facebook.com/UberTaiwan/?fref=ts</website>
         <logo>assets/images/logo/uber.jpg</logo>
         <interns>
             <intern>
@@ -184,7 +184,7 @@
         <name>社群誌</name>
         <eng-name></eng-name>
         <intro>社群誌公司透過最新FB經營心法教學、實用行銷工具簡介、超夯趨勢報導..等方式，關心社群、也探索社群，我們希望能透過社群行銷，幫助到更多的企業品牌、創業團隊，以發揮更大的社群價值！</intro>
-        <website></website>
+        <website>https://www.facebook.com/Socialpress.org/?fref=ts</website>
         <logo>assets/images/logo/socialpress.jpg</logo>
         <interns>
             <intern>
@@ -204,7 +204,7 @@
                     <mail>york36a@gmail.com</mail>
                 </contact>
             </intern>
-            <intern></intern>
+            <intern><check>none</check></intern>
         </interns>
     </company>
     <company>
@@ -215,7 +215,7 @@
         <intro>最上設計實業公司 為平面設計公司。主要製作設計素材，並專注在icon的設計。 公司將以紮實的實習培訓，讓學生的技能在兩個月的時間內，大幅成長！
         </intro>
         <website></website>
-        <logo>assets/images/logo/topdesign.jpg</logo>
+        <logo>assets/images/logo/topdesign.png</logo>
         <interns>
             <intern>
                 <intern_id>1</intern_id>
@@ -232,7 +232,7 @@
                     <mail>mocoobook@gmail.com</mail>
                 </contact>
             </intern>
-            <intern></intern>
+             <intern><check>none</check></intern>
         </interns>
     </company>
     <company>
@@ -241,7 +241,7 @@
         <name>佳佳西市場</name>
         <eng-name></eng-name>
         <intro>佳佳西市場旅店坐落於創建於1905年的台南西市場旁。這個市場因坐落於府城的五條港水路的中心位置，而成為商賈雲集之地。而其前身為全台第一位女性建築師設計之豪華高雅的佳佳大飯店。這裡除了記錄下許多政商名流的身影外，也擁有許多老台南人的回憶。然而，飯店也隨著時間的流轉而凋零。因此，我們將其當作窗口，透過這個作品去接觸鄰近區域的文化內涵。期望發掘在時間長流的積澱中，被埋藏的老佳佳、老台南、老台灣故事，用當代的語彙重述，再生出新舊交織、色彩生鮮的記憶。</intro>
-        <website></website>
+        <website>https://www.facebook.com/jjwhotel/?fref=ts</website>
         <logo>assets/images/logo/jjwhotel.jpg</logo>
         <interns>
             <intern>
@@ -259,7 +259,7 @@
                     <mail>jjmc.adm@gmail.com</mail>
                 </contact>
             </intern>
-            <intern></intern>
+            <intern><check>none</check></intern>
         </interns>
     </company>
     <company>
@@ -268,7 +268,7 @@
         <name>星球</name>
         <eng-name></eng-name>
         <intro>planett是一個結合共創空間，駐村服務，以及提供國際交流與串連服務的創意基地。我們相信旅行是探索與激盪靈感最棒的方式之一，在台灣最老的城市裡漫遊，認識各種充滿想像力的夥伴，搜集創作靈感，這一且會讓旅行更有趣！除此之外在這裡你可以找到各種資源完成你的專案，無論是製造商與產業連結，或是發表專案與推廣通路。planett是一個專門為創意工作者打造，一起生活，創作並體驗台南的地方，不論你是設計師，藝術家，旅行者，或你只是想要找個很酷的地方，planett 的大門一定為你敞開！</intro>
-        <website></website>
+        <website>https://www.facebook.com/planettTW/?fref=ts</website>
         <logo>assets/images/logo/planett.png</logo>
         <interns>
             <intern>
@@ -309,7 +309,7 @@
         <name>Zazazoo</name>
         <eng-name></eng-name>
         <intro>ZAZAZOO品牌由來 ZA~ZA~ZOO~~~~ZA~ZA~ZOO~~~,這是縫紉機在車縫制服的聲音。生長在一個老制服工廠, 因為少子化、諸多校園開始不穿著制服、民眾普遍低估制服產業所需技術及價值等原因,制服已經 逐漸成為夕陽產業,身為中美牌學生制服的第三代,為了讓台灣校園制服文化及製作工藝能有所延 續,並賦予制服更多種可能,建立新品牌—ZAZAZOO,期待用一甲子的工藝技術跟制服格紋元素, 打造一個新的精品品牌,也讓ZA~ZA~ZOO~~~ZA~ZA~ZOO~~縫紉的聲音,可以繼續陪大家走 過下一個世紀。</intro>
-        <website></website>
+        <website>https://goo.gl/okCtFt</website>
         <logo>assets/images/logo/zazazoo3.png</logo>
         <interns>
             <intern>
@@ -322,9 +322,10 @@
                 <salary>時薪$120</salary>
                 <other></other>
                 <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail></mail>
+                    <person>張京農</person>
+                    <phone>0963233868</phone>
+                    <mail>jesuslove1223@gmail.com </mail>
+                    <fb>https://goo.gl/okCtFt</fb>
                 </contact>
             </intern>
             <intern>
@@ -340,7 +341,7 @@
                     <person>張京農</person>
                     <phone>0963233868</phone>
                     <mail>jesuslove1223@gmail.com </mail>
-                    <fb>https://goo.gl/okCtFt</fb>>
+                    <fb>https://goo.gl/okCtFt</fb>
                 </contact>
             </intern>
         </interns>
@@ -352,7 +353,7 @@
         <eng-name></eng-name>
         <intro>觀光旅遊的發展，將逐步邁向體驗經濟的新時代，芒果遊戲將旅遊和遊戲結合，藉由遊戲的體驗進行深度旅遊。透過「解謎推理」的目標，在現代匆促的步伐間譜出輕快的節奏，讓參與者能一邊解出答案，一邊認識地方文化之美，於單調的現實生活中增添不同的想像。 實境遊戲在台灣屬於新興產業，自 2011 年由美、日引入，於 2012 年開始蓬勃發展，目前較為人所知的密室逃脫即為實境遊戲中的一塊。芒果遊戲初步想藉由一個持續連接的行銷鏈來將消費者緊緊串連。首先就是每兩個月就推出一款新遊戲，讓消費者在玩過舊遊戲的熱情降低之際，又有新話題可以重新討論並參與，拓展新的景點以及新的旅遊方式。
         </intro>
-        <website></website>
+        <website>https://www.facebook.com/MGS.fan/?fref=ts</website>
         <logo>assets/images/logo/mongo2.png</logo>
         <interns>
             <intern>
@@ -414,36 +415,6 @@
             </intern>
         </interns>
     </company>
-    <!-- <company>
-        <ID>11</ID>
-        <name>1982</name>
-        <eng-name></eng-name>
-        <intro></intro>
-        <website></website>
-        <logo></logo>
-        <interns>
-            <intern>
-                <intern_id></intern_id>
-                <title></title>
-                <work></work>
-                <conditions>
-                    <sub-condition>
-                       <condition_1></condition_1>
-
-                    </sub-condition>
-                </conditions>
-                <interview></interview>
-                <pay></pay>
-                <salary></salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail></mail>
-                </contact>
-            </intern>
-        </interns>
-    </company> -->
     <company>
         <ID>12</ID>
         <type>電商平台</type>
@@ -451,7 +422,7 @@
         <eng-name></eng-name>
         <intro>Nonsense是一個社群平台，設計師可以在上面互相認識交流、彙整作品集、整理設計草稿、販售產品、製作產品、跟使用者或其他設計師一起合作設計專案(目前針對工業設計、服裝設計跟視覺設計)，也提供給使用者更多認識設計師的管道(動態、產品、動畫、3D模型示意)。
         </intro>
-        <website></website>
+        <website>https://www.facebook.com/Nonsenseworkshop/?fref=ts</website>
         <logo>assets/images/logo/nonsense.jpg</logo>
         <interns>
             <intern>
@@ -476,7 +447,7 @@
                     <mail>service@nonsenseworkshop.com</mail>
                 </contact>
             </intern>
-            <intern></intern>
+            <intern><check>none</check></intern>
         </interns>
     </company>
     <company>
@@ -486,7 +457,7 @@
         </name>
         <eng-name></eng-name>
         <intro>事務所涵蓋業務包含建築設計、室內與空間設計,及設計範圍之整體規劃,建案類型包含住宅、集合住宅、商業空間與工程廠房。</intro>
-        <website></website>
+        <website>https://www.facebook.com/ayiarchstudio/?fref=ts</website>
         <logo>assets/images/logo/aviarch2.png</logo>
         <interns>
             <intern>
@@ -502,12 +473,12 @@
                 </salary>
                 <other></other>
                 <contact>
-                    <person></person>
+                    <person>周傳文</person>
                     <phone></phone>
-                    <mail></mail>
+                    <mail>gege39th@gmail.com</mail>
                 </contact>
             </intern>
-            <intern></intern>
+            <intern><check>none</check></intern>
         </interns>
     </company>
     <company>
@@ -518,7 +489,7 @@
         <intro>營造工程主要進行各項土木與結構工程,並包含進一步之室內裝修，以及舊建築翻修，其中亦須包含工程預算與進度之管控。
         </intro>
         <website></website>
-        <logo></logo>
+        <logo>assets/images/logo/eng2.png</logo>
         <interns>
             <intern>
                 <intern_id>1</intern_id>
@@ -534,12 +505,12 @@
                 <salary>否，若符合上述給薪條件，則於面試面議。</salary>
                 <other></other>
                 <contact>
-                    <person></person>
+                    <person>周傳文</person>
                     <phone></phone>
-                    <mail></mail>
+                    <mail>gege39th@gmail.com</mail>
                 </contact>
             </intern>
-            <intern></intern>
+            <intern><check>none</check></intern>
         </interns>
     </company>
     <company>
@@ -549,7 +520,7 @@
         <eng-name></eng-name>
         <intro>為國內目前最大之專門棒壘球手套再生站,除包含一般性之維修與保養,亦須考量各項皮革特性進行新皮革產品之設計與開發。
         </intro>
-        <website></website>
+        <website>http://king5411.pixnet.net/blog</website>
         <logo>assets/images/logo/oldhouse2.png</logo>
         <interns>
             <intern>
@@ -567,12 +538,12 @@
                 </salary>
                 <other></other>
                 <contact>
-                    <person></person>
+                    <person>周傳文</person>
                     <phone></phone>
-                    <mail></mail>
+                    <mail>gege39th@gmail.com</mail>
                 </contact>
             </intern>
-            <intern></intern>
+            <intern><check>none</check></intern>
         </interns>
     </company>
     <company>
@@ -582,7 +553,7 @@
         <eng-name></eng-name>
         <intro>工作室主要以產品之開發為主,目前應用領域以建築聲學之設計與材料 為主,接觸工作類型包含產品性能研發、市場應用調查以及實驗室建置。
         </intro>
-        <website></website>
+        <website>https://www.facebook.com/%E4%B8%80%E7%94%B0%E8%A8%AD%E8%A8%88%E5%B7%A5%E4%BD%9C%E5%AE%A4-yattadesign-471089609652984/?fref=ts</website>
         <logo>assets/images/logo/yatta3.png</logo>
         <interns>
             <intern>
@@ -596,15 +567,15 @@
                 <salary>否，若符合上述給薪條件，則於面試面議。</salary>
                 <other></other>
                 <contact>
-                    <person></person>
+                    <person>周傳文</person>
                     <phone></phone>
-                    <mail></mail>
+                    <mail>gege39th@gmail.com</mail>
                 </contact>
             </intern>
-            <intern></intern>
+            <intern><check>none</check></intern>
         </interns>
     </company>
-    <!-- <company>
+    <!--  <company>
         <ID>17</ID>
         <name> 唐草設計</name>
         <eng-name></eng-name>
@@ -619,8 +590,7 @@
                 <work></work>
                 <conditions>
                     <sub-condition>
-                       <condition_1></condition_1>
-
+                        <condition_1></condition_1>
                     </sub-condition>
                 </conditions>
                 <interview></interview>
@@ -633,40 +603,57 @@
                     <mail></mail>
                 </contact>
             </intern>
-             <intern></intern>
+            <intern><check>none</check></intern>
         </interns>
     </company> -->
-    <!-- <company>
+    <company>
         <ID>18</ID>
+        <type>電商平台</type>
         <name>捷思唯數位整合公司</name>
         <eng-name></eng-name>
-        <intro></intro>
-        <website></website>
+        <intro>JustV捷思唯數位整合公司，是台南在地公司。業務內容包含：品牌顧問服務，及旗下經營的電子商務平台「哎喔行動網」。 JustV團隊具備數十年電商經驗，並曾協助知名跨國品牌經營大中華電商平台。 哎喔行動網，是台灣少數講求「品牌」的電商平台。在哎喔上，沒有華而不實的商業產品；哎喔只販賣兼具溫度與質感，且有助於生活的優質產品。 哎喔團隊積極尋找：優質設計師與優質品牌，並協助產品開發和品牌定位。 如果您有熱忱，想深耕在地，想將優質產品推向國際，歡迎加入哎喔！
+        </intro>
+        <website>http://justvsolution.com
+        </website>
         <logo>assets/images/logo/justv.jpg</logo>
         <interns>
             <intern>
-                <intern_id></intern_id>
-                <title></title>
-                <work></work>
-                <conditions>
-                    <sub-condition>
-                       <condition_1></condition_1>
-
-                    </sub-condition>
-                </conditions>
-                <interview></interview>
-                <pay></pay>
-                <salary></salary>
+                <intern_id>1</intern_id>
+                <title> 助理實習生</title>
+                <work>參與品牌操作、協助進出貨、庫存管控
+                </work>
+                <condition_1>兼具熱忱與耐心，願意花時間練好功夫與技能。</condition_1>
+                <condition_2>需具備基本會計觀念，並對品牌行銷有興趣。</condition_2>
+                <interview>請寄送個人履歷至信箱，由公司通知面試
+                </interview>
+                <pay>是</pay>
+                <salary>面議</salary>
                 <other></other>
                 <contact>
-                    <person></person>
+                    <person>林義捷</person>
                     <phone></phone>
-                    <mail></mail>
+                    <mail>service@addons.com.tw</mail>
                 </contact>
             </intern>
-             <intern></intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>設計實習生</title>
+                <work>網頁設計、海報平面設計，並支援公司其他業務
+                </work>
+                <condition_1>兼具熱忱與耐心，並具備設計能力</condition_1>
+                <condition_2>需具備基本會計觀念，並對品牌行銷有興趣。</condition_2>
+                <interview>請寄送個人履歷與作品至信箱，由公司通知面試</interview>
+                <pay>是</pay>
+                <salary>面議</salary>
+                <other></other>
+                <contact>
+                    <person>林義捷</person>
+                    <phone></phone>
+                    <mail>service@addons.com.tw</mail>
+                </contact>
+            </intern>
         </interns>
-    </company> -->
+    </company>
     <company>
         <ID>19</ID>
         <type>電商平台</type>
@@ -686,14 +673,14 @@
                 <interview></interview>
                 <pay></pay>
                 <salary></salary>
-                <other></other>
+                <other>不參加實體媒合會</other>
                 <contact>
                     <person></person>
                     <phone></phone>
                     <mail></mail>
                 </contact>
             </intern>
-            <intern></intern>
+            <intern><check>none</check></intern>
         </interns>
     </company>
     <company>
@@ -703,7 +690,7 @@
         <eng-name></eng-name>
         <intro>一切從撿回一隻淋濕的小貓開始，從巴掌大的奶貓慢慢餵養到喜歡躺在懷裡呼嚕的可愛孩子，希望她能健康長大，一起度過更長久的相處時光。 走進與毛孩的同居新時代，赫然發現市面上的用品總是與自己的想像有那麼一點的差距，同時因小貓的身體瘦弱且有進食困擾，透過設計的專長與經驗，研究毛孩進食姿勢與食器材料的安全問題，加上對於居家質感與品味的要求，用簡單的線條設計出托高、傾斜極具質感原木碗架，深獲國內外好評。 「拍拍」由專業的設計及製作團隊組成，從設計、選材、打樣到製作生產，皆具有豐富且完整的經驗。透過雙手，創造居家生活新形態，也讓傳統產業走出另一條路。並期待能以天然、安全兼具質感的複合素材，搭配匠心獨運的手作，實現寵物與人共享的好感生活。
         </intro>
-        <website></website>
+        <website>https://www.facebook.com/2pi.creative/?fref=ts</website>
         <logo>assets/images/logo/pet.jpg</logo>
         <interns>
             <intern>
@@ -754,6 +741,83 @@
                 <pay>是
                 </pay>
                 <salary>視經驗面議</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                </contact>
+            </intern>
+        </interns>
+    </company>
+    <company>
+        <ID>23</ID>
+        <type>設計</type>
+        <name>Mzone大港自造特區</name>
+        <eng-name></eng-name>
+        <intro>位於高雄最具文創氣息的駁二藝文特區八號倉庫， 由楊育修所帶領的經營團隊，推動在地深耕 Maker 社群出發， 放眼國際，用各式有趣課程、講座、跨域合作展演活動與微型 Maker co-working space， 把自造者精神、人、機具設備、作品及歡樂， 融聚成㇐股新文化生活態度，活絡在這 500 多坪的舊倉庫空間裡。 無論你是不是 Maker，㇐起來動手 Make Fun ! Make it Happen!! ㇐起將這裡成為南台灣最有發展性的自造者空間與跨界發展的 Maker Hub
+        </intro>
+        <website>https://drive.google.com/file/d/0ByNb3yCCWh4QTGY2SWZQSk5IRHM/view</website>
+        <logo>assets/images/logo/mzone.png</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title>場區特工</title>
+                <work>要有熱誠有服務之心的小特工，例行性的維護工作及介紹展場、展覽內容，各工作區域的行政管理與處理臨時機動情況、活動支援的幫手，甚至可參與課程與活動的執行企劃過程!</work>
+                <condition_1>a. 學歷條件不限，但是希望至少具有下列一個專長: 工業設計、平面設計、多媒體設計、理工科系如機械工程、電機工程、電子工程、木工....等</condition_1>
+                <condition_2>b. 性別不拘，只要對這個領域有熱忱 </condition_2>
+                <condition_3>c. 具備技能：基礎電腦應用、文書處理 4. 態度大方，喜歡團隊合作亦能獨立作業 </condition_3>
+                <interview>寄送履歷，由公司電郵通知面試</interview>
+                <pay>否</pay>
+                <salary>本實習為無給薪之職前學習，惟實習期間表現優異者將有機會轉為長期特工或兼、正職員工 或講師。</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>設計特務</title>
+                <work>有特殊任務需要執行，尋找平面設計與基礎拍攝；場內大小課程 與活動，紀錄與發掘故事與人物； 用創意有趣的方式呈現，必須提前合作製作成文宣、 網宣內容公告宣傳並於活動結束後報導與分享給大家。
+                </work>
+                <condition_1>有特殊任務需要執行，尋找平面設計與基礎拍攝；場內大小課程 與活動，紀錄與發掘故事與人物； 用創意有趣的方式呈現，必須提前合作製作成文宣、 網宣內容公告宣傳並於活動結束後報導與分享給大家。</condition_1>
+                <interview> 寄送履歷，由公司電郵通知面試</interview>
+                <pay>否</pay>
+                <salary>本實習為無給薪之職前學習，惟實習期間表現優異者將有機會轉為⾧期特工或兼、正職員工 或講師。</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>3</intern_id>
+                <title>文編特務</title>
+                <work> 職務內容：有特殊任務需要執行，尋找平面設計與基礎拍攝；場內大小課程 與活動，紀錄與發掘故事與人物； 用創意有趣的方式呈現，必須提前合作製作成文宣、 網宣內容公告宣傳並於活動結束後報導與分享給大家。 </work>
+                <condition_1>喜愛文字，請提供作品參考。 </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試</interview>
+                <pay>否</pay>
+                <salary>本實習為無給薪之職前學習，惟實習期間表現優異者將有機會轉為⾧期特工或兼、正職員工 或講師。</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>4</intern_id>
+                <title>自造特務</title>
+                <work>不論國內的北、中、東、西、南 部，或者國外，只要身懷好手藝或充滿自 造奇趣妙點子，並期待親手動手來實踐完成它!不論 金工、木工、電子機械、數位製造等，寫下你 的創作企劃書；包括製作理念說明、預計執行 時程與方式、初估製作費用，不用怕沒機具與設備 操作，我們一起找資源完成它!!</work>
+                <condition_1>a. 學歷條件不限，但是希望至少具有下列一個專長: 工業設計、平面設計、多媒體設計、理工科系如機械工程、電機工程、電子工程、木工....等</condition_1>
+                <condition_2>b. 請提出你的創作計畫書 ( 形式不拘 ) : 包括作品概念、製作時程與工法、製作材料成本。</condition_2>
+                <interview> 寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>否</pay>
+                <salary>本實習為無給薪之職前學習，惟實習期間表現優異者將有機會轉為⾧期特工或兼、正職員工 或講師。</salary>
                 <other></other>
                 <contact>
                     <person></person>
