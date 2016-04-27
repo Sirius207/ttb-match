@@ -1,143 +1,8 @@
-/*reset css*/
-
-html,
-body,
-div,
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
-}
-
-
-/* HTML5 display-role reset for older browsers */
-
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
-    display: block;
-}
-
-body {
-    line-height: 1;
-}
-
-ol,
-ul {
-    list-style: none;
-}
-
-blockquote,
-q {
-    quotes: none;
-}
-
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-    content: '';
-    content: none;
-}
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-
 html,
 body {
     height: 100%;
     width: 100%;
-    font-family: "微軟正黑體";
+    font-family: "微軟正黑體", "Heiti TC", "LiHei Pro";
 }
 
 .text-vertical-center {
@@ -206,6 +71,11 @@ nav i {
     margin: 5px 20px;
 }
 
+.web-logo {
+    width: 5%;
+    min-width: 50px;
+}
+
 .top {
     background: url(../images/c-hub-bg.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -226,7 +96,7 @@ nav i {
 }
 
 .top p {
-    font-size: 20px
+    font-size: 15px
 }
 
 .image-mask {
@@ -248,6 +118,11 @@ nav i {
     margin-top: 20px;
 }
 
+.icon img {
+    width: 50%;
+    margin-bottom: 40px;
+}
+
 .bottomShape {
     margin-top: -55px;
     position: relative;
@@ -260,6 +135,17 @@ nav i {
 
 .importance_head {
     margin-bottom: -20px;
+}
+
+.location {
+    background-color: #00A29A;
+    border-radius: 2px;
+    color: white;
+    height: 30px;
+    right: 0;
+    padding: 5px;
+    position: absolute;
+    z-index: 3;
 }
 
 .job {
@@ -319,6 +205,14 @@ nav i {
     margin-top: 10px;
 }
 
+.intern_title {
+    font-size: 24px;
+}
+
+.interns h6 {
+    font-size: 20px;
+}
+
 .modal {
     border-radius: 10px !important;
     max-height: 85% !important;
@@ -339,6 +233,12 @@ nav i {
     border-radius: 5px;
     font-size: 24px;
     padding: 10px;
+    transition: 0.5s;
+}
+
+.modal-close:hover {
+    background-color: white;
+    border: 1px solid gray;
 }
 
 .intern_list {
@@ -388,7 +288,11 @@ nav i {
 }
 
 .small-logo {
-    width: 60%;
+    width: 30%;
+}
+
+.host-content {
+    height: 200px;
 }
 
 footer {
@@ -498,7 +402,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 }
 
 @media screen and (min-width:1671px) {
-  .card {
+    .card {
         height: 400px;
     }
     .card .card-image img {
@@ -510,11 +414,11 @@ html body [data-ca3_iconfont="ETmodules"]::before {
     .title {
         bottom: -5px;
     }
-
 }
+
 @media screen and (min-width:1421px) and (max-width:1670px) {
     .card {
-       padding: 40px;
+        padding: 40px;
     }
     .card .card-image img {
         max-height: 300px;
@@ -522,7 +426,6 @@ html body [data-ca3_iconfont="ETmodules"]::before {
     .card .card-reveal {
         left: 0;
     }
-
     .mobile {
         display: none;
     }
@@ -538,6 +441,9 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 }
 
 @media screen and (max-device-width: 600px) {
+    .web-title {
+        margin: -10px;
+    }
     .top p {
         font-size: 16px;
         line-height: 1.5;
@@ -549,11 +455,13 @@ html body [data-ca3_iconfont="ETmodules"]::before {
     }
     .card img {
         left: 5% !important;
+        max-width: 125px;
     }
     .title {
         left: 0;
         margin-top: 15px;
         position: relative;
+        padding: 0 20px 5px 0 !important;
         width: 100%;
     }
     .card-reveal {
@@ -583,5 +491,8 @@ html body [data-ca3_iconfont="ETmodules"]::before {
     }
     .mobile {
         display: relative;
+    }
+    .host-content {
+        height: 120px;
     }
 }
