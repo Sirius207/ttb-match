@@ -12,42 +12,34 @@
     <meta property="og:title" content="2016 實習媒合會" />
     <meta property="og:type" content="" />
     <meta property="og:url" content="" />
-    <meta property="og:image" content="assets/images/logo_s.png" />
+    <meta property="og:image" content="assets/images/intern_logo2.png" />
     <meta property="og:description" content="【自己的機會由自己爭取】 成大首次針對學生，量身打造的實習媒合大展即將登場！
                 打破傳統擺攤的制式氛圍，以開放空間、自由交流為主的輕鬆導向，加上橫跨多元產業的不同選擇～
                 無論你想來認識新朋友，還是想要找個好實習，5/7我們C-HUB見！" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="assets/css/reset.css" />
     <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/nav.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
     <link rel="stylesheet" href="assets/css/animate.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="assets/images/intern_logo2.png" rel="image_src" type="image/jpeg">
+    <link rel="icon" type="image/x-icon" href="assets/images/logo_s.png">
 </head>
 
 <body>
-    <nav>
-        <div class="nav-wrapper " style="background-color:#AF0D21">
-            <a href="#top" class="brand-logo">
-                <!-- <i class="large material-icons">done_all</i> -->
-            </a>
-            <ul id="nav-mobile" class="waves-effect right hide-on-med-and-down  ">
+    <div class="open_nav">
+        <span class="cls"></span>
+        <span>
+            <ul class="sub-menu ">
                 <li><a href="#info">活動介紹</a></li>
                 <li><a href="#job">徵才訊息</a></li>
                 <li><a href="#map">交通方式</a></li>
-                <li><a target="_blank" href="http://startup.ncku.edu.tw/">回首頁</a></li>
-                <!-- <li><a href="#contact">聯絡我們</a></li> -->
+                <li><a href="#top">回首頁</a></li>
+                <li><a target="_blank" href="http://startup.ncku.edu.tw/">Startup</a></li>
             </ul>
-            <a href="#" data-activates="slide-out" class="button-collapse"><i class="small-icon material-icons">reorder</i></a>
-        </div>
-    </nav>
-    <div class="sidebar">
-        <ul id="slide-out" class="side-nav">
-            <li><a href="#info">活動介紹</a></li>
-            <li><a href="#job">徵才訊息</a></li>
-            <li><a href="#map">交通方式</a></li>
-            <li><a target="_blank" href="http://startup.ncku.edu.tw/">回首頁</a></li>
-            <!-- <li><a href="#contact">聯絡我們</a></li> -->
-        </ul>
+        </span>
+    <span class="cls"></span>
     </div>
     <header id="top" class="top">
         <div class="image-mask text-vertical-center ">
@@ -67,7 +59,7 @@
             <a class="ca3-scroll-down-link ca3-scroll-down-arrow" data-ca3_iconfont="ETmodules" data-ca3_icon="" href="#info"></a>
         </div>
     </header>
-    <section id="info" class="info head-padding section scrollspy main_view">
+    <section id="info" class="info section scrollspy main_view">
         <div class="container text-center">
             <h1 class="text-center ">活動介紹</h1>
             <p class="text-left content_line_height">實習媒合會? 學校不是已經有很多實習說明會了嗎? 這是個怎麼樣的活動呢?
@@ -79,7 +71,7 @@
     <svg id="topShape" class="topShape" width="100%" height="90px" fill="#AF0D21" viewBox="0 0 1366 90" preserveAspectRatio="none">
         <path d="M 0.41421356,0.19566509 1366,0.05152333 1366,64.30153 550,26.30153 -0.03033009,73.726403" stroke-width="0" stroke-dasharray="none" stroke-miterlimit="4"></path>
     </svg>
-    <section id="about" class="about head-padding ">
+    <section id="about" class="about  ">
         <div class="container">
             <h1 class="text-center slogan">為什麼我們需要媒合會？</h1>
             <div class="row">
@@ -116,7 +108,7 @@
     <svg id="bottomShape" class="importance_head" width="100%" height="90px" fill="#AF0D21" viewBox="0 0 1366 90" preserveAspectRatio="none">
         <path d="m 0.274329,73.862183 1366,0 L 1366,9.3475355 900.35901,39.96681 -0.00563127,0.20494098 z" stroke-width="0" stroke-dasharray="none" stroke-miterlimit="4"></path>
     </svg>
-    <section id="importance" class="importance info head-padding main_view">
+    <section id="importance" class="importance info main_view">
         <div class="container">
             <h1 class="text-center">重要性</h1>
             <div class="row">
@@ -141,7 +133,7 @@
             </div>
         </div>
     </section>
-    <section id="job" class="job head-padding scroll section scrollspy">
+    <section id="job" class="job scroll section scrollspy">
         <div class="container">
             <h1 class="text-center slogan">徵才訊息</h1>
             <div class="row companys">
@@ -260,7 +252,7 @@
                                     <h7>{{type}}</h7>
                                     <h5 class=" activator card_line ">{{name}}
                                 </h5>
-                                    <h5 class="text-center more mobile"><a class="modal-trigger" href="#modal{{num}}">More</a></h5>
+                                    <h5 class="text-center more mobile"><a class="modal-trigger" href="#modal_cn{{num}}">More</a></h5>
                                 </div>
                             </div>
                             <div class="card-reveal">
@@ -442,9 +434,9 @@
     </section>
     <footer>
         <div class="row">
-            <div class="col s12 m12">
-                <a class="grey-text text-lighten-4 left" href="https://www.facebook.com/nckuea/?fref=ts">© 2016 NCKU EA,</a>
-                <a class="grey-text text-lighten-4 left " href="https://www.facebook.com/ncku.ccns/">Designed: CCNS</a>
+            <div class="col s12 m12 text-center">
+                <a class="grey-text text-lighten-4 " href="https://www.facebook.com/nckuea/?fref=ts">© 2016 成功大學創業聯合會 NCKU EA. All right reserved. </a>
+                <a class="grey-text text-lighten-4 " href="https://www.facebook.com/ncku.ccns/">Designed: CCNS</a>
             </div>
         </div>
     </footer>

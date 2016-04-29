@@ -8,7 +8,7 @@ body {
 .text-vertical-center {
     display: table-cell;
     text-align: center;
-    vertical-align: middle;
+    /*vertical-align: middle;*/
 }
 
 .head-padding {
@@ -104,7 +104,7 @@ nav i {
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.2), -10px -10px 10px 0 rgba(0, 0, 0, 0.12);
     margin: 0 auto;
     margin-top: 50px;
-    padding: 5px;
+    padding-top:8% ;
     text-align: center;
     width: 100%;
 }
@@ -134,7 +134,7 @@ nav i {
 }
 
 .importance_head {
-    margin-bottom: -20px;
+    margin-bottom: -55px;
 }
 
 .location {
@@ -168,6 +168,7 @@ nav i {
 .card_line {
     border-width: 1px 0 1px 0;
     border-style: solid;
+    font-size: 1.4rem;
     padding: 3px;
 }
 
@@ -289,6 +290,9 @@ nav i {
 
 .small-logo {
     width: 30%;
+}
+.host{
+    padding:2rem;
 }
 
 .host-content {
@@ -450,16 +454,16 @@ html body [data-ca3_iconfont="ETmodules"]::before {
         padding: 2%;
     }
     .card {
-        height: 130px;
+        height: 8.5rem;
         font-family: arial;
     }
     .card img {
-        left: 5% !important;
-        max-width: 125px;
+        margin:0 auto;
+        max-width: 115px;
     }
     .title {
         left: 0;
-        margin-top: 15px;
+        margin-top: 0.5rem;
         position: relative;
         padding: 0 20px 5px 0 !important;
         width: 100%;
