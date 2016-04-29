@@ -1,14 +1,17 @@
 $(document).ready(function() {
     side_nav();
     parallax_scroll();
-    ractive_init(function() {
+    ractive_init_tw(function() {
+        modal();
+    });
+    ractive_init_cn(function() {
         modal();
     });
     // $('.scrollspy').scrollSpy();
 });
 
-function ractive_init(callback) {
-    $.get("/ttb-match/assets/companys.xml", function(xml) {
+function ractive_init_tw(callback) {
+    $.get("assets/companys.xml", function(xml) {
         var obj_companys = $.xml2json(xml);
         var stringified = JSON.stringify(obj_companys);
         stringified = stringified.replace(/[\r\n\t]/g,"<br/>");
@@ -18,6 +21,23 @@ function ractive_init(callback) {
             template: '#template',
             data: {
                 company: companys.company
+            }
+        });
+        callback();
+    });
+};
+
+function ractive_init_cn(callback) {
+    $.get("assets/china.xml", function(xml) {
+        var obj_companys = $.xml2json(xml);
+        var stringified = JSON.stringify(obj_companys);
+        stringified = stringified.replace(/[\r\n\t]/g,"<br/>");
+        var china = JSON.parse(stringified);
+        var ractive = new Ractive({
+            el: '.china',
+            template: '#cn',
+            data: {
+                company: china.company
             }
         });
         callback();

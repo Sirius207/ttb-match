@@ -82,7 +82,7 @@
             </intern>
             <intern>
                 <intern_id>2</intern_id>
-                <title>廣告製作與投放實習生</title>
+                <title>廣告投放實習生</title>
                 <work>廣告素材制訂、企畫撰寫、FB/Google 廣告投放</work>
                 <condition_1>對行銷領域有研究或興趣者為佳。</condition_1>
                 <condition_2>有遠端工作經驗、有粉絲團經營經驗(有廣告經驗者佳)</condition_2>
@@ -100,6 +100,21 @@
                 <title>行銷實習生</title>
                 <work>行銷活動企劃與執行，產業外部宣傳</work>
                 <condition_1>創造力、想像力、社群的熱情，具撰寫專案能力及企劃經驗者佳（詳請附上作品）</condition_1>
+                <interview>由公司電郵通知</interview>
+                <pay>是</pay>
+                <salary>面議</salary>
+                <other></other>
+                <contact>
+                    <person>林怡貞－專案經理</person>
+                    <phone></phone>
+                    <mail>supermo@ssxelerator.com</mail>
+                </contact>
+            </intern>
+             <intern>
+                <intern_id>4</intern_id>
+                <title>產品分析實習生</title>
+                <work>產品數據分析、資料整理、資訊分析規劃</work>
+                <condition_1>對數字的敏銳度，善挖掘熱愛分析，沉溺於數字世界裡面讓你感到愉悅及快樂</condition_1>
                 <interview>由公司電郵通知</interview>
                 <pay>是</pay>
                 <salary>面議</salary>
@@ -181,7 +196,7 @@
                 <work>專案推廣與執行 合作駕駛招募及管理,協助合作駕駛解決問題 品牌大使 街頭推廣、活動宣傳(平日及假日) </work>
                 <condition_1>a. 不怕與陌生人溝通,具備危機處理能力 抗壓性大、願意處理瑣碎事務；(實習生應具備條件與技能): 招募對象:大三以上、研究所、剛畢業 or any 熱愛Uber的你/妳,</condition_1>
                 <condition_2>b. 限院校科系</condition_2>
-                <interview>5. Week 1:填寫申請表 Application Week 2:線上測驗評選 Uber Knowledge Test Week 3:部門主管面試 Interview Week 4:實戰演練 Orientation</interview>
+                <interview>Week 1:填寫申請表 Application Week 2:線上測驗評選 Uber Knowledge Test Week 3:部門主管面試 Interview Week 4:實戰演練 Orientation</interview>
                 <pay>是</pay>
                 <salary>有給薪,表現良好可以獲得推薦信,參與專案活動還有額外獎勵!</salary>
                 <other></other>
@@ -303,7 +318,22 @@
         <interns>
             <intern>
                 <intern_id>1</intern_id>
-                <title>視覺傳達實習生、多媒體設計實習生</title>
+                <title>視覺傳達實習生</title>
+                <work>團隊一同進行星球相關品牌與活動的視覺包裝：網站內容維運、BE Alien專欄設計、外星人設計經紀、外星人資料庫建立、外星人多媒體資料庫建立visitor show。</work>
+                <condition_1>對共同創作懷有熱忱，熱愛旅行，喜歡創意，擁抱自由，獨立自主，責任感，對現代生活有不同想像且對不同事物好奇，而且跟我們一樣不（愛）務正業</condition_1>
+                <interview>寄送個人履歷，由公司電郵通知面試。</interview>
+                <pay>否，以實習期間24/7共同工作空間使用，以及一個月創業實務課程交換：包括Orientation、Design Basic、Presentation、Communication、Service Design、Curation、Marketing、Startup Toolkit。之後兩個月將有許多body storm、許多參訪、以及每月任務完成，由導師帶領小組合作與對抗的遊戲化方式進行。。表現良好的實習生在經過第一個月培訓以及第二個月專案實務後，經書審及英文面試後，第三個月可前往泰國曼谷的設計共同工作空間Draft Board進行跨國實習。</pay>
+                <salary>否，請閱上述福利</salary>
+                <other></other>
+                <contact>
+                    <person>陳運成</person>
+                    <phone></phone>
+                    <mail>support@planett.tw</mail>
+                </contact>
+            </intern>
+             <intern>
+                <intern_id>2</intern_id>
+                <title>多媒體設計實習生</title>
                 <work>團隊一同進行星球相關品牌與活動的視覺包裝：網站內容維運、BE Alien專欄設計、外星人設計經紀、外星人資料庫建立、外星人多媒體資料庫建立visitor show。</work>
                 <condition_1>對共同創作懷有熱忱，熱愛旅行，喜歡創意，擁抱自由，獨立自主，責任感，對現代生活有不同想像且對不同事物好奇，而且跟我們一樣不（愛）務正業</condition_1>
                 <interview>寄送個人履歷，由公司電郵通知面試。</interview>
@@ -317,7 +347,7 @@
                 </contact>
             </intern>
             <intern>
-                <intern_id>2</intern_id>
+                <intern_id>3</intern_id>
                 <title>行銷企劃實習生</title>
                 <work> 每週固定的星球交流活動、星球在地共創計畫、以及其他策展活動。</work>
                 <condition_1>對共同創作懷有熱忱，熱愛旅行，喜歡創意，擁抱自由，獨立自主，責任感，對現代生活有不同想像且對不同事物好奇，而且跟我們一樣不（愛）務正業</condition_1>
@@ -346,7 +376,7 @@
         <interns>
             <intern>
                 <intern_id>1</intern_id>
-                <title>市銷售與通路管理 實習生</title>
+                <title>銷售通路管理實習生</title>
                 <work>負責藍晒圖門市的銷售業務,定期盤點台南各銷售據點的庫存、補貨及各門市呈列調整 - 參與門市行銷活動規劃並協助執行</work>
                 <condition_1>熱血創新的心</condition_1>
                 <interview>寄送履歷，由公司電郵通知面試</interview>
@@ -860,7 +890,7 @@
         <interns>
             <intern>
                 <intern_id>1</intern_id>
-                <title>銷售與通路管理 助理實習生</title>
+                <title>銷售與通路管理實習生</title>
                 <work>負責各門市的銷售業務、盤點庫存、補貨，參與門市行銷活動規劃並協助執行。</work>
                 <condition_1>未來對寵物及業務銷售有興趣者
                 </condition_1>
@@ -1008,7 +1038,7 @@
         <interns>
             <intern>
                 <intern_id>1</intern_id>
-                <title>社群活動暨媒體實習生</title>
+                <title>社群暨媒體實習生</title>
                 <work>1.社群活動策劃與執行 2.協助公關部門採訪活動與團隊</work>
                 <condition_1>a. 自備筆記型電腦與交通工具 </condition_1>
                 <condition_2>b. 對活動策劃與執行，以及採訪編輯有興趣</condition_2>

@@ -12,7 +12,7 @@
     <meta property="og:title" content="2016 實習媒合會" />
     <meta property="og:type" content="" />
     <meta property="og:url" content="" />
-    <meta property="og:image" content="" />
+    <meta property="og:image" content="assets/images/logo_s.png" />
     <meta property="og:description" content="【自己的機會由自己爭取】 成大首次針對學生，量身打造的實習媒合大展即將登場！
                 打破傳統擺攤的制式氛圍，以開放空間、自由交流為主的輕鬆導向，加上橫跨多元產業的不同選擇～
                 無論你想來認識新朋友，還是想要找個好實習，5/7我們C-HUB見！" />
@@ -56,7 +56,7 @@
             <br>
             <p>【自己的機會由自己爭取】 成大首次針對學生，量身打造的實習媒合大展即將登場！
                 <br>
-                <br>打破傳統擺攤的制式氛圍，以開放空間、自由交流為主的輕鬆導向，加上橫跨多元產業的不同選擇～
+                <br>打破傳統擺攤制式氛圍、以開放空間、自由交流的輕鬆導向，加上橫跨多元產業的不同選擇!
                 <br>
                 <br>無論你想來認識新朋友，還是想要找個好實習，5/7我們C-HUB見！
             </p>
@@ -87,7 +87,7 @@
                     <div class="icon text-center"> <img src="assets/images/circle.png" alt=""></div>
                     <p><b>機會、資訊、經驗的分享與取得更加容易</b></p>
                     <br>
-                    <p class="content_line_height">在自己找實習的時候，因為各家公司的實習機會多公布於自己的於自己的公司管道，因此會需要自己一個一個的去不同的管道來找到自己有興趣的公司與實習職位。而本次媒合會便是邀請來自南與高雄雄雄雄的22間廠商來到成大，讓同學們在實習媒合會便可以一次性的了解各家廠商的資訊和各式各樣的機會。
+                    <p class="content_line_height">在自己找實習的時候，因為各家公司的實習機會多公布於自己的公司管道，因此會需要自己一個一個的去不同的管道來找到自己有興趣的公司與實習職位。而本次媒合會便是邀請來自南與高雄的22間廠商來到成大，讓同學們在實習媒合會便可以一次性的了解各家廠商的資訊和各式各樣的機會。
                         <br>
                         <br>
                     </p>
@@ -184,11 +184,11 @@
                     <div id="modal{{num}}" class="modal slogan">
                         <div class="modal-content">
                             <h4>{{name}}</h4>
-                            <p>{{intro11}}</p>
-                            <p>{{intro12}}</p>
-                            <p>{{intro13}}</p>
-                            <p>{{intro14}}</p>
-                            <p>{{intro15}}</p>
+                            <p>{{intro1}}</p>
+                            <p>{{intro2}}</p>
+                            <p>{{intro3}}</p>
+                            <p>{{intro4}}</p>
+                            <p>{{intro5}}</p>
                             <br>
                             <p>詳細介紹: <a href="{{website}}">{{name}}</a></p>
                             <p>是否出席媒合會: {{attend}} </p>
@@ -197,7 +197,8 @@
                                 <h5><b>實習生職缺</b></h5>
                                 <br> {{#with interns}} {{#each intern:num}}
                                 <li style="display:{{check}}" class="intern_list">
-                                    <h6 class="intern_title"><b>{{intern_id}}. {{title}}</b></h6><br>
+                                    <h6 class="intern_title"><b>{{intern_id}}. {{title}}</b></h6>
+                                    <br>
                                     <ul class="interns">
                                         <li>
                                             <h6><b>職務內容:</b></h6>
@@ -228,13 +229,130 @@
                                                 <li>{{contact.person}}</li>
                                                 <li>{{contact.phone}}</li>
                                                 <li>{{contact.mail}}</li>
-                                                <li><a href="{{contact.link}}">{{contact.link}}</a>
+                                                <li><a href="{{contact.link}}">{{contact.link}}</a></li>
                                             </ul>
-                                            </li>
-                                            <br>
+                                        </li>
+                                        <br>
                                     </ul>
-                                    </li>
-                                    <br> {{/each}} {{/with}}
+                                </li>
+                                <br> {{/each}} {{/with}}
+                            </ul>
+                        </div>
+                        <div class="modal-footer text-center">
+                            <a href="#!" class=" modal-action modal-close ">Close</a>
+                        </div>
+                    </div>
+                    {{/each}}
+                </script>
+            </div>
+            <h3 class="text-center slogan">傑青會中國實習</h3>
+            <div class="row china">
+                <script id='cn' type='text/ractive'>
+                    {{#each company:num}}
+                    <div class="col s12 m3">
+                        <div class="card wow fadeInUp slogan">
+                            <div class="row">
+                                <h7 class="location">{{location}}</h7>
+                                <div class="col s4 m12 card-image waves-effect waves-block waves-light">
+                                    <img class="activator" src="assets/images/cn_logo/{{logo}}">
+                                </div>
+                                <div class="col s8 m12 card-content title text-center">
+                                    <h7>{{type}}</h7>
+                                    <h5 class=" activator card_line ">{{name}}
+                                </h5>
+                                    <h5 class="text-center more mobile"><a class="modal-trigger" href="#modal{{num}}">More</a></h5>
+                                </div>
+                            </div>
+                            <div class="card-reveal">
+                                <h5 class="card-title grey-text text-darken-4 card_bottom_line">
+                                <i class="material-icons ">close</i>{{name}}</h5>
+                                <div class="row">
+                                    <div class="col s12 m12">
+                                        <ul>
+                                            <li><b>實習期間</b></li>
+                                            <br>
+                                            <li>{{duration}}</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col s12 m12">
+                                        <h5 class="text-center card_line more"><a class="modal-trigger" href="#modal_cn{{num}}">More</a></h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Modal Structure -->
+                    <div id="modal_cn{{num}}" class="modal slogan">
+                        <div class="modal-content">
+                            <h4>{{name}}</h4>
+                            <p>{{intro1}}</p>
+                            <p>{{intro2}}</p>
+                            <p>{{intro3}}</p>
+                            <p>{{intro4}}</p>
+                            <p>{{intro5}}</p>
+                            <br>
+                            <p>詳細介紹: <a href="{{web}}">{{name}}</a></p>
+                            <ul>
+                                <br>
+                                <h5><b>實習資訊</b></h5>
+                                <br>
+                                <li class="intern_list">
+                                    <ul class="interns">
+                                        <li>
+                                            <h6><b>實習時間:</b></h6>
+                                            <p>{{duration}}</p>
+                                        </li>
+                                        <br>
+                                        <li>
+                                            <h6><b>徵求條件:</b></h6>
+                                            <ul>
+                                                <li>2016年正式註冊之大三以上在校大學生（含碩博士/2016年暑假即將畢業者亦可報名參加）。</li>
+                                                <li>請有意申請的同學先行填寫<a href="https://goo.gl/o0YCm5">表單</a>
+                                                    <br> 或寄信至：acebjinternship@gmail.com，我們將待完整簡章釋出後，即時與您聯繫。
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <br>
+                                        <li>
+                                            <h6><b>面試事項:</b></h6>
+                                            <p>配合職缺專業需求，將統一進行書面篩選後，透過面談媒合合適職缺。</p>
+                                        </li>
+                                        <br>
+                                        <li>
+                                            <h6><b>實習生義務:</b></h6>
+                                            <ul>
+                                                <li>1.參與費用：含機票、活動報名費用與保證金，將待簡章進一步公布。</li>
+                                                <li>2.實習要求
+                                                    <br>(1) 每週均須繳交實習活動心得，至少1,500字，以電子檔(附實習照片)及紙本各一份，四週共4份；並於實習活動結束後二週內繳交個人實習總心得報告一份至主辦單位，至少5,000字，以電子檔(附實習照片)及紙本各一份。日後並須配合發表交流經驗，主辦單位保有對實習同學心得發表的權力。
+                                                    <br>(2) 須配合實習活動開始及結束時程，不得有延遲前往、脫隊或延遲返台等情形，且全程參加本項活動，不得無故缺席或未經活動專案負責人同意私自離隊外出。如不遵守相關實習規定者，立即取消實習資格且無法獲得任何補助。
+                                                    <br>(3) 實習者一律團進團出，包含機位，請遵守本次活動之規章。
+                                                    <br>(4) 實習活動期間，須配合主辦單位生活管理。
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <br>
+                                        <li>
+                                            <h6><b>實習生權利:</b></h6>
+                                            <ul>
+                                                <li>1.補助實習活動期間食宿費用。</li>
+                                                <li>2.住宿標準：獨立衛浴，有網路。</li>
+                                                <li>3.順利完成實習並遵守主辦單位各項規章者，每月均可獲得主辦單位補助款人民幣一千元整。</li>
+                                            </ul>
+                                        </li>
+                                        <br>
+                                        <li>
+                                            <h6><b>連繫對口:</b></h6>
+                                            <ul>
+                                                <li>2016 台灣青年大陸暑期實習活動籌備處</li>
+                                                <li>聯絡人：陳郁宏</li>
+                                                <li>聯絡地址：新北市永和區文化路90巷27弄5號2樓</li>
+                                                <li>聯絡電話：(02)2921-3223</li>
+                                            </ul>
+                                        </li>
+                                        <br>
+                                    </ul>
+                                </li>
+                                <br>
                             </ul>
                         </div>
                         <div class="modal-footer text-center">
@@ -246,7 +364,7 @@
             </div>
         </div>
     </section>
-  <!--   <section id="prepare" style="background-position: 50% -2px;">
+    <!--   <section id="prepare" style="background-position: 50% -2px;">
         <div class="image-mask">
             <div class="container">
                 <h1 class="text-center"></h1>
@@ -311,7 +429,7 @@
                 <div class="host-content col s6 m4 text-center">
                     <a href="https://www.facebook.com/%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%B6%AF%E7%99%BC%E5%B1%95%E8%88%87%E5%B0%B1%E6%A5%AD%E8%BC%94%E5%B0%8E%E7%B5%84-122698837912938/?fref=ts">
                         <img class="small-logo" src="assets/images/logo/ncku.png" alt="ncku">
-                        <h5>成功大學生涯發展與就業輔導組</h5>
+                        <h6>成功大學生涯發展與就業輔導組</h6>
                     </a>
                 </div>
                 <div class="host-content col s6 m4 text-center">
