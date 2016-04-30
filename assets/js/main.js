@@ -74,10 +74,14 @@ function side_nav() {
     });
 };
 
+
 // parallax scrolling
 function parallax_scroll() {
-    $('#top').parallax("50%", 0.2);
-    $('#job').parallax("50%", 0.1);
+    if (screen.width >= 600) {
+        new WOW().init();
+        $('#top').parallax("50%", 0.2);
+        $('#job').parallax("50%", 0.1);
+    }
     // scroll smoothly
     $('a[href*=#]:not([href=#])').click(function() {
         if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -91,5 +95,5 @@ function parallax_scroll() {
             }
         }
     });
-    
+
 }
