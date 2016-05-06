@@ -138,7 +138,7 @@
         </intro1>
         <intro2>我們不同於一般本土新創公司，奧丁丁在一開始發行就有 13 國語言，從一開始就打算做跨國 的品牌，不被語言或地域所侷限。 擁抱新技術是我們的核心文化，我們是台灣目前唯一接受 BitCoin 支付的電子商務平台，也積 極投入新時代 BlockChain 和 Ethereum 技術，未來也會持續和世界級的公司接軌合作。
         </intro2>
-        <website>https://goo.gl/MHbI6J</website>
+        <website>https://www.owlting.com/job#all_job</website>
         <logo>assets/images/logo/owlting.png</logo>
         <interns>
             <intern>
@@ -188,14 +188,16 @@
                     </phone>
                     <mail>jobs@obook.com
                     </mail>
-                    <link>https://www.owlting.com/job#all_job</link>
+                    <link></link>
                 </contact>
             </intern>
             <intern>
                 <intern_id>3</intern_id>
                 <title>iOS工程師</title>
-                <work>奧丁丁工程團隊開發項目主要分為三類，網頁(行動版優先)、iOS還有Android。 主要負責的產品除了一般用戶使用的軟體之外，也包含了給全世界各地供應商使用的後台系統。 未來除了專注在奧丁丁市集的進化，也會接觸包括旅遊、支付等專案，是個非常有挑戰但有趣的工作。 所有的軟體版本也都包含多國語言，未來也會跟國外工程團隊開會，所以英語能力佳也是最低要求。 目前我們的開發重心主力專注在行動裝置，每一位工程師都至少可以獨立開發兩種系統，也希望加入我們的人才可以在迅速的開發環境中快速成長，具有獨當一面的能力。 工程師直接跟技術長/執行長討論產品設計和進度。 開發維護, 改進現有iOS App, 使用XCode管理開發App 介面, 與團隊溝通並能設計改進現有流程.
+                <work>奧丁丁工程團隊開發項目主要分為三類，網頁(行動版優先)、iOS還有Android。 主要負責的產品除了一般用戶使用的軟體之外，也包含了給全世界各地供應商使用的後台系統。 未來除了專注在奧丁丁市集的進化，也會接觸包括旅遊、支付等專案，是個非常有挑戰但有趣的工作。 所有的軟體版本也都包含多國語言，未來也會跟國外工程團隊開會，所以英語能力佳也是最低要求。 目前我們的開發重心主力專注在行動裝置，每一位工程師都至少可以獨立開發兩種系統，也希望加入我們的人才可以在迅速的開發環境中快速成長，具有獨當一面的能力。
                 </work>
+                <work2>工程師直接跟技術長/執行長討論產品設計和進度。</work2>
+                <work3>開發維護, 改進現有iOS App, 使用XCode管理開發App 介面, 與團隊溝通並能設計改進現有流程.</work3>
                 <condition_1>a. 需有一年以上工作經驗 </condition_1>
                 <condition_2>b. 熟悉 Object C語法及iOS App開發, 有作品經驗</condition_2>
                 <condition_3>c. 熟悉 XCode、Storyboard使用</condition_3>
@@ -217,7 +219,7 @@
                     </phone>
                     <mail>jobs@obook.com
                     </mail>
-                    <link>https://www.owlting.com/job#all_job</link>
+                    <link></link>
                 </contact>
             </intern>
         </interns>
