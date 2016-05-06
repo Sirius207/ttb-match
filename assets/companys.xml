@@ -1,56 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <companys>
-    <company>
-        <ID>1</ID>
-        <type>科技新創</type>
-        <location>台南</location>
-        <attend>是</attend>
-        <name>凱鈿行動科技
-        </name>
-        <eng-name>Kdan Mobile Software Ltd.</eng-name>
-        <intro1>凱鈿行動科技創立於2009年，總部位於台灣，另於中國、美國設有分公司；致力打造行動軟體和平台服務，讓您在文書和創意工作中事半功倍。目前全球超過六千萬的用戶共同見證我們高品質的產品與服務，透過凱鈿平台方案，用戶可在不同平台的裝置中創作、發佈、串流專案。</intro1>
-        <intro2>在凱鈿，我們致力讓創意與知識無遠弗屆。 由App產品開發擴展成為App平台、 以及提供平台上的各式加值內容與服務是凱鈿的一貫性發展原則， 目前不論是智慧型手機、 平板電腦、 桌上型電腦／ 筆計型電腦， 甚至各式網路平台都已經發展出App線上商店模式， 凱鈿擁有先入者優勢， 所累積的系統、 平台技術開發能量、 全球行銷推廣能力、 以及領先業界的設計體驗， 讓很多世界級大廠主動與我們合作成為伙伴關係， 底下為目前公司的產品發展主軸： </intro2>
-        <intro3>1. 行動辦公室文件編輯服務 </intro3>
-        <intro4>2. 多媒體內容創作與影像處理 </intro4>
-        <intro5>3. 線上商店與雲端內容服務平台</intro5>
-        <website>http://www.kdanmobile.com/zh-tw/</website>
-        <logo>assets/images/logo/kdan.jpg</logo>
-        <interns>
-            <intern>
-                <intern_id>1</intern_id>
-                <title>行銷助理</title>
-                <work>協助製作產品操作手冊， 協助客服， 經營用戶關係</work>
-                <condition_1>具備英語能力， 需提供英文能力證明</condition_1>
-                <interview>5 / 12 由凱鈿行動科技公司通知</interview>
-                <pay>是</pay>
-                <salary> 150 / 小時</salary>
-                <other></other>
-                <contact>
-                    <person>駱巧珊 Clare Lo</person>
-                    <phone>06 - 3131660 #240</phone>
-                    <mail>clare23@kdammoble.com</mail>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>2</intern_id>
-                <title>設計助理</title>
-                <work>處理產品上線相關媒體內容、 平面設計、 影片剪輯</work>
-                <condition_1>a. 平面設計相關軟體熟悉 Photoshop.illustrator</condition_1>
-                <condition_2>b. 想學習介面規劃與產品開發流程</condition_2>
-                <condition_3>c. 對使用者具備同理心</condition_3>
-                <condition_4>d. 能融入大團體</condition_4>
-                <interview>5 / 12 由凱鈿行動科技公司通知</interview>
-                <pay>是</pay>
-                <salary>150 / 小時</salary>
-                <other></other>
-                <contact>
-                    <person>駱巧珊 Clare Lo</person>
-                    <phone>06 - 3131660 #240</phone>
-                    <mail>clare23@kdammoble.com</mail>
-                </contact>
-            </intern>
-        </interns>
-    </company>
+    
     <company>
         <ID>2</ID>
         <type>科技新創</type>
@@ -127,40 +77,7 @@
             </intern>
         </interns>
     </company>
-    <company>
-        <ID>3</ID>
-        <type>旅遊新創</type>
-        <location>台南</location>
-        <attend>是</attend>
-        <name>RTM泛旅遊</name>
-        <eng-name></eng-name>
-        <intro1>RTM泛旅遊：一個整合與發展台灣新創旅遊資源及影響力的非營利組織、社群平台。透過「旅創」團隊交流、育成；青年「人才」串連、培訓；社區再造和產業轉型等「在地推廣」之文化觀光發展，打造台灣泛旅遊生活圈的新創生態系，合作打群架創造新的產業價值。 在台南成大，RTM期待透過以下規劃，打造青年旅創社群： → 旅遊新創講堂 → 企業參訪（"與創業家有約"餐敘） → 校際旅遊創業企劃大賽 → 在地推廣x下鄉小隊駐點計畫 → 創意旅行帶團實作 → 國際讀書會 → 企業專案合作外部提案 → 學生旅遊創業育成顧問 → RTM台南地區實習/志工社群經營（Facebook粉專/社團） → 支援RTM台南地推行動</intro1>
-        <website>https://www.facebook.com/redefinetourismmixer/?fref=ts</website>
-        <logo>assets/images/logo/rtm.jpg</logo>
-        <interns>
-            <intern>
-                <content>true</content>
-                <intern_id>1</intern_id>
-                <title>品牌推廣實習生</title>
-                <work>挖掘在地優質團隊、在地活動企劃、品牌經營、青年串聯培訓課程設計</work>
-                <condition_1>熱愛台灣土地及文化創意發展，對觀光旅遊業，創新創業概念充滿熱情，你就是我們要的人！</condition_1>
-                <condition_2>加分條件: 行銷方案企劃能耐、設計美編能力、推廣宣傳號召力、活動執行力、善用社群媒體 </condition_2>
-                <interview>由公司電郵通知 </interview>
-                <pay>是</pay>
-                <salary>以專案為單位按件計酬，每次行動獎金NTD1,000~12,000不等。</salary>
-                <other></other>
-                <contact>
-                    <person>陳怡文</person>
-                    <phone></phone>
-                    <mail>redefinetourismmixer@gmail.com</mail>
-                </contact>
-            </intern>
-            <intern>
-                <check>none</check>
-            </intern>
-        </interns>
-    </company>
-    <company>
+     <company>
         <ID>4</ID>
         <type>科技新創</type>
         <location>高雄</location>
@@ -209,6 +126,412 @@
             </intern>
         </interns>
     </company>
+
+     <company>
+        <ID>29</ID>
+        <type>電商平台</type>
+        <location>台北</location>
+        <attend>否</attend>
+        <name>奧丁丁</name>
+        <eng-name></eng-name>
+        <intro1>奧丁丁是由矽谷搬回台灣的 Darren Wang 在 2010 年創辦的。在經歷了五年多的嘗試，我們從一開始的 OBOOK App(蘋果官方推薦第一名的找書買書 App），到後來的奧丁丁地點推薦社群服務，奧丁丁商家優惠、奧丁丁市集/開放市集/旅遊服 務等等，慢慢發展出基於地圖、社群的完整生態系。 2014 年，奧丁丁市集上線，訴求在地精選，產地到餐桌，實踐公平交易，利潤回歸生產者。 我們的業務開始爆發。短短不到 2 年時間，台灣鮮乳地圖/台灣水果地圖/青農地圖/茶農地圖已 是線上直接跟生產者購買的第一選擇。2015 年的開放市集服務，讓每一個中小商家三分鐘， 就可以最低廉的成本完成行動商店。2016 年我們更已將開放市集拓展到全世界，實踐由台灣 出發的跨境電商。旅遊服務除已上線的全球訂房，更將整合在地導覽行程，成為全新世代的旅 遊服務業者，完成 SoLo-MoMa 生態系!
+        </intro1>
+        <intro2>我們不同於一般本土新創公司，奧丁丁在一開始發行就有 13 國語言，從一開始就打算做跨國 的品牌，不被語言或地域所侷限。 擁抱新技術是我們的核心文化，我們是台灣目前唯一接受 BitCoin 支付的電子商務平台，也積 極投入新時代 BlockChain 和 Ethereum 技術，未來也會持續和世界級的公司接軌合作。
+        </intro2>
+        <website>https://goo.gl/MHbI6J</website>
+        <logo>assets/images/logo/owlting.png</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title>業務發展暨客戶服務代表</title>
+                <work>(1)開發電商及旅遊服務的供應商，宣揚奧丁丁的理念，壯大奧丁丁生態系</work>
+                <work2>(2)服務各種來自客人的產品詢問，不滿客訴，鍛鍊自己的應變能力</work2>
+                <work3>(3)協助處理業務部門事務</work3>
+                <condition_1>a. 對網路新創產業的熱情 </condition_1>
+                <condition_2>b. 表達能力佳，對與人互動有熱情</condition_2>
+                <condition_3>c. 自我要求高，自律性強</condition_3>
+                <condition_4>d. 找方法，不找理由</condition_4>
+                <condition_5>e. 流暢英語能力為基本要求</condition_5>
+                <condition_6>加分條件：</condition_6>
+                <condition_7>--Linux 終端操作、shell script 或 python</condition_7>
+                <condition_8>--相關Framework 使用經驗</condition_8>
+                <interview>請將履歷表 email 至 信箱</interview>
+                <pay>是</pay>
+                <salary>薪資絕對同正職水準，並比照勞基法規定, 實習表現好可轉正職</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone>
+                    </phone>
+                    <mail>jobs@obook.com
+                    </mail>
+                    <link></link>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>網站開發工程師</title>
+                <work>與團隊合作開發網站前後端功能，為使用者提供最好的網站使用體驗
+                </work>
+                <condition_1>a. 需有一年以上工作經驗 </condition_1>
+                <condition_2>b. 熟PHP / MySQL 開發網站前後端經驗，熟悉設計、測試及上線</condition_2>
+                <condition_3>c. 重視細節，人際溝通協調能力佳</condition_3>
+                <condition_4>d. 熟HTML 5、CSS 3，行動裝置介面設計</condition_4>
+                <condition_5>e. 熟 Javascript，了解AJAX 運作及前後端整合，RESTful API架構</condition_5>
+                <interview>請寄中英文履歷表(附照片) /自傳(中文即可) / 作品資料到 jobs@obook.com</interview>
+                <pay>是</pay>
+                <salary>薪資絕對同正職水準，並比照勞基法規定, 實習表現好可轉正職</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone>
+                    </phone>
+                    <mail>jobs@obook.com
+                    </mail>
+                    <link>https://www.owlting.com/job#all_job</link>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>3</intern_id>
+                <title>iOS工程師</title>
+                <work>奧丁丁工程團隊開發項目主要分為三類，網頁(行動版優先)、iOS還有Android。 主要負責的產品除了一般用戶使用的軟體之外，也包含了給全世界各地供應商使用的後台系統。 未來除了專注在奧丁丁市集的進化，也會接觸包括旅遊、支付等專案，是個非常有挑戰但有趣的工作。 所有的軟體版本也都包含多國語言，未來也會跟國外工程團隊開會，所以英語能力佳也是最低要求。 目前我們的開發重心主力專注在行動裝置，每一位工程師都至少可以獨立開發兩種系統，也希望加入我們的人才可以在迅速的開發環境中快速成長，具有獨當一面的能力。 工程師直接跟技術長/執行長討論產品設計和進度。 開發維護, 改進現有iOS App, 使用XCode管理開發App 介面, 與團隊溝通並能設計改進現有流程.
+                </work>
+                <condition_1>a. 需有一年以上工作經驗 </condition_1>
+                <condition_2>b. 熟悉 Object C語法及iOS App開發, 有作品經驗</condition_2>
+                <condition_3>c. 熟悉 XCode、Storyboard使用</condition_3>
+                <condition_4>d. 熟悉 iOS App 設計, 測試, 上架流程</condition_4>
+                <condition_5>e. 有使用第三方Library 經驗佳</condition_5>
+                <condition_6>加分條件：</condition_6>
+                <condition_7>--有PHP/MySQL開發網站前後端, 了解Ajax及使用相關經驗，有作品</condition_7>
+                <condition_8>--Library開發及測試行動版及觸控平台介面. 與團隊溝通，並能設計改進現有流程</condition_8>
+                <condition_9>--熟悉 JavaScript與Ajax, 熟jQuery及其他Library佳</condition_9>
+                <condition_10>--熟悉 HTML, CSS, 及行動平台觸控介面</condition_10>
+                <condition_11>--Linux 終端操作</condition_11>
+                <interview>請寄中英文履歷表(附照片) /自傳(中文即可) / 作品資料到 jobs@obook.com</interview>
+                <pay>是</pay>
+                <salary>薪資絕對同正職水準，並比照勞基法規定, 實習表現好可轉正職</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone>
+                    </phone>
+                    <mail>jobs@obook.com
+                    </mail>
+                    <link>https://www.owlting.com/job#all_job</link>
+                </contact>
+            </intern>
+        </interns>
+    </company>
+  <company>
+        <ID>19</ID>
+        <type>電商平台</type>
+        <location>台北</location>
+        <attend>否</attend>
+        <name>戰遊網</name>
+        <eng-name></eng-name>
+        <intro1>Wargaming 是線上遊戲開發暨發行商，曾榮獲多項大獎，在大型線上遊戲市場據重要地位。自 1998 年成立至今已推出超過 15 款產品，Wargaming 目前專注研發以二十世紀中期戰爭為主題的大型線上戰爭遊戲系列，其中包括 Wargaming 的代表性大作《戰車世界》（World of Tanks）。
+        </intro1>
+        <intro2>為了強化多平台的遊戲產品陣容，也導入了《戰車世界：Xbox 360 版》，而行動平台線上遊戲《戰車世界：閃擊戰》則是把Wargaming招牌的團隊軍事遊戲帶給全世界的智慧型手機和平板電腦玩家。
+        </intro2>
+        <intro3>
+            Wargaming相信，當你花上一年的時間來了解、認識這個遊戲產業，在未來再次坐在電腦前面打開遊戲時，你會有截然不同的感受。 過完整的學習與體驗，以及 實習生計畫的另一特色，就是「良師益友」制度，每個實習生都會有對應的正職員工擔任導師。 而Wargaming首屆實習生計畫不僅號召台灣同仁參與，更有亞洲區總部（新加坡）的同仁跨海支援。此外實習生除可領取 Wargaming 認證的實習證書，更有機會在實習的最後一個季度提案爭取實作機會。 若要了解更多Wargaming實習生計畫相關資訊，請造訪：http://wg-intern.tw/
+        </intro3>
+        <website>http://wg-intern.tw/</website>
+        <logo>assets/images/logo/wargaming.jpg</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title>電競助理</title>
+                <work>每場比賽背後總有一群默默推手。如何使規則及電競賽事安排更完善，選手可以更專心練習是這份工作中最重要的部分。這份工作需要較長的時間，在晚上和假日時執行賽事，但相對的工作時間較為彈性，並有非常多的機會接觸到一線的知名選手。
+                </work>
+                <condition_1> 對電競具熱忱，能配合公司工作時間
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>是</pay>
+                <salary>依據工作時間給予適度的薪資補助。</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                    <link>http://wg-intern.tw/2016reginternship/</link>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>公關助理</title>
+                <work>公司對外形象最重要的職位，維持 Wargaming 在消費者與社會上的良好關係。能夠經營媒體，提升 Wargaming 的品牌的價值及觀感。
+                </work>
+                <condition_1>對接觸人群具熱忱，對於品牌價值打造有興趣
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>是</pay>
+                <salary>依據工作時間給予適度的薪資補助。</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                    <link>http://wg-intern.tw/2016reginternship/</link>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>3</intern_id>
+                <title>社群助理
+                </title>
+                <work>透過各種方式，尋找遊戲社群的認同感，並將你的想法植入社群中。學習如何成為能夠影響社群和領導社群的幕後推手。</work>
+                <condition_1>對電競具熱忱，能配合公司工作時間
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>是</pay>
+                <salary>依據工作時間給予適度的薪資補助。</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                    <link>http://wg-intern.tw/2016reginternship/</link>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>4</intern_id>
+                <title>影音編輯助理
+                </title>
+                <work>從字幕編排到完成一段影片，你的作品將牽動著玩家，而製作出這些精彩作品的幕後人員是產業內不可或缺的角色。若你對於影片製作以及剪接有著極大的興趣，這份工作絕對不會讓你失望。
+                </work>
+                <condition_1>對電競具熱忱，能配合公司工作時間
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>是</pay>
+                <salary>依據工作時間給予適度的薪資補助。</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                    <link>http://wg-intern.tw/2016reginternship/</link>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>5</intern_id>
+                <title>內容編輯助理
+                </title>
+                <work>官方網站的門面，玩家的第一印象，遊戲內容的文字化妝師。文學的心靈、筆觸、辭藻，對文字運用一絲不苟又能感情奔放。
+                </work>
+                <condition_1> 對外語有興趣，喜歡閱讀、翻譯；若是想要自己的文字出現在 Wargaming 旗下各遊戲的官方網站，或是對於網站經營管理有莫大的喜好，那麼這麼位子就是為你準備的！
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>是</pay>
+                <salary>依據工作時間給予適度的薪資補助。</salary>
+                <other>不參加實體媒合會</other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                    <link>http://wg-intern.tw/2016reginternship/</link>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>6</intern_id>
+                <title>行銷企劃
+                </title>
+                <work>助遊戲市場行銷企劃以及執行，學習產業相關資訊，提升提案執行和推廣的效果的效率。喜好研究市場、接觸了解人群。這份工作將滿足你的好奇心。如何寫一份完整表達自己想法的提案，如何執行自己發想的專案，將是未來一年中的重要考題。工作需於周末協助活動執行，從旁學習產業內運作模式。
+                </work>
+                <condition_1>對電競具熱忱，能配合公司工作時間
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>是</pay>
+                <salary>依據工作時間給予適度的薪資補助。</salary>
+                <other>不參加實體媒合會</other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail></mail>
+                    <link>http://wg-intern.tw/2016reginternship/</link>
+                </contact>
+            </intern>
+        </interns>
+    </company>
+    <company>
+        <ID>3</ID>
+        <type>旅遊新創</type>
+        <location>台南</location>
+        <attend>是</attend>
+        <name>RTM泛旅遊</name>
+        <eng-name></eng-name>
+        <intro1>RTM泛旅遊：一個整合與發展台灣新創旅遊資源及影響力的非營利組織、社群平台。透過「旅創」團隊交流、育成；青年「人才」串連、培訓；社區再造和產業轉型等「在地推廣」之文化觀光發展，打造台灣泛旅遊生活圈的新創生態系，合作打群架創造新的產業價值。 在台南成大，RTM期待透過以下規劃，打造青年旅創社群： → 旅遊新創講堂 → 企業參訪（"與創業家有約"餐敘） → 校際旅遊創業企劃大賽 → 在地推廣x下鄉小隊駐點計畫 → 創意旅行帶團實作 → 國際讀書會 → 企業專案合作外部提案 → 學生旅遊創業育成顧問 → RTM台南地區實習/志工社群經營（Facebook粉專/社團） → 支援RTM台南地推行動</intro1>
+        <website>https://www.facebook.com/redefinetourismmixer/?fref=ts</website>
+        <logo>assets/images/logo/rtm.jpg</logo>
+        <interns>
+            <intern>
+                <content>true</content>
+                <intern_id>1</intern_id>
+                <title>品牌推廣實習生</title>
+                <work>挖掘在地優質團隊、在地活動企劃、品牌經營、青年串聯培訓課程設計</work>
+                <condition_1>熱愛台灣土地及文化創意發展，對觀光旅遊業，創新創業概念充滿熱情，你就是我們要的人！</condition_1>
+                <condition_2>加分條件: 行銷方案企劃能耐、設計美編能力、推廣宣傳號召力、活動執行力、善用社群媒體 </condition_2>
+                <interview>由公司電郵通知 </interview>
+                <pay>是</pay>
+                <salary>以專案為單位按件計酬，每次行動獎金NTD1,000~12,000不等。</salary>
+                <other></other>
+                <contact>
+                    <person>陳怡文</person>
+                    <phone></phone>
+                    <mail>redefinetourismmixer@gmail.com</mail>
+                </contact>
+            </intern>
+            <intern>
+                <check>none</check>
+            </intern>
+        </interns>
+    </company>
+   
+    <company>
+        <ID>7</ID>
+        <type>旅遊新創</type>
+        <location>台南</location>
+        <attend>是</attend>
+        <name>佳佳西市場</name>
+        <eng-name></eng-name>
+        <intro1>佳佳西市場旅店坐落於創建於1905年的台南西市場旁。這個市場因坐落於府城的五條港水路的中心位置，而成為商賈雲集之地。而其前身為全台第一位女性建築師設計之豪華高雅的佳佳大飯店。這裡除了記錄下許多政商名流的身影外，也擁有許多老台南人的回憶。然而，飯店也隨著時間的流轉而凋零。因此，我們將其當作窗口，透過這個作品去接觸鄰近區域的文化內涵。期望發掘在時間長流的積澱中，被埋藏的老佳佳、老台南、老台灣故事，用當代的語彙重述，再生出新舊交織、色彩生鮮的記憶。</intro1>
+        <website>https://www.facebook.com/jjwhotel/?fref=ts</website>
+        <logo>assets/images/logo/jjwhotel.jpg</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title>旅店實習生</title>
+                <work>櫃檯接待、餐廳外場、房務服務</work>
+                <condition_1>無</condition_1>
+                <interview>寄送個人履歷，並由公司電郵通知面試</interview>
+                <pay>是</pay>
+                <salary>月薪：$20008、月休8天、享勞健保及生日禮金</salary>
+                <other></other>
+                <contact>
+                    <person>許小姐</person>
+                    <phone>06-2209866#1901</phone>
+                    <mail>jjmc.adm@gmail.com</mail>
+                </contact>
+            </intern>
+            <intern>
+                <check>none</check>
+            </intern>
+        </interns>
+    </company>
+   
+  
+    <company>
+        <ID>1</ID>
+        <type>科技新創</type>
+        <location>台南</location>
+        <attend>是</attend>
+        <name>凱鈿行動科技
+        </name>
+        <eng-name>Kdan Mobile Software Ltd.</eng-name>
+        <intro1>凱鈿行動科技創立於2009年，總部位於台灣，另於中國、美國設有分公司；致力打造行動軟體和平台服務，讓您在文書和創意工作中事半功倍。目前全球超過六千萬的用戶共同見證我們高品質的產品與服務，透過凱鈿平台方案，用戶可在不同平台的裝置中創作、發佈、串流專案。</intro1>
+        <intro2>在凱鈿，我們致力讓創意與知識無遠弗屆。 由App產品開發擴展成為App平台、 以及提供平台上的各式加值內容與服務是凱鈿的一貫性發展原則， 目前不論是智慧型手機、 平板電腦、 桌上型電腦／ 筆計型電腦， 甚至各式網路平台都已經發展出App線上商店模式， 凱鈿擁有先入者優勢， 所累積的系統、 平台技術開發能量、 全球行銷推廣能力、 以及領先業界的設計體驗， 讓很多世界級大廠主動與我們合作成為伙伴關係， 底下為目前公司的產品發展主軸： </intro2>
+        <intro3>1. 行動辦公室文件編輯服務 </intro3>
+        <intro4>2. 多媒體內容創作與影像處理 </intro4>
+        <intro5>3. 線上商店與雲端內容服務平台</intro5>
+        <website>http://www.kdanmobile.com/zh-tw/</website>
+        <logo>assets/images/logo/kdan.jpg</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title>行銷助理</title>
+                <work>協助製作產品操作手冊， 協助客服， 經營用戶關係</work>
+                <condition_1>具備英語能力， 需提供英文能力證明</condition_1>
+                <interview>5 / 12 由凱鈿行動科技公司通知</interview>
+                <pay>是</pay>
+                <salary> 150 / 小時</salary>
+                <other></other>
+                <contact>
+                    <person>駱巧珊 Clare Lo</person>
+                    <phone>06 - 3131660 #240</phone>
+                    <mail>clare23@kdammoble.com</mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>設計助理</title>
+                <work>處理產品上線相關媒體內容、 平面設計、 影片剪輯</work>
+                <condition_1>a. 平面設計相關軟體熟悉 Photoshop.illustrator</condition_1>
+                <condition_2>b. 想學習介面規劃與產品開發流程</condition_2>
+                <condition_3>c. 對使用者具備同理心</condition_3>
+                <condition_4>d. 能融入大團體</condition_4>
+                <interview>5 / 12 由凱鈿行動科技公司通知</interview>
+                <pay>是</pay>
+                <salary>150 / 小時</salary>
+                <other></other>
+                <contact>
+                    <person>駱巧珊 Clare Lo</person>
+                    <phone>06 - 3131660 #240</phone>
+                    <mail>clare23@kdammoble.com</mail>
+                </contact>
+            </intern>
+        </interns>
+    </company>
+     <company>
+        <ID>26</ID>
+        <type>科技新創</type>
+        <location>台南</location>
+        <attend>是</attend>
+        <name>鈊保資訊</name>
+        <eng-name></eng-name>
+        <intro1>鈊保資訊有限公司（Sinpao Information Co., Ltd.）主要產品開發方向為資訊安全，目前已經有自行研發的資訊安全產品『雲端加密系統』（Cloud Emcryption System；CES），提供雲端個資盤點與機敏資料加密的管理的系統，除了可盤點電腦中是否有商業個資外，更可搭配個資加密與個資備份系統，協助公司保護機敏個人資料。
+        </intro1>
+        <website>http://www.sinpao.com.tw/index.html</website>
+        <logo>assets/images/logo/sinpao.png</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title>行銷企劃實習生
+                </title>
+                <work>網路文宣企劃與編輯、行銷規劃與活動執行，效益評估分析、使用者研究，其他彈性支援、協助共創設計聚會前置作業。</work>
+                <condition_1>a. 願意從現在開始養成每天吸收新知、瀏覽國內外設計相關網站的習慣</condition_1>
+                <condition_2>b. 每週使用平台相關社群媒體5個小時以上</condition_2>
+                <condition_3>c. 超吸睛的文字撰稿能力</condition_3>
+                <condition_4>d. 辦過小型活動的經驗</condition_4>
+                <condition_5>e. 未來規劃從事設計 / 藝術相關產業工作</condition_5>
+                <interview>將基本資料、經歷、作品集、爭取實習的原因，認為能證明自己能力的東西，傳送至實習信箱。
+                </interview>
+                <pay>是
+                </pay>
+                <salary>有經驗者給予固定時薪每小時120~200元。 無經驗者，依實習狀況給予專案工作獎金或餐點費用。
+                </salary>
+                <other></other>
+                <contact>
+                    <person>鈊保資訊</person>
+                    <phone></phone>
+                    <mail>service@sinpao.com.tw
+                    </mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>系統開發實習生</title>
+                <work>根據專案需求開發產品，含前端與後端開發。 前端，主要負責設計與開發使用者介面與內容呈現的流動布局，以求用戶在使用上得到良好的使用體驗。後端主要負責設計與開發所需功能(如同步發信、模組化設計、使用記錄等等)與資料存取(新增、編輯、刪除、更新等功能)。
+                </work>
+                <condition_1>具備任一上述技能並具有資訊電機相關背景(需熟悉PHP、JAVA、或APP任一項即可)</condition_1>
+                <interview>請將個人履歷寄到公司Email，由公司安排面試後擇優錄取。</interview>
+                <pay>是</pay>
+                <salary>1.有經驗者給予固定時薪每小時120~200元。2.無經驗者，依實習狀況給予專案工作獎金或餐點費用。</salary>
+                <other></other>
+                <contact>
+                    <person>鈊保資訊</person>
+                    <phone></phone>
+                    <mail>service@sinpao.com.tw
+                    </mail>
+                </contact>
+            </intern>
+        </interns>
+    </company>
+
     <company>
         <ID>5</ID>
         <type>電商平台</type>
@@ -242,7 +565,155 @@
             </intern>
         </interns>
     </company>
-    <company>
+     <company>
+        <ID>18</ID>
+        <type>電商平台</type>
+        <location>台南</location>
+        <attend>是</attend>
+        <name>捷思唯數位整合公司</name>
+        <eng-name></eng-name>
+        <intro1>JustV捷思唯數位整合公司，是台南在地公司。業務內容包含：品牌顧問服務，及旗下經營的電子商務平台「哎喔行動網」。團隊具備數十年電商經驗，並曾協助知名跨國品牌經營大中華電商平台。
+        </intro1>
+        <intro2>哎喔行動網，是台灣少數講求「品牌」的電商平台。在哎喔上，沒有華而不實的商業產品；哎喔只販賣兼具溫度與質感，且有助於生活的優質產品。 哎喔團隊積極尋找：優質設計師與優質品牌，並協助產品開發和品牌定位。 如果您有熱忱，想深耕在地，想將優質產品推向國際，歡迎加入哎喔！</intro2>
+        <website>http://justvsolution.com
+        </website>
+        <logo>assets/images/logo/justv.jpg</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title> 助理實習生</title>
+                <work>參與品牌操作、協助進出貨、庫存管控
+                </work>
+                <condition_1>兼具熱忱與耐心，願意花時間練好功夫與技能。</condition_1>
+                <condition_2>需具備基本會計觀念，並對品牌行銷有興趣。</condition_2>
+                <interview>請寄送個人履歷至信箱，由公司通知面試
+                </interview>
+                <pay>是</pay>
+                <salary>面議</salary>
+                <other></other>
+                <contact>
+                    <person>林義捷</person>
+                    <phone></phone>
+                    <mail>service@addons.com.tw</mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>設計實習生</title>
+                <work>網頁設計、海報平面設計，並支援公司其他業務
+                </work>
+                <condition_1>兼具熱忱與耐心，並具備設計能力</condition_1>
+                <condition_2>需具備基本會計觀念，並對品牌行銷有興趣。</condition_2>
+                <interview>請寄送個人履歷與作品至信箱，由公司通知面試</interview>
+                <pay>是</pay>
+                <salary>面議</salary>
+                <other></other>
+                <contact>
+                    <person>林義捷</person>
+                    <phone></phone>
+                    <mail>service@addons.com.tw</mail>
+                </contact>
+            </intern>
+        </interns>
+    </company>
+
+   
+      <company>
+        <ID>24</ID>
+        <type>科技新創</type>
+        <location>台中</location>
+        <attend>否</attend>
+        <name>光明頂</name>
+        <eng-name></eng-name>
+        <intro1>光明頂創育智庫，其【創】代表的是『創新』 『創造』 『創業』 ， 【育】代表的是『教育』 『培育』 『育成』 。成立目的，是希望能讓創業能量能集中、能放大、能有效、能延續，不做假象KPI，不以大福獲利為優先目的(是必要，但要有道義)，做對台灣、對世界、對人類有意義的事，能幫助到可以幫助的朋友。
+        </intro1>
+        <intro2>光明頂創育CEO 洪聖倫 給成大人的一封信 : https://goo.gl/W00PKR
+        </intro2>
+        <website>https://www.facebook.com/ideaxtw/?fref=ts</website>
+        <logo>assets/images/logo/ideaxtw.png</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title>社群暨媒體實習生</title>
+                <work>1.社群活動策劃與執行 2.協助公關部門採訪活動與團隊</work>
+                <condition_1>a. 自備筆記型電腦與交通工具 </condition_1>
+                <condition_2>b. 對活動策劃與執行，以及採訪編輯有興趣</condition_2>
+                <condition_3>c. 具備文字撰寫能力</condition_3>
+                <interview>請將個人履歷寄到公關經理Email，由公司安排面試後擇優錄取。</interview>
+                <pay>是</pay>
+                <salary>1.比照勞基法工讀生相關規定給薪 2.實習生須配合公司相關規定</salary>
+                <other></other>
+                <contact>
+                    <person>秦亭亭（公關經理）</person>
+                    <phone>04-2453-4969
+                    </phone>
+                    <mail>christy@ideax.com.tw
+                    </mail>
+                </contact>
+            </intern>
+            <intern>
+                <check>none</check>
+            </intern>
+        </interns>
+    </company>
+     <company>
+        <ID>27</ID>
+        <type>科技新創</type>
+        <location>台南</location>
+        <attend>是</attend>
+        <name>牧陽能控</name>
+        <eng-name></eng-name>
+        <intro1>牧陽能控提供的服務包含了太陽能系統規劃設計與安裝、太陽能發電系統之相關技術，也持續研發各式再生能源發電系統與專業客製化的商品， 且公司自2013年創立以來的宗旨為強調綠能科技與生活的結合並發展出綠能屋頂系統套案，其中包含:
+        </intro1>
+        <intro2> 1. 家用光電採光罩 2. 節能熱水系統 3.屋頂綠化 </intro2>
+        <intro3>4. 太陽能電廠 5.太陽能監控、維運服務 6.各式綠能空間節能套案設計</intro3>
+        <website>http://www.greenshepherd.com.tw/index.html</website>
+        <logo>assets/images/logo/green3.png</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title>企劃實習生
+                </title>
+                <work>1.運用網路社群媒體，推廣產品 2.電商平台經營 3.行銷活動企劃與執行 4.協助處理業務事項
+                </work>
+                <condition_1>1.熟Photoshop coredraw美編軟體</condition_1>
+                <condition_2>2.具備電商平台經營為佳</condition_2>
+                <interview>請將個人履歷寄到公司Email，由公司安排面試後擇優錄取。
+                </interview>
+                <pay>面議
+                </pay>
+                <salary>
+                </salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail>gs@greenshepherd.com.tw
+                    </mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>結構工程實習生</title>
+                <work>1.太陽光電結構分析（應力、安全性） 2.系統維運檢驗 3.支撐架模組設計
+                </work>
+                <condition_1>1.熟悉autocad繪圖軟體
+                </condition_1>
+                <condition_2> 2.航太、機械為佳</condition_2>
+                <interview>請將個人履歷寄到公司Email，由公司安排面試後擇優錄取。</interview>
+                <pay>面議</pay>
+                <salary></salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail>gs@greenshepherd.com.tw
+                    </mail>
+                </contact>
+            </intern>
+        </interns>
+    </company>
+      <company>
         <ID>6</ID>
         <type>設計</type>
         <location>高雄</location>
@@ -274,30 +745,108 @@
             </intern>
         </interns>
     </company>
-    <company>
-        <ID>7</ID>
-        <type>旅遊新創</type>
+       
+     <company>
+        <ID>22</ID>
+        <type>設計</type>
         <location>台南</location>
-        <attend>是</attend>
-        <name>佳佳西市場</name>
+        <attend>否</attend>
+        <name>拍拍</name>
         <eng-name></eng-name>
-        <intro1>佳佳西市場旅店坐落於創建於1905年的台南西市場旁。這個市場因坐落於府城的五條港水路的中心位置，而成為商賈雲集之地。而其前身為全台第一位女性建築師設計之豪華高雅的佳佳大飯店。這裡除了記錄下許多政商名流的身影外，也擁有許多老台南人的回憶。然而，飯店也隨著時間的流轉而凋零。因此，我們將其當作窗口，透過這個作品去接觸鄰近區域的文化內涵。期望發掘在時間長流的積澱中，被埋藏的老佳佳、老台南、老台灣故事，用當代的語彙重述，再生出新舊交織、色彩生鮮的記憶。</intro1>
-        <website>https://www.facebook.com/jjwhotel/?fref=ts</website>
-        <logo>assets/images/logo/jjwhotel.jpg</logo>
+        <intro1>一切從撿回一隻淋濕的小貓開始，從巴掌大的奶貓慢慢餵養到喜歡躺在懷裡呼嚕的可愛孩子，希望她能健康長大，一起度過更長久的相處時光。 走進與毛孩的同居新時代，赫然發現市面上的用品總是與自己的想像有那麼一點的差距，同時因小貓的身體瘦弱且有進食困擾，透過設計的專長與經驗，研究毛孩進食姿勢與食器材料的安全問題，加上對於居家質感與品味的要求，用簡單的線條設計出托高、傾斜極具質感原木碗架，深獲國內外好評。 「拍拍」由專業的設計及製作團隊組成，從設計、選材、打樣到製作生產，皆具有豐富且完整的經驗。透過雙手，創造居家生活新形態，也讓傳統產業走出另一條路。並期待能以天然、安全兼具質感的複合素材，搭配匠心獨運的手作，實現寵物與人共享的好感生活。
+        </intro1>
+        <website>https://www.facebook.com/2pi.creative/?fref=ts</website>
+        <logo>assets/images/logo/pet.jpg</logo>
         <interns>
             <intern>
                 <intern_id>1</intern_id>
-                <title>旅店實習生</title>
-                <work>櫃檯接待、餐廳外場、房務服務</work>
-                <condition_1>無</condition_1>
-                <interview>寄送個人履歷，並由公司電郵通知面試</interview>
-                <pay>是</pay>
-                <salary>月薪：$20008、月休8天、享勞健保及生日禮金</salary>
+                <title>銷售通路管理實習生</title>
+                <work>負責各門市的銷售業務、盤點庫存、補貨，參與門市行銷活動規劃並協助執行。</work>
+                <condition_1>未來對寵物及業務銷售有興趣者
+                </condition_1>
+                <interview> 寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>是
+                </pay>
+                <salary>視工作內容面議。</salary>
                 <other></other>
                 <contact>
-                    <person>許小姐</person>
-                    <phone>06-2209866#1901</phone>
-                    <mail>jjmc.adm@gmail.com</mail>
+                    <person></person>
+                    <phone></phone>
+                    <mail>2pi.creative@gmail.com</mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>產品設計 實習生</title>
+                <work>協助粉絲頁、電商平台及活動、數據分析及上架管理
+                </work>
+                <condition_1>須熟悉軟體、提供作品集</condition_1>
+                <interview> 寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>是</pay>
+                <salary>視開發狀況面議
+                </salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail>2pi.creative@gmail.com</mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>3</intern_id>
+                <title>木工廠 實習生
+                </title>
+                <work>木製品相關製作</work>
+                <condition_1>須對木工製作有興趣，能吃苦
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>是
+                </pay>
+                <salary>視經驗面議</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail>2pi.creative@gmail.com</mail>
+                </contact>
+            </intern>
+        </interns>
+    </company>
+ <company>
+        <ID>12</ID>
+        <type>電商平台</type>
+        <location>台南</location>
+        <attend>是</attend>
+        <name>Nonsense</name>
+        <eng-name></eng-name>
+        <intro1>Nonsense是一個社群平台，設計師可以在上面互相認識交流、彙整作品集、整理設計草稿、販售產品、製作產品、跟使用者或其他設計師一起合作設計專案(目前針對工業設計、服裝設計跟視覺設計)，也提供給使用者更多認識設計師的管道(動態、產品、動畫、3D模型示意)。
+        </intro1>
+        <website>https://www.facebook.com/Nonsenseworkshop/?fref=ts</website>
+        <logo>assets/images/logo/nonsense.jpg</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title>行銷企劃實習生</title>
+                <work>網路文宣企劃與編輯、經營nonsense分支粉絲專頁、行銷規劃與活動執行，效益評估分析、使用者研究，其他彈性支援、協助共創設計聚會前置作業。</work>
+                <condition_1>a. 願意從現在開始養成每天吸收新知、瀏覽國內外設計相關網站的習慣</condition_1>
+                <condition_2>b. 每週使用 FB、Pinterest、Dribbble、Cargo或是其他社群媒體5個小時以上</condition_2>
+                <condition_3>c. 超吸睛的文字撰稿能力</condition_3>
+                <condition_4>d. 辦過小型活動的經驗</condition_4>
+                <condition_5>e. 未來規劃從事設計 / 藝術相關產業工作</condition_5>
+                <interview>將基本資料、經歷、作品集、爭取實習的原因，認為能證明自己能力的東西，傳送至實習信箱。
+                </interview>
+                <pay>是
+                </pay>
+                <salary>8000~10000/月
+                </salary>
+                <other></other>
+                <contact>
+                    <person>張鈞翔</person>
+                    <phone></phone>
+                    <mail>service@nonsenseworkshop.com</mail>
                 </contact>
             </intern>
             <intern>
@@ -305,7 +854,56 @@
             </intern>
         </interns>
     </company>
+    
     <company>
+        <ID>9</ID>
+        <type>文創</type>
+        <location>台南</location>
+        <attend>是</attend>
+        <name>Zazazoo</name>
+        <eng-name></eng-name>
+        <intro1>ZAZAZOO品牌由來 ZA~ZA~ZOO~~~~ZA~ZA~ZOO~~~,這是縫紉機在車縫制服的聲音。生長在一個老制服工廠, 因為少子化、諸多校園開始不穿著制服、民眾普遍低估制服產業所需技術及價值等原因,制服已經 逐漸成為夕陽產業,身為中美牌學生制服的第三代,為了讓台灣校園制服文化及製作工藝能有所延 續,並賦予制服更多種可能,建立新品牌—ZAZAZOO,期待用一甲子的工藝技術跟制服格紋元素, 打造一個新的精品品牌,也讓ZA~ZA~ZOO~~~ZA~ZA~ZOO~~縫紉的聲音,可以繼續陪大家走 過下一個世紀。</intro1>
+        <website>https://goo.gl/okCtFt</website>
+        <logo>assets/images/logo/zazazoo.jpg</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title>銷售通路管理實習生</title>
+                <work>負責藍晒圖門市的銷售業務,定期盤點台南各銷售據點的庫存、補貨及各門市呈列調整 - 參與門市行銷活動規劃並協助執行</work>
+                <condition_1>熱血創新的心</condition_1>
+                <interview>寄送履歷，由公司電郵通知面試</interview>
+                <pay>是</pay>
+                <salary>時薪$120</salary>
+                <other></other>
+                <contact>
+                    <person>張京農</person>
+                    <phone>0963233868</phone>
+                    <mail>jesuslove1223@gmail.com </mail>
+                    <fb>https://goo.gl/okCtFt</fb>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>美編設計 實習生</title>
+                <work>協助粉絲頁、電商平台及活動文宣的圖像製作- 協助設計⾨門市呈列及展架、市集與展覽攤位佈置</work>
+                <condition_1>熟悉Photoshop、Illustrator、需提供作品集</condition_1>
+                <interview>寄送履歷，由公司電郵通知面試</interview>
+                <pay>是</pay>
+                <salary>按件計酬(面議)</salary>
+                <other></other>
+                <contact>
+                    <person>張京農</person>
+                    <phone>0963233868</phone>
+                    <mail>jesuslove1223@gmail.com </mail>
+                    <fb>https://goo.gl/okCtFt</fb>
+                </contact>
+            </intern>
+        </interns>
+    </company>
+    
+   
+    
+      <company>
         <ID>8</ID>
         <type>設計</type>
         <location>台南</location>
@@ -360,162 +958,6 @@
                     <phone></phone>
                     <mail>support@planett.tw</mail>
                 </contact>
-            </intern>
-        </interns>
-    </company>
-    <company>
-        <ID>9</ID>
-        <type>文創</type>
-        <location>台南</location>
-        <attend>是</attend>
-        <name>Zazazoo</name>
-        <eng-name></eng-name>
-        <intro1>ZAZAZOO品牌由來 ZA~ZA~ZOO~~~~ZA~ZA~ZOO~~~,這是縫紉機在車縫制服的聲音。生長在一個老制服工廠, 因為少子化、諸多校園開始不穿著制服、民眾普遍低估制服產業所需技術及價值等原因,制服已經 逐漸成為夕陽產業,身為中美牌學生制服的第三代,為了讓台灣校園制服文化及製作工藝能有所延 續,並賦予制服更多種可能,建立新品牌—ZAZAZOO,期待用一甲子的工藝技術跟制服格紋元素, 打造一個新的精品品牌,也讓ZA~ZA~ZOO~~~ZA~ZA~ZOO~~縫紉的聲音,可以繼續陪大家走 過下一個世紀。</intro1>
-        <website>https://goo.gl/okCtFt</website>
-        <logo>assets/images/logo/zazazoo.jpg</logo>
-        <interns>
-            <intern>
-                <intern_id>1</intern_id>
-                <title>銷售通路管理實習生</title>
-                <work>負責藍晒圖門市的銷售業務,定期盤點台南各銷售據點的庫存、補貨及各門市呈列調整 - 參與門市行銷活動規劃並協助執行</work>
-                <condition_1>熱血創新的心</condition_1>
-                <interview>寄送履歷，由公司電郵通知面試</interview>
-                <pay>是</pay>
-                <salary>時薪$120</salary>
-                <other></other>
-                <contact>
-                    <person>張京農</person>
-                    <phone>0963233868</phone>
-                    <mail>jesuslove1223@gmail.com </mail>
-                    <fb>https://goo.gl/okCtFt</fb>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>2</intern_id>
-                <title>美編設計 實習生</title>
-                <work>協助粉絲頁、電商平台及活動文宣的圖像製作- 協助設計⾨門市呈列及展架、市集與展覽攤位佈置</work>
-                <condition_1>熟悉Photoshop、Illustrator、需提供作品集</condition_1>
-                <interview>寄送履歷，由公司電郵通知面試</interview>
-                <pay>是</pay>
-                <salary>按件計酬(面議)</salary>
-                <other></other>
-                <contact>
-                    <person>張京農</person>
-                    <phone>0963233868</phone>
-                    <mail>jesuslove1223@gmail.com </mail>
-                    <fb>https://goo.gl/okCtFt</fb>
-                </contact>
-            </intern>
-        </interns>
-    </company>
-    <company>
-        <ID>10</ID>
-        <type>旅遊新創</type>
-        <location>台南</location>
-        <attend>是</attend>
-        <name>芒果遊戲工作室</name>
-        <eng-name></eng-name>
-        <intro1>觀光旅遊的發展，將逐步邁向體驗經濟的新時代，芒果遊戲將旅遊和遊戲結合，藉由遊戲的體驗進行深度旅遊。透過「解謎推理」的目標，在現代匆促的步伐間譜出輕快的節奏，讓參與者能一邊解出答案，一邊認識地方文化之美，於單調的現實生活中增添不同的想像。
-        </intro1>
-        <intro2>實境遊戲在台灣屬於新興產業，自 2011 年由美、日引入，於 2012 年開始蓬勃發展，目前較為人所知的密室逃脫即為實境遊戲中的一塊。芒果遊戲初步想藉由一個持續連接的行銷鏈來將消費者緊緊串連。首先就是每兩個月就推出一款新遊戲，讓消費者在玩過舊遊戲的熱情降低之際，又有新話題可以重新討論並參與，拓展新的景點以及新的旅遊方式。</intro2>
-        <website>https://www.facebook.com/MGS.fan/?fref=ts</website>
-        <logo>assets/images/logo/mongo2.png</logo>
-        <interns>
-            <intern>
-                <intern_id>1</intern_id>
-                <title>遊戲活動執行人員</title>
-                <work>配合劇本進行角色扮演，擔任NPC與玩家互動。</work>
-                <condition_1>希望具備外向活潑、開朗不怕生的特質、如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
-                </condition_1>
-                <interview>寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay>否(可體驗試玩實境解謎遊戲活動。 每月一次公司內部聚餐。)
-                </pay>
-                <salary>否，請閱上述之</salary>
-                <other></other>
-                <contact>
-                    <person>王榮典</person>
-                    <phone>0986-076129
-                    </phone>
-                    <mail>mangogamestudio@gmail.com</mail>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>2</intern_id>
-                <title>遊戲企劃討論人員</title>
-                <work>參與新主題的發想與設計規畫。</work>
-                <condition_1>希望具備外向活潑、開朗不怕生的特質 如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
-                </condition_1>
-                <interview>寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay>否 可體驗試玩實境解謎遊戲活動。 每月一次公司內部聚餐。
-                </pay>
-                <salary>否，請閱上述之</salary>
-                <other></other>
-                <contact>
-                    <person>王榮典</person>
-                    <phone>0986-076129
-                    </phone>
-                    <mail>mangogamestudio@gmail.com</mail>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>3</intern_id>
-                <title>道具美宣製作人員</title>
-                <work>包含文宣形象設計、海報、道具美工等。</work>
-                <condition_1>希望具備外向活潑、開朗不怕生的特質 如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
-                </condition_1>
-                <interview>寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay>否 可體驗試玩實境解謎遊戲活動。 每月一次公司內部聚餐。
-                </pay>
-                <salary>否，請閱上述之</salary>
-                <other></other>
-                <contact>
-                    <person>王榮典</person>
-                    <phone>0986-076129
-                    </phone>
-                    <mail>mangogamestudio@gmail.com</mail>
-                </contact>
-            </intern>
-        </interns>
-    </company>
-    <company>
-        <ID>12</ID>
-        <type>電商平台</type>
-        <location>台南</location>
-        <attend>是</attend>
-        <name>Nonsense</name>
-        <eng-name></eng-name>
-        <intro1>Nonsense是一個社群平台，設計師可以在上面互相認識交流、彙整作品集、整理設計草稿、販售產品、製作產品、跟使用者或其他設計師一起合作設計專案(目前針對工業設計、服裝設計跟視覺設計)，也提供給使用者更多認識設計師的管道(動態、產品、動畫、3D模型示意)。
-        </intro1>
-        <website>https://www.facebook.com/Nonsenseworkshop/?fref=ts</website>
-        <logo>assets/images/logo/nonsense.jpg</logo>
-        <interns>
-            <intern>
-                <intern_id>1</intern_id>
-                <title>行銷企劃實習生</title>
-                <work>網路文宣企劃與編輯、經營nonsense分支粉絲專頁、行銷規劃與活動執行，效益評估分析、使用者研究，其他彈性支援、協助共創設計聚會前置作業。</work>
-                <condition_1>a. 願意從現在開始養成每天吸收新知、瀏覽國內外設計相關網站的習慣</condition_1>
-                <condition_2>b. 每週使用 FB、Pinterest、Dribbble、Cargo或是其他社群媒體5個小時以上</condition_2>
-                <condition_3>c. 超吸睛的文字撰稿能力</condition_3>
-                <condition_4>d. 辦過小型活動的經驗</condition_4>
-                <condition_5>e. 未來規劃從事設計 / 藝術相關產業工作</condition_5>
-                <interview>將基本資料、經歷、作品集、爭取實習的原因，認為能證明自己能力的東西，傳送至實習信箱。
-                </interview>
-                <pay>是
-                </pay>
-                <salary>8000~10000/月
-                </salary>
-                <other></other>
-                <contact>
-                    <person>張鈞翔</person>
-                    <phone></phone>
-                    <mail>service@nonsenseworkshop.com</mail>
-                </contact>
-            </intern>
-            <intern>
-                <check>none</check>
             </intern>
         </interns>
     </company>
@@ -692,262 +1134,9 @@
             <intern><check>none</check></intern>
         </interns>
     </company> -->
-    <company>
-        <ID>18</ID>
-        <type>電商平台</type>
-        <location>台南</location>
-        <attend>是</attend>
-        <name>捷思唯數位整合公司</name>
-        <eng-name></eng-name>
-        <intro1>JustV捷思唯數位整合公司，是台南在地公司。業務內容包含：品牌顧問服務，及旗下經營的電子商務平台「哎喔行動網」。團隊具備數十年電商經驗，並曾協助知名跨國品牌經營大中華電商平台。
-        </intro1>
-        <intro2>哎喔行動網，是台灣少數講求「品牌」的電商平台。在哎喔上，沒有華而不實的商業產品；哎喔只販賣兼具溫度與質感，且有助於生活的優質產品。 哎喔團隊積極尋找：優質設計師與優質品牌，並協助產品開發和品牌定位。 如果您有熱忱，想深耕在地，想將優質產品推向國際，歡迎加入哎喔！</intro2>
-        <website>http://justvsolution.com
-        </website>
-        <logo>assets/images/logo/justv.jpg</logo>
-        <interns>
-            <intern>
-                <intern_id>1</intern_id>
-                <title> 助理實習生</title>
-                <work>參與品牌操作、協助進出貨、庫存管控
-                </work>
-                <condition_1>兼具熱忱與耐心，願意花時間練好功夫與技能。</condition_1>
-                <condition_2>需具備基本會計觀念，並對品牌行銷有興趣。</condition_2>
-                <interview>請寄送個人履歷至信箱，由公司通知面試
-                </interview>
-                <pay>是</pay>
-                <salary>面議</salary>
-                <other></other>
-                <contact>
-                    <person>林義捷</person>
-                    <phone></phone>
-                    <mail>service@addons.com.tw</mail>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>2</intern_id>
-                <title>設計實習生</title>
-                <work>網頁設計、海報平面設計，並支援公司其他業務
-                </work>
-                <condition_1>兼具熱忱與耐心，並具備設計能力</condition_1>
-                <condition_2>需具備基本會計觀念，並對品牌行銷有興趣。</condition_2>
-                <interview>請寄送個人履歷與作品至信箱，由公司通知面試</interview>
-                <pay>是</pay>
-                <salary>面議</salary>
-                <other></other>
-                <contact>
-                    <person>林義捷</person>
-                    <phone></phone>
-                    <mail>service@addons.com.tw</mail>
-                </contact>
-            </intern>
-        </interns>
-    </company>
-    <company>
-        <ID>19</ID>
-        <type>電商平台</type>
-        <location>台北</location>
-        <attend>否</attend>
-        <name>戰遊網</name>
-        <eng-name></eng-name>
-        <intro1>Wargaming 是線上遊戲開發暨發行商，曾榮獲多項大獎，在大型線上遊戲市場據重要地位。自 1998 年成立至今已推出超過 15 款產品，Wargaming 目前專注研發以二十世紀中期戰爭為主題的大型線上戰爭遊戲系列，其中包括 Wargaming 的代表性大作《戰車世界》（World of Tanks）。
-        </intro1>
-        <intro2>為了強化多平台的遊戲產品陣容，也導入了《戰車世界：Xbox 360 版》，而行動平台線上遊戲《戰車世界：閃擊戰》則是把Wargaming招牌的團隊軍事遊戲帶給全世界的智慧型手機和平板電腦玩家。
-        </intro2>
-        <intro3>
-            Wargaming相信，當你花上一年的時間來了解、認識這個遊戲產業，在未來再次坐在電腦前面打開遊戲時，你會有截然不同的感受。 過完整的學習與體驗，以及 實習生計畫的另一特色，就是「良師益友」制度，每個實習生都會有對應的正職員工擔任導師。 而Wargaming首屆實習生計畫不僅號召台灣同仁參與，更有亞洲區總部（新加坡）的同仁跨海支援。此外實習生除可領取 Wargaming 認證的實習證書，更有機會在實習的最後一個季度提案爭取實作機會。 若要了解更多Wargaming實習生計畫相關資訊，請造訪：http://wg-intern.tw/
-        </intro3>
-        <website>http://wg-intern.tw/</website>
-        <logo>assets/images/logo/wargaming.jpg</logo>
-        <interns>
-            <intern>
-                <intern_id>1</intern_id>
-                <title>電競助理</title>
-                <work>每場比賽背後總有一群默默推手。如何使規則及電競賽事安排更完善，選手可以更專心練習是這份工作中最重要的部分。這份工作需要較長的時間，在晚上和假日時執行賽事，但相對的工作時間較為彈性，並有非常多的機會接觸到一線的知名選手。
-                </work>
-                <condition_1> 對電競具熱忱，能配合公司工作時間
-                </condition_1>
-                <interview>寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay></pay>
-                <salary></salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail></mail>
-                    <link>http://wg-intern.tw/2016reginternship/</link>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>2</intern_id>
-                <title>公關助理</title>
-                <work>公司對外形象最重要的職位，維持 Wargaming 在消費者與社會上的良好關係。能夠經營媒體，提升 Wargaming 的品牌的價值及觀感。
-                </work>
-                <condition_1>對接觸人群具熱忱，對於品牌價值打造有興趣
-                </condition_1>
-                <interview>寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay></pay>
-                <salary></salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail></mail>
-                    <link>http://wg-intern.tw/2016reginternship/</link>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>3</intern_id>
-                <title>社群助理
-                </title>
-                <work>透過各種方式，尋找遊戲社群的認同感，並將你的想法植入社群中。學習如何成為能夠影響社群和領導社群的幕後推手。</work>
-                <condition_1>對電競具熱忱，能配合公司工作時間
-                </condition_1>
-                <interview>寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay></pay>
-                <salary></salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail></mail>
-                    <link>http://wg-intern.tw/2016reginternship/</link>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>4</intern_id>
-                <title>影音編輯助理
-                </title>
-                <work>從字幕編排到完成一段影片，你的作品將牽動著玩家，而製作出這些精彩作品的幕後人員是產業內不可或缺的角色。若你對於影片製作以及剪接有著極大的興趣，這份工作絕對不會讓你失望。
-                </work>
-                <condition_1>對電競具熱忱，能配合公司工作時間
-                </condition_1>
-                <interview>寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay></pay>
-                <salary></salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail></mail>
-                    <link>http://wg-intern.tw/2016reginternship/</link>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>5</intern_id>
-                <title>內容編輯助理
-                </title>
-                <work>官方網站的門面，玩家的第一印象，遊戲內容的文字化妝師。文學的心靈、筆觸、辭藻，對文字運用一絲不苟又能感情奔放。
-                </work>
-                <condition_1> 對外語有興趣，喜歡閱讀、翻譯；若是想要自己的文字出現在 Wargaming 旗下各遊戲的官方網站，或是對於網站經營管理有莫大的喜好，那麼這麼位子就是為你準備的！
-                </condition_1>
-                <interview>寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay></pay>
-                <salary></salary>
-                <other>不參加實體媒合會</other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail></mail>
-                    <link>http://wg-intern.tw/2016reginternship/</link>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>6</intern_id>
-                <title>行銷企劃
-                </title>
-                <work>助遊戲市場行銷企劃以及執行，學習產業相關資訊，提升提案執行和推廣的效果的效率。喜好研究市場、接觸了解人群。這份工作將滿足你的好奇心。如何寫一份完整表達自己想法的提案，如何執行自己發想的專案，將是未來一年中的重要考題。工作需於周末協助活動執行，從旁學習產業內運作模式。
-                </work>
-                <condition_1>對電競具熱忱，能配合公司工作時間
-                </condition_1>
-                <interview>寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay></pay>
-                <salary></salary>
-                <other>不參加實體媒合會</other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail></mail>
-                    <link>http://wg-intern.tw/2016reginternship/</link>
-                </contact>
-            </intern>
-        </interns>
-    </company>
-    <company>
-        <ID>22</ID>
-        <type>設計</type>
-        <location>台南</location>
-        <attend>否</attend>
-        <name>拍拍</name>
-        <eng-name></eng-name>
-        <intro1>一切從撿回一隻淋濕的小貓開始，從巴掌大的奶貓慢慢餵養到喜歡躺在懷裡呼嚕的可愛孩子，希望她能健康長大，一起度過更長久的相處時光。 走進與毛孩的同居新時代，赫然發現市面上的用品總是與自己的想像有那麼一點的差距，同時因小貓的身體瘦弱且有進食困擾，透過設計的專長與經驗，研究毛孩進食姿勢與食器材料的安全問題，加上對於居家質感與品味的要求，用簡單的線條設計出托高、傾斜極具質感原木碗架，深獲國內外好評。 「拍拍」由專業的設計及製作團隊組成，從設計、選材、打樣到製作生產，皆具有豐富且完整的經驗。透過雙手，創造居家生活新形態，也讓傳統產業走出另一條路。並期待能以天然、安全兼具質感的複合素材，搭配匠心獨運的手作，實現寵物與人共享的好感生活。
-        </intro1>
-        <website>https://www.facebook.com/2pi.creative/?fref=ts</website>
-        <logo>assets/images/logo/pet.jpg</logo>
-        <interns>
-            <intern>
-                <intern_id>1</intern_id>
-                <title>銷售通路管理實習生</title>
-                <work>負責各門市的銷售業務、盤點庫存、補貨，參與門市行銷活動規劃並協助執行。</work>
-                <condition_1>未來對寵物及業務銷售有興趣者
-                </condition_1>
-                <interview> 寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay>是
-                </pay>
-                <salary>視工作內容面議。</salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail>2pi.creative@gmail.com</mail>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>2</intern_id>
-                <title>產品設計 實習生</title>
-                <work>協助粉絲頁、電商平台及活動、數據分析及上架管理
-                </work>
-                <condition_1>須熟悉軟體、提供作品集</condition_1>
-                <interview> 寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay>是</pay>
-                <salary>視開發狀況面議
-                </salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail>2pi.creative@gmail.com</mail>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>3</intern_id>
-                <title>木工廠 實習生
-                </title>
-                <work>木製品相關製作</work>
-                <condition_1>須對木工製作有興趣，能吃苦
-                </condition_1>
-                <interview>寄送履歷，由公司電郵通知面試
-                </interview>
-                <pay>是
-                </pay>
-                <salary>視經驗面議</salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail>2pi.creative@gmail.com</mail>
-                </contact>
-            </intern>
-        </interns>
-    </company>
+   
+   
+   
     <company>
         <ID>23</ID>
         <type>Maker</type>
@@ -1027,206 +1216,8 @@
             </intern>
         </interns>
     </company>
-    <company>
-        <ID>24</ID>
-        <type>科技新創</type>
-        <location>台中</location>
-        <attend>否</attend>
-        <name>光明頂</name>
-        <eng-name></eng-name>
-        <intro1>光明頂創育智庫，其【創】代表的是『創新』 『創造』 『創業』 ， 【育】代表的是『教育』 『培育』 『育成』 。成立目的，是希望能讓創業能量能集中、能放大、能有效、能延續，不做假象KPI，不以大福獲利為優先目的(是必要，但要有道義)，做對台灣、對世界、對人類有意義的事，能幫助到可以幫助的朋友。
-        </intro1>
-        <intro2>光明頂創育CEO 洪聖倫 給成大人的一封信 : https://goo.gl/W00PKR
-        </intro2>
-        <website>https://www.facebook.com/ideaxtw/?fref=ts</website>
-        <logo>assets/images/logo/ideaxtw.png</logo>
-        <interns>
-            <intern>
-                <intern_id>1</intern_id>
-                <title>社群暨媒體實習生</title>
-                <work>1.社群活動策劃與執行 2.協助公關部門採訪活動與團隊</work>
-                <condition_1>a. 自備筆記型電腦與交通工具 </condition_1>
-                <condition_2>b. 對活動策劃與執行，以及採訪編輯有興趣</condition_2>
-                <condition_3>c. 具備文字撰寫能力</condition_3>
-                <interview>請將個人履歷寄到公關經理Email，由公司安排面試後擇優錄取。</interview>
-                <pay>是</pay>
-                <salary>1.比照勞基法工讀生相關規定給薪 2.實習生須配合公司相關規定</salary>
-                <other></other>
-                <contact>
-                    <person>秦亭亭（公關經理）</person>
-                    <phone>04-2453-4969
-                    </phone>
-                    <mail>christy@ideax.com.tw
-                    </mail>
-                </contact>
-            </intern>
-            <intern>
-                <check>none</check>
-            </intern>
-        </interns>
-    </company>
-    <company>
-        <ID>25</ID>
-        <type>文創</type>
-        <location>台南</location>
-        <attend>否</attend>
-        <name>來喲layoo</name>
-        <eng-name></eng-name>
-        <intro1>「用一針一線,縫出美好社會!」 [layoo來喲]來自台灣.台南的小巷內,當初也是由一位設計師媽媽ayo,為了撫養小孩,努力不懈地縫製著各式各樣美麗的包包,並以社會企業的理念,曾與台灣原住民媽媽,農村媽媽…共同製作包包. 創立至今屢屢獲得國內外獎項,從文創精品獎,金點設計獎到天下雜誌,日本地球步方,Lonely planet…等國內外媒體的報導,讓台灣的文創作品被國外消費者認可,如今更希望將自己賴以維生的技藝,傳承給柬埔寨偏遠村落,有工作需求的母親們,台灣*柬埔寨母親的攜手合作,建立對孩子的愛！
-        </intro1>
-        <website>https://www.facebook.com/layoobag/?fref=ts</website>
-        <logo>assets/images/logo/layoo.jpg</logo>
-        <interns>
-            <intern>
-                <intern_id>1</intern_id>
-                <title>行銷企劃實習生
-                </title>
-                <work>童畫展覽活動策畫執行、創意市集策畫招商、策畫空間開幕</work>
-                <condition_1>腦子總有怪點子，想辦獨樹一格的企劃活動。
-                </condition_1>
-                <interview> 將個人履歷寄送至信箱
-                </interview>
-                <pay>否
-                </pay>
-                <salary>無</salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail>layoobag@gmail.com
-                    </mail>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>2</intern_id>
-                <title>設計實習生</title>
-                <work>拍攝產品影片照、網站設計
-                </work>
-                <condition_1>具有美感及設計能力。</condition_1>
-                <interview>將個人履歷與作品寄送至信箱</interview>
-                <pay>否</pay>
-                <salary>無</salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail>layoobag@gmail.com</mail>
-                </contact>
-            </intern>
-        </interns>
-    </company>
-    <company>
-        <ID>26</ID>
-        <type>資訊安全</type>
-        <location>台南</location>
-        <attend>是</attend>
-        <name>鈊保資訊</name>
-        <eng-name></eng-name>
-        <intro1>鈊保資訊有限公司（Sinpao Information Co., Ltd.）主要產品開發方向為資訊安全，目前已經有自行研發的資訊安全產品『雲端加密系統』（Cloud Emcryption System；CES），提供雲端個資盤點與機敏資料加密的管理的系統，除了可盤點電腦中是否有商業個資外，更可搭配個資加密與個資備份系統，協助公司保護機敏個人資料。
-        </intro1>
-        <website>http://www.sinpao.com.tw/index.html</website>
-        <logo>assets/images/logo/sinpao.png</logo>
-        <interns>
-            <intern>
-                <intern_id>1</intern_id>
-                <title>行銷企劃實習生
-                </title>
-                <work>網路文宣企劃與編輯、行銷規劃與活動執行，效益評估分析、使用者研究，其他彈性支援、協助共創設計聚會前置作業。</work>
-                <condition_1>a. 願意從現在開始養成每天吸收新知、瀏覽國內外設計相關網站的習慣</condition_1>
-                <condition_2>b. 每週使用平台相關社群媒體5個小時以上</condition_2>
-                <condition_3>c. 超吸睛的文字撰稿能力</condition_3>
-                <condition_4>d. 辦過小型活動的經驗</condition_4>
-                <condition_5>e. 未來規劃從事設計 / 藝術相關產業工作</condition_5>
-                <interview>將基本資料、經歷、作品集、爭取實習的原因，認為能證明自己能力的東西，傳送至實習信箱。
-                </interview>
-                <pay>是
-                </pay>
-                <salary>有經驗者給予固定時薪每小時120~200元。 無經驗者，依實習狀況給予專案工作獎金或餐點費用。
-                </salary>
-                <other></other>
-                <contact>
-                    <person>鈊保資訊</person>
-                    <phone></phone>
-                    <mail>service@sinpao.com.tw
-                    </mail>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>2</intern_id>
-                <title>系統開發實習生</title>
-                <work>根據專案需求開發產品，含前端與後端開發。 前端，主要負責設計與開發使用者介面與內容呈現的流動布局，以求用戶在使用上得到良好的使用體驗。後端主要負責設計與開發所需功能(如同步發信、模組化設計、使用記錄等等)與資料存取(新增、編輯、刪除、更新等功能)。
-                </work>
-                <condition_1>具備任一上述技能並具有資訊電機相關背景(需熟悉PHP、JAVA、或APP任一項即可)</condition_1>
-                <interview>請將個人履歷寄到公司Email，由公司安排面試後擇優錄取。</interview>
-                <pay>是</pay>
-                <salary>1.有經驗者給予固定時薪每小時120~200元。2.無經驗者，依實習狀況給予專案工作獎金或餐點費用。</salary>
-                <other></other>
-                <contact>
-                    <person>鈊保資訊</person>
-                    <phone></phone>
-                    <mail>service@sinpao.com.tw
-                    </mail>
-                </contact>
-            </intern>
-        </interns>
-    </company>
-    <company>
-        <ID>27</ID>
-        <type>電商平台</type>
-        <location>台南</location>
-        <attend>是</attend>
-        <name>牧陽能控</name>
-        <eng-name></eng-name>
-        <intro1>牧陽能控提供的服務包含了太陽能系統規劃設計與安裝、太陽能發電系統之相關技術，也持續研發各式再生能源發電系統與專業客製化的商品， 且公司自2013年創立以來的宗旨為強調綠能科技與生活的結合並發展出綠能屋頂系統套案，其中包含:
-        </intro1>
-        <intro2> 1. 家用光電採光罩 2. 節能熱水系統 3.屋頂綠化 </intro2>
-        <intro3>4. 太陽能電廠 5.太陽能監控、維運服務 6.各式綠能空間節能套案設計</intro3>
-        <website>http://www.greenshepherd.com.tw/index.html</website>
-        <logo>assets/images/logo/green3.png</logo>
-        <interns>
-            <intern>
-                <intern_id>1</intern_id>
-                <title>企劃實習生
-                </title>
-                <work>1.運用網路社群媒體，推廣產品 2.電商平台經營 3.行銷活動企劃與執行 4.協助處理業務事項
-                </work>
-                <condition_1>1.熟Photoshop coredraw美編軟體</condition_1>
-                <condition_2>2.具備電商平台經營為佳</condition_2>
-                <interview>請將個人履歷寄到公司Email，由公司安排面試後擇優錄取。
-                </interview>
-                <pay>面議
-                </pay>
-                <salary>
-                </salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail>gs@greenshepherd.com.tw
-                    </mail>
-                </contact>
-            </intern>
-            <intern>
-                <intern_id>2</intern_id>
-                <title>結構工程實習生</title>
-                <work>1.太陽光電結構分析（應力、安全性） 2.系統維運檢驗 3.支撐架模組設計
-                </work>
-                <condition_1>1.熟悉autocad繪圖軟體
-                </condition_1>
-                <condition_2> 2.航太、機械為佳</condition_2>
-                <interview>請將個人履歷寄到公司Email，由公司安排面試後擇優錄取。</interview>
-                <pay>面議</pay>
-                <salary></salary>
-                <other></other>
-                <contact>
-                    <person></person>
-                    <phone></phone>
-                    <mail>gs@greenshepherd.com.tw
-                    </mail>
-                </contact>
-            </intern>
-        </interns>
-    </company>
+   
+   
     <company>
         <ID>28</ID>
         <type>文創</type>
@@ -1306,66 +1297,129 @@
             </intern>
         </interns>
     </company>
+
     <company>
-        <ID>29</ID>
-        <type>電商平台</type>
-        <location>台北</location>
-        <attend>否</attend>
-        <name>奧丁丁</name>
+        <ID>10</ID>
+        <type>旅遊新創</type>
+        <location>台南</location>
+        <attend>是</attend>
+        <name>芒果遊戲工作室</name>
         <eng-name></eng-name>
-        <intro1>奧丁丁是由矽谷搬回台灣的 Darren Wang 在 2010 年創辦的。在經歷了五年多的嘗試，我們從一開始的 OBOOK App(蘋果官方推薦第一名的找書買書 App），到後來的奧丁丁地點推薦社群服務，奧丁丁商家優惠、奧丁丁市集/開放市集/旅遊服 務等等，慢慢發展出基於地圖、社群的完整生態系。 2014 年，奧丁丁市集上線，訴求在地精選，產地到餐桌，實踐公平交易，利潤回歸生產者。 我們的業務開始爆發。短短不到 2 年時間，台灣鮮乳地圖/台灣水果地圖/青農地圖/茶農地圖已 是線上直接跟生產者購買的第一選擇。2015 年的開放市集服務，讓每一個中小商家三分鐘， 就可以最低廉的成本完成行動商店。2016 年我們更已將開放市集拓展到全世界，實踐由台灣 出發的跨境電商。旅遊服務除已上線的全球訂房，更將整合在地導覽行程，成為全新世代的旅 遊服務業者，完成 SoLo-MoMa 生態系!
+        <intro1>觀光旅遊的發展，將逐步邁向體驗經濟的新時代，芒果遊戲將旅遊和遊戲結合，藉由遊戲的體驗進行深度旅遊。透過「解謎推理」的目標，在現代匆促的步伐間譜出輕快的節奏，讓參與者能一邊解出答案，一邊認識地方文化之美，於單調的現實生活中增添不同的想像。
         </intro1>
-        <intro2>我們不同於一般本土新創公司，奧丁丁在一開始發行就有 13 國語言，從一開始就打算做跨國 的品牌，不被語言或地域所侷限。 擁抱新技術是我們的核心文化，我們是台灣目前唯一接受 BitCoin 支付的電子商務平台，也積 極投入新時代 BlockChain 和 Ethereum 技術，未來也會持續和世界級的公司接軌合作。
-        </intro2>
-        <website>https://goo.gl/MHbI6J</website>
-        <logo>assets/images/logo/owlting.png</logo>
+        <intro2>實境遊戲在台灣屬於新興產業，自 2011 年由美、日引入，於 2012 年開始蓬勃發展，目前較為人所知的密室逃脫即為實境遊戲中的一塊。芒果遊戲初步想藉由一個持續連接的行銷鏈來將消費者緊緊串連。首先就是每兩個月就推出一款新遊戲，讓消費者在玩過舊遊戲的熱情降低之際，又有新話題可以重新討論並參與，拓展新的景點以及新的旅遊方式。</intro2>
+        <website>https://www.facebook.com/MGS.fan/?fref=ts</website>
+        <logo>assets/images/logo/mongo2.png</logo>
         <interns>
             <intern>
                 <intern_id>1</intern_id>
-                <title>業務發展暨客戶服務代表</title>
-                <work>(1)開發電商及旅遊服務的供應商，宣揚奧丁丁的理念，壯大奧丁丁生態系 (2)服務各種來自客人的產品詢問，不滿客訴，鍛鍊自己的應變能力  (3)協助處理業務部門事務
-                </work>
-                <condition_1>a. 對網路新創產業的熱情 </condition_1>
-                <condition_2>b. 表達能力佳，對與人互動有熱情</condition_2>
-                <condition_3>c. 自我要求高，自律性強</condition_3>
-                <condition_4>d. 找方法，不找理由</condition_4>
-                <condition_5>e. 流暢英語能力為基本要求</condition_5>
-                <interview>請將履歷表 email 至 信箱</interview>
-                <pay>是</pay>
-                <salary>薪資絕對同正職水準，並比照勞基法規定</salary>
+                <title>遊戲活動執行人員</title>
+                <work>配合劇本進行角色扮演，擔任NPC與玩家互動。</work>
+                <condition_1>希望具備外向活潑、開朗不怕生的特質、如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>否(可體驗試玩實境解謎遊戲活動。 每月一次公司內部聚餐。)
+                </pay>
+                <salary>否，請閱上述之</salary>
                 <other></other>
                 <contact>
-                    <person></person>
-                    <phone>
+                    <person>王榮典</person>
+                    <phone>0986-076129
                     </phone>
-                    <mail>jobs@obook.com
-                    </mail>
-                    <link></link>
+                    <mail>mangogamestudio@gmail.com</mail>
                 </contact>
             </intern>
             <intern>
                 <intern_id>2</intern_id>
-                <title>軟體實習生</title>
-                <work>
-                </work>
-                <condition_1>a. 對網路新創產業的熱情 </condition_1>
-                <condition_2>b. 表達能力佳，對與人互動有熱情</condition_2>
-                <condition_3>c. 自我要求高，自律性強</condition_3>
-                <condition_4>d. 找方法，不找理由</condition_4>
-                <condition_5>e. 流暢英語能力為基本要求</condition_5>
-                <interview>請將履歷表 email 至 信箱</interview>
-                <pay>是</pay>
-                <salary>薪資絕對同正職水準，並比照勞基法規定</salary>
+                <title>遊戲企劃討論人員</title>
+                <work>參與新主題的發想與設計規畫。</work>
+                <condition_1>希望具備外向活潑、開朗不怕生的特質 如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>否 可體驗試玩實境解謎遊戲活動。 每月一次公司內部聚餐。
+                </pay>
+                <salary>否，請閱上述之</salary>
                 <other></other>
                 <contact>
-                    <person></person>
-                    <phone>
+                    <person>王榮典</person>
+                    <phone>0986-076129
                     </phone>
-                    <mail>jobs@obook.com
-                    </mail>
-                    <link></link>
+                    <mail>mangogamestudio@gmail.com</mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>3</intern_id>
+                <title>道具美宣製作人員</title>
+                <work>包含文宣形象設計、海報、道具美工等。</work>
+                <condition_1>希望具備外向活潑、開朗不怕生的特質 如有活動規畫、美術設計、文案/劇本編寫、團體活動執行、網頁經營管理等經驗與專長者為佳。
+                </condition_1>
+                <interview>寄送履歷，由公司電郵通知面試
+                </interview>
+                <pay>否 可體驗試玩實境解謎遊戲活動。 每月一次公司內部聚餐。
+                </pay>
+                <salary>否，請閱上述之</salary>
+                <other></other>
+                <contact>
+                    <person>王榮典</person>
+                    <phone>0986-076129
+                    </phone>
+                    <mail>mangogamestudio@gmail.com</mail>
                 </contact>
             </intern>
         </interns>
     </company>
+
+    <company>
+        <ID>25</ID>
+        <type>文創</type>
+        <location>台南</location>
+        <attend>否</attend>
+        <name>來喲layoo</name>
+        <eng-name></eng-name>
+        <intro1>「用一針一線,縫出美好社會!」 [layoo來喲]來自台灣.台南的小巷內,當初也是由一位設計師媽媽ayo,為了撫養小孩,努力不懈地縫製著各式各樣美麗的包包,並以社會企業的理念,曾與台灣原住民媽媽,農村媽媽…共同製作包包. 創立至今屢屢獲得國內外獎項,從文創精品獎,金點設計獎到天下雜誌,日本地球步方,Lonely planet…等國內外媒體的報導,讓台灣的文創作品被國外消費者認可,如今更希望將自己賴以維生的技藝,傳承給柬埔寨偏遠村落,有工作需求的母親們,台灣*柬埔寨母親的攜手合作,建立對孩子的愛！
+        </intro1>
+        <website>https://www.facebook.com/layoobag/?fref=ts</website>
+        <logo>assets/images/logo/layoo.jpg</logo>
+        <interns>
+            <intern>
+                <intern_id>1</intern_id>
+                <title>行銷企劃實習生
+                </title>
+                <work>童畫展覽活動策畫執行、創意市集策畫招商、策畫空間開幕</work>
+                <condition_1>腦子總有怪點子，想辦獨樹一格的企劃活動。
+                </condition_1>
+                <interview> 將個人履歷寄送至信箱
+                </interview>
+                <pay>否
+                </pay>
+                <salary>無</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail>layoobag@gmail.com
+                    </mail>
+                </contact>
+            </intern>
+            <intern>
+                <intern_id>2</intern_id>
+                <title>設計實習生</title>
+                <work>拍攝產品影片照、網站設計
+                </work>
+                <condition_1>具有美感及設計能力。</condition_1>
+                <interview>將個人履歷與作品寄送至信箱</interview>
+                <pay>否</pay>
+                <salary>無</salary>
+                <other></other>
+                <contact>
+                    <person></person>
+                    <phone></phone>
+                    <mail>layoobag@gmail.com</mail>
+                </contact>
+            </intern>
+        </interns>
+    </company>
+   
 </companys>
