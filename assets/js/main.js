@@ -1,32 +1,36 @@
 $(document).ready(function() {
-    $(document).delegate('.open_nav', 'click', function(event) {
-        $(this).addClass('oppenned');
-        event.stopPropagation();
-    })
-    $(document).delegate('body', 'click', function(event) {
-        $('.open_nav').removeClass('oppenned');
-    })
+            $(document).delegate('.open_nav', 'click', function(event) {
+                $(this).addClass('oppenned');
+                event.stopPropagation();
+            })
+            $(document).delegate('body', 'click', function(event) {
+                $('.open_nav').removeClass('oppenned');
+            })
 
-    $(document).delegate('.cls', 'click', function(event) {
-        $('.open_nav').removeClass('oppenned');
-        event.stopPropagation();
-    });
-    $(document).delegate('.sub-menu', 'click', function(event) {
-        $('.open_nav').removeClass('oppenned');
-        event.stopPropagation();
-    });
+            $(document).delegate('.cls', 'click', function(event) {
+                $('.open_nav').removeClass('oppenned');
+                event.stopPropagation();
+            });
+            $(document).delegate('.sub-menu', 'click', function(event) {
+                $('.open_nav').removeClass('oppenned');
+                event.stopPropagation();
+            });
 
-    parallax_scroll();
-    ractive_init_tw(function() {
-        modal();
-    });
-    ractive_init_cn(function() {
-        modal();
-    });
-    Ractive.DEBUG = false;
-    // side_nav();
-    // $('.scrollspy').scrollSpy();
-
+            parallax_scroll();
+            ractive_init_tw(function() {
+                modal();
+            });
+            ractive_init_cn(function() {
+                modal();
+            });
+            Ractive.DEBUG = false;
+            // side_nav();
+            // $('.scrollspy').scrollSpy();
+            console.log("(^ω^):「你知道明天__嗎？」");
+            console.log("          ：Σ(ﾟдﾟ)");
+            console.log("(^ω^)：「開玩笑的。」");
+            console.log("          ：(｡ŏ_ŏ)");
+            console.log("(^ω^)：「其實是前天__」");
 });
 
 function ractive_init_tw(callback) {
