@@ -1,0 +1,159 @@
+/*
+*Modify morphing menu
+*Licensed under the MIT license - http://opensource.org/licenses/MIT
+*Original Website: http://www.jqueryscript.net/menu/Creative-Morphing-Menu-with-jQuery-CSS3.html
+*Copyright (c) 2015 Sergioandrade
+*/
+
+
+.open_nav {
+    position: fixed;
+    padding: 10px;
+    top: 20px;
+    right: 40px;
+    width: 50px;
+    height: 50px;
+    display: block;
+    cursor: pointer;
+    transition: 0.2s linear;
+    background-color: rgba(252, 150, 48, 1);
+    box-shadow:  0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    border-radius: 25px;
+    z-index: 10;
+}
+
+.open_nav:hover {
+	box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
+    /*opacity: 0.8;*/
+}
+
+.open_nav span {
+    box-shadow: 0 0 0px black;
+    display: block;
+    float: left;
+    clear: both;
+    height: 3px;
+    width: 30px;
+    border-radius: 40px;
+    background-color: #fff;
+    position: absolute;
+    top: 4px;
+    margin: 0 auto;
+    overflow: hidden;
+    transition: all 0.4s ease;
+}
+
+.open_nav span:nth-child(1) {
+    margin-top: 10px;
+    z-index: 9;
+}
+
+.open_nav span:nth-child(2) {
+    margin-top: 20px;
+}
+
+.open_nav span:nth-child(3) {
+    margin-top: 30px;
+}
+
+.hide{
+    top:-50px;
+}
+.show{
+    top:20px;
+}
+
+.sub-menu {
+    transition: all 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    height: 0;
+    width: 0;
+    right: 0;
+    top: 0;
+    position: absolute;
+    background-color: rgba(252, 150, 48, 0.54);
+    border-radius: 50%;
+    z-index: 18;
+    overflow: hidden;
+}
+
+.sub-menu li {
+    display: block;
+    float: right;
+    clear: both;
+    height: auto;
+    margin-right: -160px;
+    transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.sub-menu li:first-child {
+    margin-top: 200px;
+}
+
+.sub-menu li:nth-child(1) {
+    -webkit-transition-delay: 0.05s;
+}
+
+.sub-menu li:nth-child(2) {
+    -webkit-transition-delay: 0.10s;
+}
+
+.sub-menu li:nth-child(3) {
+    -webkit-transition-delay: 0.15s;
+}
+
+.sub-menu li:nth-child(4) {
+    -webkit-transition-delay: 0.20s;
+}
+
+.sub-menu li:nth-child(5) {
+    -webkit-transition-delay: 0.25s;
+}
+
+.sub-menu li a {
+    color: #fff;
+    display: block;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    float: left;
+    line-height: 40px;
+    text-shadow: 0 0 1px black;
+    width: 100%;
+}
+
+.oppenned .sub-menu {
+    opacity: 1;
+    height: 400px;
+    width: 400px;
+}
+
+.oppenned span:nth-child(2) {
+    overflow: visible;
+}
+
+.oppenned span:nth-child(1),
+.oppenned span:nth-child(3) {
+    z-index: 100;
+    transform: rotate(45deg);
+}
+
+.oppenned span:nth-child(1) {
+    transform: rotate(45deg) translateY(7px) translateX(9px);
+}
+
+.oppenned span:nth-child(2) {
+    height: 400px;
+    width: 400px;
+    right: -160px;
+    top: -160px;
+    border-radius: 50%;
+    background-color: rgba(252, 150, 48, 0.75)
+}
+
+.oppenned span:nth-child(3) {
+    transform: rotate(-45deg) translateY(-5px) translateX(7px);
+}
+
+.oppenned li {
+    margin-right: 168px;
+}

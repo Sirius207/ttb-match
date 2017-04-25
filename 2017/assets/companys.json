@@ -1,0 +1,112 @@
+{
+    "companys": {
+        "company": [{
+            "ID": "1",
+            "name": "凱鈿行動科技股份有限公司",
+            "eng-name": "Kdan Mobile Software Ltd.",
+            "intro": "凱鈿行動科技創立於2009年，總部位於台灣，另於中國、美國設有分公司；致力打造行動軟體和平台服務，讓您在文書和創意工作中事半功倍。目前全球超過六千萬的用戶共同見證我們高品質的產品與服務，透過凱鈿平台方案，用戶可在不同平台的裝置中創作、發佈、串流專案。在凱鈿，我們致力讓創意與知識無遠弗屆。 由App產品開發擴展成為App平台、 以及提供平台上的各式加值內容與服務是凱鈿的一貫性發展原則， 目前不論是智慧型手機、 平板電腦、 桌上型電腦／ 筆計型電腦， 甚至各式網路平台都已經發展出App線上商店模式， 凱鈿擁有先入者優勢， 所累積的系統、 平台技術開發能量、 全球行銷推廣能力、 以及領先業界的設計體驗， 讓很多世界級大廠主動與我們合作成為伙伴關係， 底下為目前公司的產品發展主軸： 1. 行動辦公室文件編輯服務 2. 多媒體內容創作與影像處理 3. 線上商店與雲端內容服務平台 ",
+            "website": "http://www.kdanmobile.com/zh-tw/",
+            "logo": "assets/images/logo/kdan.jpg",
+            "interns": {
+                "intern": [{
+                    "intern_id": "1",
+                    "title": "行銷助理",
+                    "work": "協助製作產品操作手冊， 協助客服， 經營用戶關係",
+                    "conditions": { "sub-condition": "具備英語能力， 需提供英文能力證明" },
+                    "interview": "5 / 12 由凱鈿行動科技公司通知",
+                    "pay": "是",
+                    "salary": " 薪資： 150 / 小時",
+                    "contact": {
+                        "person": "駱巧珊 Clare Lo",
+                        "phone": "06 - 3131660 #240",
+                        "mail": "clare23@kdammoble.com"
+                    }
+                }, {
+                    "intern_id": "2",
+                    "title": "設計助理",
+                    "work": "處理產品上線相關媒體內容、 平面設計、 影片剪輯",
+                    "condition": {
+                        "sub-condition": [
+                            "平面設計相關軟體熟悉 Photoshop.illustrator",
+                            " \"想學習介面規劃與產品開發流程",
+                            "對使用者具備同理心",
+                            "能融入大團體"
+                        ]
+                    },
+                    "interview": "5 / 12 由凱鈿行動科技公司通知",
+                    "pay": "是",
+                    "salary": "薪資： 150 / 小時",
+                    "contact": {
+                        "person": "駱巧珊 Clare Lo",
+                        "phone": ": \"06 - 3131660 #240\"",
+                        "#text": ",
+                        ",
+                        "mail": ": \"clare23@kdammoble.com\" "
+                    }
+                }]
+            }
+        }, {
+            "ID": "2",
+            "name": "南星創速器",
+            "eng-name": "Sourth Star Xelerator",
+            "intro": "A. 南星創速器SSX 關注高潛力的科技型創業團隊，鎖定的領域包含智能硬體、醫療健康和互聯網應用等三大主軸。SSX 提供初期新創團隊，育成輔導以及直接或間接的天使投資(Angel)等資源，並協助團隊至海內外市場的軟著陸。在後期，則協助規劃團隊的風險投資(Venture Capital)、私募基金(Private Equity)及投資銀行(Investment Banking)的媒合與募資。",
+            "website": "http://www.ssxelerator.com/",
+            "logo": "assets/images/logo/ssx.jpg",
+            "interns": {
+                "intern": [{
+                    "intern_id": "1",
+                    "title": "網站開發實習生",
+                    "work": "根據專案需求開發網站，含網站前端與後端開發。 網站前端，主要負責設計與開發使用者介面與內容呈現的流動布局，以求用戶在網站中得到良好的使用體驗。網站後端主要負責設計與開發網站所需要的功能(如購物車、聊天室、論壇發文回文等等)與資料存取(新增、編輯、刪除、更新等功能)。
+                    ",
+                    "conditions": {
+                        "sub-condition": "具備任一上述技能，[網站前端] HTML5/Javascript/jQuery/RWD CSS template, 如 bootstrap [網站後端] PHP/Mysql or Microsoft SQL Server Driver for PHP"
+                    },
+                    "interview": "由公司電郵通知",
+                    "pay": "是",
+                    "salary": "面議",
+                    "contact": {
+                        "person": "張家瑋",
+                        "mail": "jiaweichang@ssxelerator.com"
+                    }
+                }, {
+                    "intern_id": "2",
+                    "title": "廣告製作與投放實習生",
+                    "work": "廣告素材制訂、企畫撰寫、FB/Google 廣告投放",
+                    "conditions": { "sub-condition": "對行銷領域有研究或興趣者為佳。" },
+                    "interview": "由公司電郵通知",
+                    "pay": "是",
+                    "salary": "面議",
+                    "other": "有遠端工作經驗、有粉絲團經營經驗(有廣告經驗者佳)",
+                    "contact": {
+                        "person": "徐偉倫 - 專案經理",
+                        "mail": "waylonshyu@ssxelerator.com"
+                    }
+                }, {
+                    "intern_id": "3",
+                    "title": "行銷實習生",
+                    "work": "行銷活動企劃與執行，產業外部宣傳",
+                    "conditions": { "sub-condition": "創造力、想像力、社群的熱情，具撰寫專案能力及企劃經驗者佳（詳請附上作品）" },
+                    "interview": "由公司電郵通知",
+                    "pay": "是",
+                    "salary": "面議",
+                    "contact": {
+                        "person": "林怡貞－專案經理",
+                        "mail": "supermo@ssxelerator.com"
+                    }
+                }, {
+                    "intern_id": "4",
+                    "title": "產品分析實習生",
+                    "work": "產品數據分析、資料整理、資訊分析規劃",
+                    "conditions": { "sub-condition": "對數字的敏銳度，善挖掘熱愛分析，沉溺於數字世界裡面讓你感到愉悅及快樂" },
+                    "interview": "由公司電郵通知",
+                    "pay": "是",
+                    "salary": "面議",
+                    "contact": {
+                        "person": "林怡貞－專案經理",
+                        "mail": "supermo@ssxelerator.com"
+                    }
+                }]
+            }
+        }]
+    }
+}
